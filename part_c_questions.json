@@ -1,0 +1,23 @@
+{
+  "category": "丙部",
+  "title": "丙部 - 道路守則",
+  "description": "交通規則與道路安全",
+  "passingScore": 43,
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "C001",
+      "question": "市區的士的車身顏色是______。",
+      "options": {
+        "A": "紅色",
+        "B": "綠色",
+        "C": "藍色",
+        "D": "黃色"
+      },
+      "correctAnswer": "A",
+      "explanation": "香港市區的士車身為紅色，新界的士為綠色，大嶼山的士為藍色。",
+      "difficulty": "easy",
+      "tags": ["的士類別", "基本知識"]
+    }
+  ]
+}

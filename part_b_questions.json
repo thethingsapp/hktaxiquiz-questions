@@ -1,0 +1,23 @@
+{
+  "category": "乙部",
+  "title": "乙部 - 地方試題",
+  "description": "香港地理位置考題",
+  "passingScore": 17,
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "B001",
+      "question": "中環交易廣場位於哪個地區？",
+      "options": {
+        "A": "中環",
+        "B": "金鐘",
+        "C": "灣仔",
+        "D": "上環"
+      },
+      "correctAnswer": "A",
+      "explanation": "交易廣場位於香港島中環干諾道中。",
+      "difficulty": "easy",
+      "tags": ["地標", "中環"]
+    }
+  ]
+}
