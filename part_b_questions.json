@@ -3,7 +3,7 @@
   "title": "地方及路線試題",
   "description": "測試考生對香港地方的認識，以及路線規劃的能力。包括醫院、旅遊景點、酒店、政府樓宇、商業大廈、購物商場、住宅樓宇及大專院校",
   "passingScore": 85,
-  "totalQuestions": 303,
+  "totalQuestions": 308,
   "lastUpdated": "2025-10-24",
   "officialSource": "運輸署地方及路線試題小冊子（2025年2月修訂版）",
   "questions": [
@@ -11,11 +11,11 @@
       "id": "B_001",
       "question": "啟德郵輪碼頭在哪裡？",
       "options": {
-        "A": "承豐道",
-        "B": "柯士甸道西",
-        "C": "源禾路"
+        "A": "灣仔",
+        "B": "太子道西",
+        "C": "承豐道"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "啟德郵輪碼頭位於承豐道。",
       "category": "location",
       "difficulty": "medium"
@@ -24,11 +24,11 @@
       "id": "B_002",
       "question": "香港故宮文化博物館在哪裡？",
       "options": {
-        "A": "博物館道",
-        "B": "金巴利道",
-        "C": "樂富"
+        "A": "通州街",
+        "B": "博物館道",
+        "C": "觀塘"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港故宮文化博物館位於博物館道。",
       "category": "location",
       "difficulty": "medium"
@@ -37,11 +37,11 @@
       "id": "B_003",
       "question": "戲曲中心在哪裡？",
       "options": {
-        "A": "柯士甸道西",
-        "B": "鴨巴甸街",
-        "C": "荃灣"
+        "A": "河內道",
+        "B": "柯士甸道西",
+        "C": "東院道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "戲曲中心位於柯士甸道西。",
       "category": "location",
       "difficulty": "medium"
@@ -50,11 +50,11 @@
       "id": "B_004",
       "question": "香港麗晶酒店在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "鴨脷洲",
-        "C": "長沙灣"
+        "A": "西灣河        商業大廈",
+        "B": "荷李活道",
+        "C": "尖沙咀"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "香港麗晶酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -63,8 +63,8 @@
       "id": "B_005",
       "question": "名迪港島酒店在哪裡？",
       "options": {
-        "A": "280. 港灣豪庭  福利街",
-        "B": "青敬路",
+        "A": "元朗",
+        "B": "小瀝源路",
         "C": "摩頓臺"
       },
       "answer": "C",
@@ -76,11 +76,11 @@
       "id": "B_006",
       "question": "香港富麗敦海洋公園酒店在哪裡？",
       "options": {
-        "A": "鴨巴甸街",
-        "B": "油麻地",
-        "C": "香港仔"
+        "A": "安邦路",
+        "B": "香港仔",
+        "C": "花園道"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "香港富麗敦海洋公園酒店位於香港仔。",
       "category": "location",
       "difficulty": "medium"
@@ -89,8 +89,8 @@
       "id": "B_007",
       "question": "麗豪航天城酒店在哪裡？",
       "options": {
-        "A": "夏慤道",
-        "B": "調景嶺",
+        "A": "西貢",
+        "B": "亞公角街",
         "C": "赤鱲角"
       },
       "answer": "C",
@@ -102,11 +102,11 @@
       "id": "B_008",
       "question": "西九龍政府合署在哪裡？",
       "options": {
-        "A": "海庭道",
-        "B": "南岸  黃竹坑",
-        "C": "加士居道"
+        "A": "青衣",
+        "B": "海庭道",
+        "C": "天水圍"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "西九龍政府合署位於海庭道。",
       "category": "location",
       "difficulty": "medium"
@@ -115,11 +115,11 @@
       "id": "B_009",
       "question": "入境事務處總部在哪裡？",
       "options": {
-        "A": "將軍澳",
-        "B": "東涌",
-        "C": "深旺道"
+        "A": "龍門路",
+        "B": "將軍澳",
+        "C": "太子道西"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "入境事務處總部位於將軍澳。",
       "category": "location",
       "difficulty": "medium"
@@ -128,11 +128,11 @@
       "id": "B_010",
       "question": "機電工程署總部大樓在哪裡？",
       "options": {
-        "A": "小瀝源路",
-        "B": "啟成街",
-        "C": "中環"
+        "A": "啟成街",
+        "B": "上禾輋路",
+        "C": "香港仔"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "機電工程署總部大樓位於啟成街。",
       "category": "location",
       "difficulty": "medium"
@@ -141,11 +141,11 @@
       "id": "B_011",
       "question": "美麗華廣場在哪裡？",
       "options": {
-        "A": "港灣道",
-        "B": "干諾道西",
-        "C": "尖沙咀"
+        "A": "親民街",
+        "B": "尖沙咀",
+        "C": "博物館道"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "美麗華廣場位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -154,11 +154,11 @@
       "id": "B_012",
       "question": "世貿中心在哪裡？",
       "options": {
-        "A": "銅鑼灣",
-        "B": "半山",
-        "C": "告士打道"
+        "A": "告士打道",
+        "B": "藍田",
+        "C": "何文田"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "世貿中心位於告士打道。",
       "category": "location",
       "difficulty": "medium"
@@ -167,9 +167,9 @@
       "id": "B_013",
       "question": "AIRSIDE在哪裡？",
       "options": {
-        "A": "旺角",
+        "A": "荷李活道",
         "B": "啟德",
-        "C": "香港仔"
+        "C": "安平街"
       },
       "answer": "B",
       "explanation": "AIRSIDE位於啟德。",
@@ -180,11 +180,11 @@
       "id": "B_014",
       "question": "圍方在哪裡？",
       "options": {
-        "A": "車公廟路",
-        "B": "旺角",
-        "C": "天水圍"
+        "A": "翠嶺里",
+        "B": "車公廟路",
+        "C": "博物館道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "圍方位於車公廟路。",
       "category": "location",
       "difficulty": "medium"
@@ -193,9 +193,9 @@
       "id": "B_015",
       "question": "APM在哪裡？",
       "options": {
-        "A": "達之路",
+        "A": "上環",
         "B": "觀塘",
-        "C": "通州街"
+        "C": "金鐘"
       },
       "answer": "B",
       "explanation": "APM位於觀塘。",
@@ -206,11 +206,11 @@
       "id": "B_016",
       "question": "V Walk在哪裡？",
       "options": {
-        "A": "深旺道",
-        "B": "沐寧街",
-        "C": "干諾道西"
+        "A": "黃大仙",
+        "B": "深旺道",
+        "C": "震寰路        政府樓宇"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "V Walk位於深旺道。",
       "category": "location",
       "difficulty": "medium"
@@ -219,11 +219,11 @@
       "id": "B_017",
       "question": "富榮花園在哪裡？",
       "options": {
-        "A": "西貢",
-        "B": "海庭道",
-        "C": "福利街"
+        "A": "西灣河        商業大廈",
+        "B": "唐德街",
+        "C": "海庭道"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "富榮花園位於海庭道。",
       "category": "location",
       "difficulty": "medium"
@@ -232,8 +232,8 @@
       "id": "B_018",
       "question": "海山樓在哪裡？",
       "options": {
-        "A": "馬頭角道",
-        "B": "秀茂坪",
+        "A": "九龍城",
+        "B": "北角",
         "C": "鰂魚涌"
       },
       "answer": "C",
@@ -245,11 +245,11 @@
       "id": "B_019",
       "question": "嘉匯在哪裡？",
       "options": {
-        "A": "沐寧街",
-        "B": "柴灣",
-        "C": "偉業街"
+        "A": "夏慤道",
+        "B": "旺角",
+        "C": "沐寧街"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "嘉匯位於沐寧街。",
       "category": "location",
       "difficulty": "medium"
@@ -258,8 +258,8 @@
       "id": "B_020",
       "question": "擎天半島在哪裡？",
       "options": {
-        "A": "沙田坳道",
-        "B": "金鐘道",
+        "A": "朗日路",
+        "B": "中港道",
         "C": "柯士甸道西"
       },
       "answer": "C",
@@ -271,11 +271,11 @@
       "id": "B_021",
       "question": "形點在哪裡？",
       "options": {
-        "A": "旺角",
-        "B": "朗日路",
-        "C": "屯喜路"
+        "A": "朗日路",
+        "B": "鴨巴甸街",
+        "C": "軒尼詩道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "形點位於朗日路。",
       "category": "location",
       "difficulty": "medium"
@@ -284,11 +284,11 @@
       "id": "B_022",
       "question": "聖方濟各大學在哪裡？",
       "options": {
-        "A": "翠嶺里",
-        "B": "啟德",
-        "C": "告士打道"
+        "A": "黃大仙",
+        "B": "渣華道",
+        "C": "翠嶺里"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "聖方濟各大學位於翠嶺里。",
       "category": "location",
       "difficulty": "medium"
@@ -297,9 +297,9 @@
       "id": "B_023",
       "question": "香港置地文華東方酒店在哪裡？",
       "options": {
-        "A": "香港仔",
+        "A": "中環",
         "B": "皇后大道中",
-        "C": "沙田坳道"
+        "C": "上禾輋路"
       },
       "answer": "B",
       "explanation": "香港置地文華東方酒店位於皇后大道中。",
@@ -310,8 +310,8 @@
       "id": "B_024",
       "question": "瑪麗醫院在哪裡？",
       "options": {
-        "A": "南岸  黃竹坑",
-        "B": "福利街",
+        "A": "白田壩街",
+        "B": "大圍",
         "C": "薄扶林"
       },
       "answer": "C",
@@ -323,11 +323,11 @@
       "id": "B_025",
       "question": "威爾斯親王醫院在哪裡？",
       "options": {
-        "A": "沐寧街",
-        "B": "沙田",
-        "C": "永興街"
+        "A": "鴨巴甸街",
+        "B": "柯士甸道西",
+        "C": "沙田"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "威爾斯親王醫院位於沙田。",
       "category": "location",
       "difficulty": "medium"
@@ -336,8 +336,8 @@
       "id": "B_026",
       "question": "贊育醫院在哪裡？",
       "options": {
-        "A": "上海街",
-        "B": "承豐道",
+        "A": "沙田",
+        "B": "銀鑛灣路",
         "C": "西營盤"
       },
       "answer": "C",
@@ -350,8 +350,8 @@
       "question": "東華醫院在哪裡？",
       "options": {
         "A": "上環",
-        "B": "全安路",
-        "C": "汀九"
+        "B": "鰂魚涌",
+        "C": "尖沙咀"
       },
       "answer": "A",
       "explanation": "東華醫院位於上環。",
@@ -362,11 +362,11 @@
       "id": "B_028",
       "question": "東華三院馮堯敬醫院在哪裡？",
       "options": {
-        "A": "金鐘        購物商場",
-        "B": "薄扶林",
-        "C": "忠孝街"
+        "A": "皇后大道中",
+        "B": "大嶼山",
+        "C": "薄扶林"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "東華三院馮堯敬醫院位於薄扶林。",
       "category": "location",
       "difficulty": "medium"
@@ -375,9 +375,9 @@
       "id": "B_029",
       "question": "葛量洪醫院在哪裡？",
       "options": {
-        "A": "皇后大道中",
+        "A": "黃竹坑徑",
         "B": "黃竹坑",
-        "C": "荃灣"
+        "C": "粉嶺"
       },
       "answer": "B",
       "explanation": "葛量洪醫院位於黃竹坑。",
@@ -388,8 +388,8 @@
       "id": "B_030",
       "question": "東華東院在哪裡？",
       "options": {
-        "A": "黃竹坑徑",
-        "B": "寶琳北路",
+        "A": "莊士敦道",
+        "B": "馬頭角道",
         "C": "大坑"
       },
       "answer": "C",
@@ -401,11 +401,11 @@
       "id": "B_031",
       "question": "鄧肇堅醫院在哪裡？",
       "options": {
-        "A": "柴灣",
-        "B": "皇后大道東",
-        "C": "灣仔"
+        "A": "紅磡",
+        "B": "灣仔",
+        "C": "偉業街"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "鄧肇堅醫院位於灣仔。",
       "category": "location",
       "difficulty": "medium"
@@ -414,11 +414,11 @@
       "id": "B_032",
       "question": "律敦治醫院在哪裡？",
       "options": {
-        "A": "柯士甸道西",
-        "B": "灣仔",
-        "C": "荔灣道"
+        "A": "大嶼山",
+        "B": "金鐘道",
+        "C": "灣仔"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "律敦治醫院位於灣仔。",
       "category": "location",
       "difficulty": "medium"
@@ -427,11 +427,11 @@
       "id": "B_033",
       "question": "黃竹坑醫院在哪裡？",
       "options": {
-        "A": "達之路",
-        "B": "灣仔",
-        "C": "黃竹坑徑"
+        "A": "黃竹坑徑",
+        "B": "摩頓臺",
+        "C": "深旺道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "黃竹坑醫院位於黃竹坑徑。",
       "category": "location",
       "difficulty": "medium"
@@ -440,11 +440,11 @@
       "id": "B_034",
       "question": "伊利沙伯醫院在哪裡？",
       "options": {
-        "A": "永興街",
-        "B": "鴨巴甸街",
-        "C": "油麻地"
+        "A": "金鐘道",
+        "B": "油麻地",
+        "C": "震寰路        政府樓宇"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "伊利沙伯醫院位於油麻地。",
       "category": "location",
       "difficulty": "medium"
@@ -453,11 +453,11 @@
       "id": "B_035",
       "question": "九龍醫院在哪裡？",
       "options": {
-        "A": "九龍城",
-        "B": "旺角",
-        "C": "德輔道中"
+        "A": "馬灣",
+        "B": "142. 港島海逸君綽酒店  北角",
+        "C": "九龍城"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "九龍醫院位於九龍城。",
       "category": "location",
       "difficulty": "medium"
@@ -466,11 +466,11 @@
       "id": "B_036",
       "question": "香港佛教醫院在哪裡？",
       "options": {
-        "A": "汀角路",
-        "B": "元州街",
-        "C": "樂富"
+        "A": "樂富",
+        "B": "荷李活道",
+        "C": "興芳路"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港佛教醫院位於樂富。",
       "category": "location",
       "difficulty": "medium"
@@ -479,9 +479,9 @@
       "id": "B_037",
       "question": "香港眼科醫院在哪裡？",
       "options": {
-        "A": "新寧道",
+        "A": "屯門",
         "B": "九龍城",
-        "C": "達之路"
+        "C": "樂富"
       },
       "answer": "B",
       "explanation": "香港眼科醫院位於九龍城。",
@@ -493,8 +493,8 @@
       "question": "東華三院黃大仙醫院在哪裡？",
       "options": {
         "A": "沙田坳道",
-        "B": "福利街",
-        "C": "將軍澳"
+        "B": "龍門路",
+        "C": "黃大仙"
       },
       "answer": "A",
       "explanation": "東華三院黃大仙醫院位於沙田坳道。",
@@ -505,11 +505,11 @@
       "id": "B_039",
       "question": "聖母醫院在哪裡？",
       "options": {
-        "A": "西樓角路",
-        "B": "九龍灣",
-        "C": "黃大仙"
+        "A": "安平街",
+        "B": "黃大仙",
+        "C": "馬頭角道"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "聖母醫院位於黃大仙。",
       "category": "location",
       "difficulty": "medium"
@@ -518,9 +518,9 @@
       "id": "B_040",
       "question": "廣華醫院在哪裡？",
       "options": {
-        "A": "安邦路",
+        "A": "亞公角街",
         "B": "油麻地",
-        "C": "鴨脷洲"
+        "C": "黃竹坑徑"
       },
       "answer": "B",
       "explanation": "廣華醫院位於油麻地。",
@@ -531,11 +531,11 @@
       "id": "B_041",
       "question": "播道醫院在哪裡？",
       "options": {
-        "A": "南岸  黃竹坑",
-        "B": "花園道",
-        "C": "九龍城"
+        "A": "元州街",
+        "B": "九龍城",
+        "C": "摩頓臺"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "播道醫院位於九龍城。",
       "category": "location",
       "difficulty": "medium"
@@ -544,9 +544,9 @@
       "id": "B_042",
       "question": "聖德肋撒醫院在哪裡？",
       "options": {
-        "A": "汀角路",
+        "A": "青敬路",
         "B": "九龍城",
-        "C": "新寧道"
+        "C": "銅鑼灣"
       },
       "answer": "B",
       "explanation": "聖德肋撒醫院位於九龍城。",
@@ -557,11 +557,11 @@
       "id": "B_043",
       "question": "香港浸信會醫院在哪裡？",
       "options": {
-        "A": "黃大仙",
-        "B": "九龍塘",
-        "C": "中環"
+        "A": "觀塘",
+        "B": "山頂道",
+        "C": "九龍塘"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "香港浸信會醫院位於九龍塘。",
       "category": "location",
       "difficulty": "medium"
@@ -570,8 +570,8 @@
       "id": "B_044",
       "question": "荃灣港安醫院在哪裡？",
       "options": {
-        "A": "德輔道中",
-        "B": "源禾路",
+        "A": "朗日路",
+        "B": "小瀝源路",
         "C": "荃景圍"
       },
       "answer": "C",
@@ -583,11 +583,11 @@
       "id": "B_045",
       "question": "青山醫院在哪裡？",
       "options": {
-        "A": "屯門",
-        "B": "唐德街",
-        "C": "安邦路"
+        "A": "元州街",
+        "B": "屯門",
+        "C": "馬灣"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "青山醫院位於屯門。",
       "category": "location",
       "difficulty": "medium"
@@ -596,11 +596,11 @@
       "id": "B_046",
       "question": "小欖醫院在哪裡？",
       "options": {
-        "A": "142. 港島海逸君綽酒店  北角",
-        "B": "東涌",
-        "C": "青松觀路"
+        "A": "青松觀路",
+        "B": "旺角",
+        "C": "九龍灣"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "小欖醫院位於青松觀路。",
       "category": "location",
       "difficulty": "medium"
@@ -609,11 +609,11 @@
       "id": "B_047",
       "question": "北大嶼山醫院在哪裡？",
       "options": {
-        "A": "跑馬地",
-        "B": "松仁路",
-        "C": "西貢"
+        "A": "松仁路",
+        "B": "荔景",
+        "C": "法院道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "北大嶼山醫院位於松仁路。",
       "category": "location",
       "difficulty": "medium"
@@ -622,11 +622,11 @@
       "id": "B_048",
       "question": "天水圍醫院在哪裡？",
       "options": {
-        "A": "黃竹坑徑",
-        "B": "天壇街",
-        "C": "啟成街"
+        "A": "何文田",
+        "B": "汀九",
+        "C": "天壇街"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "天水圍醫院位於天壇街。",
       "category": "location",
       "difficulty": "medium"
@@ -635,11 +635,11 @@
       "id": "B_049",
       "question": "港怡醫院在哪裡？",
       "options": {
-        "A": "博物館道",
-        "B": "白田壩街",
-        "C": "黃竹坑"
+        "A": "黃竹坑",
+        "B": "何文田",
+        "C": "龍琛路"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "港怡醫院位於黃竹坑。",
       "category": "location",
       "difficulty": "medium"
@@ -649,8 +649,8 @@
       "question": "香港兒童醫院在哪裡？",
       "options": {
         "A": "九龍灣",
-        "B": "皇后大道東",
-        "C": "九龍塘"
+        "B": "樂富",
+        "C": "橋樂坊"
       },
       "answer": "A",
       "explanation": "香港兒童醫院位於九龍灣。",
@@ -661,11 +661,11 @@
       "id": "B_051",
       "question": "香港中文大學醫院在哪裡？",
       "options": {
-        "A": "大坑",
-        "B": "澤祥街",
-        "C": "沙田"
+        "A": "澤祥街",
+        "B": "灣仔",
+        "C": "河內道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "香港中文大學醫院位於澤祥街。",
       "category": "location",
       "difficulty": "medium"
@@ -674,11 +674,11 @@
       "id": "B_052",
       "question": "星光大道在哪裡？",
       "options": {
-        "A": "安平街",
-        "B": "尖沙咀",
-        "C": "翠嶺里"
+        "A": "尖沙咀",
+        "B": "鯉魚門道",
+        "C": "西灣河        商業大廈"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "星光大道位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -687,8 +687,8 @@
       "id": "B_053",
       "question": "金紫荊廣場在哪裡？",
       "options": {
-        "A": "- 東涌纜車",
-        "B": "法院道",
+        "A": "西灣河        商業大廈",
+        "B": "柴灣",
         "C": "灣仔"
       },
       "answer": "C",
@@ -700,11 +700,11 @@
       "id": "B_054",
       "question": "香港迪士尼樂園在哪裡？",
       "options": {
-        "A": "竹篙灣",
-        "B": "中港道",
-        "C": "忠孝街"
+        "A": "告士打道",
+        "B": "竹篙灣",
+        "C": "安平街"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港迪士尼樂園位於竹篙灣。",
       "category": "location",
       "difficulty": "medium"
@@ -713,11 +713,11 @@
       "id": "B_055",
       "question": "香港濕地公園在哪裡？",
       "options": {
-        "A": "金鐘道",
-        "B": "天水圍",
-        "C": "永興街"
+        "A": "天水圍",
+        "B": "藍田",
+        "C": "汀角路"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "香港濕地公園位於天水圍。",
       "category": "location",
       "difficulty": "medium"
@@ -726,11 +726,11 @@
       "id": "B_056",
       "question": "玉器市場在哪裡？",
       "options": {
-        "A": "油麻地",
-        "B": "沙田坳道",
-        "C": "105. 皇家太平洋酒店  尖沙咀"
+        "A": "昂坪",
+        "B": "法院道",
+        "C": "油麻地"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "玉器市場位於油麻地。",
       "category": "location",
       "difficulty": "medium"
@@ -739,11 +739,11 @@
       "id": "B_057",
       "question": "沙田車公廟在哪裡？",
       "options": {
-        "A": "軒尼詩道",
-        "B": "英皇道",
-        "C": "大圍"
+        "A": "大圍",
+        "B": "鯉魚門道",
+        "C": "鴨脷洲"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "沙田車公廟位於大圍。",
       "category": "location",
       "difficulty": "medium"
@@ -752,8 +752,8 @@
       "id": "B_058",
       "question": "文武廟在哪裡？",
       "options": {
-        "A": "小瀝源",
-        "B": "赤鱲角",
+        "A": "南岸  黃竹坑",
+        "B": "天壇街",
         "C": "上環"
       },
       "answer": "C",
@@ -765,11 +765,11 @@
       "id": "B_059",
       "question": "君怡酒店在哪裡？",
       "options": {
-        "A": "沐寧街",
-        "B": "金鐘",
-        "C": "尖沙咀"
+        "A": "中環",
+        "B": "尖沙咀",
+        "C": "德輔道中"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "君怡酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -778,8 +778,8 @@
       "id": "B_060",
       "question": "林村許願廣場在哪裡？",
       "options": {
-        "A": "西貢",
-        "B": "鯉魚門道",
+        "A": "啟德",
+        "B": "福利街",
         "C": "大埔"
       },
       "answer": "C",
@@ -791,11 +791,11 @@
       "id": "B_061",
       "question": "龍躍頭文物徑在哪裡？",
       "options": {
-        "A": "啟成街",
-        "B": "粉嶺",
-        "C": "汀角路"
+        "A": "粉嶺",
+        "B": "白田壩街",
+        "C": "青松觀路"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "龍躍頭文物徑位於粉嶺。",
       "category": "location",
       "difficulty": "medium"
@@ -804,11 +804,11 @@
       "id": "B_062",
       "question": "美利樓在哪裡？",
       "options": {
-        "A": "掃管笏",
-        "B": "赤柱",
-        "C": "荃灣"
+        "A": "元州街",
+        "B": "掃管笏",
+        "C": "赤柱"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "美利樓位於赤柱。",
       "category": "location",
       "difficulty": "medium"
@@ -817,11 +817,11 @@
       "id": "B_063",
       "question": "和昌大押在哪裡？",
       "options": {
-        "A": "莊士敦道",
-        "B": "太子道西",
-        "C": "鑽石山"
+        "A": "屯喜路",
+        "B": "莊士敦道",
+        "C": "九龍城"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "和昌大押位於莊士敦道。",
       "category": "location",
       "difficulty": "medium"
@@ -830,11 +830,11 @@
       "id": "B_064",
       "question": "大館在哪裡？",
       "options": {
-        "A": "大嶼山",
-        "B": "荷李活道",
-        "C": "金鐘        購物商場"
+        "A": "荷李活道",
+        "B": "大角咀",
+        "C": "秀茂坪"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "大館位於荷李活道。",
       "category": "location",
       "difficulty": "medium"
@@ -843,8 +843,8 @@
       "id": "B_065",
       "question": "香港藝術館在哪裡？",
       "options": {
-        "A": "汀角路",
-        "B": "梳士巴利道",
+        "A": "黃竹坑",
+        "B": "鴨巴甸街",
         "C": "尖沙咀"
       },
       "answer": "C",
@@ -856,8 +856,8 @@
       "id": "B_066",
       "question": "8度海逸酒 店 土瓜灣在哪裡？",
       "options": {
-        "A": "渣華道",
-        "B": "朗日路",
+        "A": "沙田",
+        "B": "北角",
         "C": "105. 皇家太平洋酒店  尖沙咀"
       },
       "answer": "C",
@@ -869,11 +869,11 @@
       "id": "B_067",
       "question": "九龍海逸君綽酒店在哪裡？",
       "options": {
-        "A": "璧峰路",
-        "B": "紅磡",
-        "C": "沐寧街"
+        "A": "紅磡",
+        "B": "跑馬地",
+        "C": "灣仔"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "九龍海逸君綽酒店位於紅磡。",
       "category": "location",
       "difficulty": "medium"
@@ -882,11 +882,11 @@
       "id": "B_068",
       "question": "九龍維景酒店在哪裡？",
       "options": {
-        "A": "荷李活道",
-        "B": "何文田",
-        "C": "中環"
+        "A": "何文田",
+        "B": "調景嶺",
+        "C": "加士居道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "九龍維景酒店位於何文田。",
       "category": "location",
       "difficulty": "medium"
@@ -896,8 +896,8 @@
       "question": "九龍酒店在哪裡？",
       "options": {
         "A": "尖沙咀",
-        "B": "上海街",
-        "C": "九龍城"
+        "B": "鴻圖道",
+        "C": "鰂魚涌"
       },
       "answer": "A",
       "explanation": "九龍酒店位於尖沙咀。",
@@ -908,11 +908,11 @@
       "id": "B_070",
       "question": "九龍香格里拉大酒店在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "西貢",
-        "C": "馬頭角道"
+        "A": "承豐道",
+        "B": "觀塘",
+        "C": "尖沙咀"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "九龍香格里拉大酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -921,9 +921,9 @@
       "id": "B_071",
       "question": "六國酒店在哪裡？",
       "options": {
-        "A": "馬鞍山",
+        "A": "西營盤",
         "B": "灣仔",
-        "C": "新寧道"
+        "C": "璧峰路"
       },
       "answer": "B",
       "explanation": "六國酒店位於灣仔。",
@@ -934,11 +934,11 @@
       "id": "B_072",
       "question": "北角海逸酒店在哪裡？",
       "options": {
-        "A": "黃竹坑",
-        "B": "英皇道",
-        "C": "荃景圍"
+        "A": "英皇道",
+        "B": "安平街",
+        "C": "南岸  黃竹坑"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "北角海逸酒店位於英皇道。",
       "category": "location",
       "difficulty": "medium"
@@ -947,11 +947,11 @@
       "id": "B_073",
       "question": "香港天際萬豪酒店在哪裡？",
       "options": {
-        "A": "宜正里",
-        "B": "赤鱲角",
-        "C": "沙田"
+        "A": "觀塘",
+        "B": "小瀝源",
+        "C": "赤鱲角"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "香港天際萬豪酒店位於赤鱲角。",
       "category": "location",
       "difficulty": "medium"
@@ -960,11 +960,11 @@
       "id": "B_074",
       "question": "香港康得思酒店在哪裡？",
       "options": {
-        "A": "沐寧街",
-        "B": "上海街",
-        "C": "全安路"
+        "A": "上水",
+        "B": "屯喜路",
+        "C": "上海街"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "香港康得思酒店位於上海街。",
       "category": "location",
       "difficulty": "medium"
@@ -973,11 +973,11 @@
       "id": "B_075",
       "question": "香港文華東方酒店在哪裡？",
       "options": {
-        "A": "中環",
-        "B": "中港道",
-        "C": "142. 港島海逸君綽酒店  北角"
+        "A": "粉嶺",
+        "B": "赤鱲角",
+        "C": "中環"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "香港文華東方酒店位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -986,11 +986,11 @@
       "id": "B_076",
       "question": "香港朗廷酒店在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "亞皆老街",
-        "C": "柯士甸道西"
+        "A": "屯門",
+        "B": "尖沙咀",
+        "C": "深水埗"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港朗廷酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -999,11 +999,11 @@
       "id": "B_077",
       "question": "香港沙田凱悅酒店在哪裡？",
       "options": {
-        "A": "汀角路",
-        "B": "紅磡",
-        "C": "澤祥街"
+        "A": "澤祥街",
+        "B": "鑽石山",
+        "C": "鴻圖道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港沙田凱悅酒店位於澤祥街。",
       "category": "location",
       "difficulty": "medium"
@@ -1012,11 +1012,11 @@
       "id": "B_078",
       "question": "香港港麗酒店在哪裡？",
       "options": {
-        "A": "金鐘",
-        "B": "梳士巴利道",
-        "C": "紅磡"
+        "A": "通州街",
+        "B": "達之路",
+        "C": "金鐘"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "香港港麗酒店位於金鐘。",
       "category": "location",
       "difficulty": "medium"
@@ -1025,9 +1025,9 @@
       "id": "B_079",
       "question": "香港灣仔帝盛酒店在哪裡？",
       "options": {
-        "A": "興芳路",
+        "A": "元朗",
         "B": "皇后大道東",
-        "C": "屯喜路"
+        "C": "北角"
       },
       "answer": "B",
       "explanation": "香港灣仔帝盛酒店位於皇后大道東。",
@@ -1038,8 +1038,8 @@
       "id": "B_080",
       "question": "香港珀麗酒店在哪裡？",
       "options": {
-        "A": "青敬路",
-        "B": "馬頭圍道",
+        "A": "唐德街",
+        "B": "天水圍",
         "C": "銅鑼灣"
       },
       "answer": "C",
@@ -1051,8 +1051,8 @@
       "id": "B_081",
       "question": "香港百樂酒店在哪裡？",
       "options": {
-        "A": "唐德街",
-        "B": "柯士甸道西",
+        "A": "寶寧里",
+        "B": "金鐘道",
         "C": "尖沙咀"
       },
       "answer": "C",
@@ -1064,11 +1064,11 @@
       "id": "B_082",
       "question": "粵海華美灣際酒店在哪裡？",
       "options": {
-        "A": "澤祥街",
-        "B": "灣仔",
-        "C": "清水灣"
+        "A": "金鐘",
+        "B": "屯門",
+        "C": "灣仔"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "粵海華美灣際酒店位於灣仔。",
       "category": "location",
       "difficulty": "medium"
@@ -1077,11 +1077,11 @@
       "id": "B_083",
       "question": "香港萬麗海景酒 店 灣仔在哪裡？",
       "options": {
-        "A": "朗日路",
-        "B": "142. 港島海逸君綽酒店  北角",
-        "C": "山頂"
+        "A": "142. 港島海逸君綽酒店  北角",
+        "B": "河內道",
+        "C": "皇后大道中"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "香港萬麗海景酒 店 灣仔位於142. 港島海逸君綽酒店  北角。",
       "category": "location",
       "difficulty": "medium"
@@ -1090,11 +1090,11 @@
       "id": "B_084",
       "question": "-- -- 144. 港島香格里拉大酒店在哪裡？",
       "options": {
-        "A": "法院道",
-        "B": "上禾輋路",
-        "C": "亞公角街"
+        "A": "屯喜路",
+        "B": "法院道",
+        "C": "太子道西"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "-- -- 144. 港島香格里拉大酒店位於法院道。",
       "category": "location",
       "difficulty": "medium"
@@ -1103,11 +1103,11 @@
       "id": "B_085",
       "question": "香港金域假日酒店在哪裡？",
       "options": {
-        "A": "偉業街",
-        "B": "尖沙咀",
-        "C": "楊屋道"
+        "A": "柴灣",
+        "B": "樂富",
+        "C": "尖沙咀"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "香港金域假日酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -1116,11 +1116,11 @@
       "id": "B_086",
       "question": "香港黃金海岸酒店在哪裡？",
       "options": {
-        "A": "掃管笏",
-        "B": "摩頓臺",
-        "C": "安華街"
+        "A": "銅鑼灣",
+        "B": "九龍塘",
+        "C": "掃管笏"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "香港黃金海岸酒店位於掃管笏。",
       "category": "location",
       "difficulty": "medium"
@@ -1129,11 +1129,11 @@
       "id": "B_087",
       "question": "馬哥孛羅香港酒店在哪裡？",
       "options": {
-        "A": "馬鞍山",
-        "B": "尖沙咀",
-        "C": "香港仔"
+        "A": "尖沙咀",
+        "B": "朗日路",
+        "C": "達之路"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "馬哥孛羅香港酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -1142,11 +1142,11 @@
       "id": "B_088",
       "question": "麗豪酒店在哪裡？",
       "options": {
-        "A": "何文田",
-        "B": "沙田",
-        "C": "金鐘        購物商場"
+        "A": "唐德街",
+        "B": "青衣",
+        "C": "沙田"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "麗豪酒店位於沙田。",
       "category": "location",
       "difficulty": "medium"
@@ -1155,11 +1155,11 @@
       "id": "B_089",
       "question": "香港 W酒店在哪裡？",
       "options": {
-        "A": "九龍灣",
-        "B": "花園道",
-        "C": "柯士甸道西"
+        "A": "鴨脷洲",
+        "B": "柯士甸道西",
+        "C": "灣仔"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "香港 W酒店位於柯士甸道西。",
       "category": "location",
       "difficulty": "medium"
@@ -1168,8 +1168,8 @@
       "id": "B_090",
       "question": "香港 JW萬豪酒店在哪裡？",
       "options": {
-        "A": "鴻圖道",
-        "B": "鴨脷洲",
+        "A": "佐敦",
+        "B": "朗日路",
         "C": "金鐘道"
       },
       "answer": "C",
@@ -1181,11 +1181,11 @@
       "id": "B_091",
       "question": "香港嘉里酒店在哪裡？",
       "options": {
-        "A": "新寧道",
-        "B": "澤祥街",
-        "C": "紅磡"
+        "A": "紅磡",
+        "B": "九龍城",
+        "C": "海庭道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港嘉里酒店位於紅磡。",
       "category": "location",
       "difficulty": "medium"
@@ -1195,8 +1195,8 @@
       "question": "香港尖沙咀凱悦酒店在哪裡？",
       "options": {
         "A": "河內道",
-        "B": "加士居道",
-        "C": "青敬路"
+        "B": "何文田",
+        "C": "唐德街"
       },
       "answer": "A",
       "explanation": "香港尖沙咀凱悦酒店位於河內道。",
@@ -1207,11 +1207,11 @@
       "id": "B_093",
       "question": "香港屯門貝爾特酒店在哪裡？",
       "options": {
-        "A": "澤祥街",
-        "B": "142. 港島海逸君綽酒店  北角",
-        "C": "震寰路        政府樓宇"
+        "A": "震寰路        政府樓宇",
+        "B": "藍田",
+        "C": "長沙灣道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港屯門貝爾特酒店位於震寰路        政府樓宇。",
       "category": "location",
       "difficulty": "medium"
@@ -1220,11 +1220,11 @@
       "id": "B_094",
       "question": "香港旺角帝盛酒店在哪裡？",
       "options": {
-        "A": "昂坪",
-        "B": "大角咀",
-        "C": "秀茂坪"
+        "A": "荔灣道",
+        "B": "承豐道",
+        "C": "大角咀"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "香港旺角帝盛酒店位於大角咀。",
       "category": "location",
       "difficulty": "medium"
@@ -1233,9 +1233,9 @@
       "id": "B_095",
       "question": "香港東隅在哪裡？",
       "options": {
-        "A": "上水",
+        "A": "荔灣道",
         "B": "鰂魚涌",
-        "C": "荔景"
+        "C": "璧峰路"
       },
       "answer": "B",
       "explanation": "香港東隅位於鰂魚涌。",
@@ -1246,9 +1246,9 @@
       "id": "B_096",
       "question": "香港沙田萬怡酒店在哪裡？",
       "options": {
-        "A": "柯士甸道 西",
+        "A": "南岸  黃竹坑",
         "B": "安平街",
-        "C": "上海街"
+        "C": "東院道"
       },
       "answer": "B",
       "explanation": "香港沙田萬怡酒店位於安平街。",
@@ -1259,11 +1259,11 @@
       "id": "B_097",
       "question": "香港瑰麗酒店在哪裡？",
       "options": {
-        "A": "太子道西",
-        "B": "荔灣道",
-        "C": "尖沙咀"
+        "A": "尖沙咀",
+        "B": "小瀝源路",
+        "C": "澤祥街"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港瑰麗酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -1272,11 +1272,11 @@
       "id": "B_098",
       "question": "香港美利酒店在哪裡？",
       "options": {
-        "A": "中環",
-        "B": "皇后大道中",
-        "C": "黃大仙"
+        "A": "柯士甸道 西",
+        "B": "中環",
+        "C": "掃管笏"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港美利酒店位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -1286,8 +1286,8 @@
       "question": "香港萬怡酒店在哪裡？",
       "options": {
         "A": "干諾道西",
-        "B": "通州街",
-        "C": "博物館道"
+        "B": "竹篙灣",
+        "C": "寶寧里"
       },
       "answer": "A",
       "explanation": "香港萬怡酒店位於干諾道西。",
@@ -1298,8 +1298,8 @@
       "id": "B_100",
       "question": "香港觀塘帝盛酒店在哪裡？",
       "options": {
-        "A": "博物館道",
-        "B": "大圍",
+        "A": "香港仔",
+        "B": "英皇道",
         "C": "鴻圖道"
       },
       "answer": "C",
@@ -1311,8 +1311,8 @@
       "id": "B_101",
       "question": "香港迪士尼樂園酒店在哪裡？",
       "options": {
-        "A": "天壇街",
-        "B": "將軍澳",
+        "A": "- 東涌纜車",
+        "B": "英皇道",
         "C": "竹篙灣"
       },
       "answer": "C",
@@ -1324,11 +1324,11 @@
       "id": "B_102",
       "question": "香港逸東酒店在哪裡？",
       "options": {
-        "A": "聯運街",
-        "B": "黃竹坑",
-        "C": "佐敦"
+        "A": "佐敦",
+        "B": "啟德",
+        "C": "金巴利道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港逸東酒店位於佐敦。",
       "category": "location",
       "difficulty": "medium"
@@ -1337,11 +1337,11 @@
       "id": "B_103",
       "question": "香港麗思卡爾頓酒店在哪裡？",
       "options": {
-        "A": "柯士甸道 西",
-        "B": "荔景",
-        "C": "上環"
+        "A": "尖沙咀",
+        "B": "280. 港灣豪庭  福利街",
+        "C": "柯士甸道 西"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "香港麗思卡爾頓酒店位於柯士甸道 西。",
       "category": "location",
       "difficulty": "medium"
@@ -1350,11 +1350,11 @@
       "id": "B_104",
       "question": "帝逸酒店在哪裡？",
       "options": {
-        "A": "澤祥街",
-        "B": "金鐘",
-        "C": "沙田"
+        "A": "璧峰路",
+        "B": "沙田",
+        "C": "北角"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "帝逸酒店位於沙田。",
       "category": "location",
       "difficulty": "medium"
@@ -1363,9 +1363,9 @@
       "id": "B_105",
       "question": "WM酒店在哪裡？",
       "options": {
-        "A": "港灣道",
+        "A": "富健街",
         "B": "西貢",
-        "C": "赤柱"
+        "C": "秀茂坪"
       },
       "answer": "B",
       "explanation": "WM酒店位於西貢。",
@@ -1376,11 +1376,11 @@
       "id": "B_106",
       "question": "西貢政府合署在哪裡？",
       "options": {
-        "A": "親民街",
-        "B": "大坑",
-        "C": "加士居道"
+        "A": "朗日路",
+        "B": "通州街",
+        "C": "親民街"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "西貢政府合署位於親民街。",
       "category": "location",
       "difficulty": "medium"
@@ -1389,9 +1389,9 @@
       "id": "B_107",
       "question": "沙田政府合署在哪裡？",
       "options": {
-        "A": "青松觀路",
+        "A": "南岸  黃竹坑",
         "B": "上禾輋路",
-        "C": "尖沙咀"
+        "C": "全安路"
       },
       "answer": "B",
       "explanation": "沙田政府合署位於上禾輋路。",
@@ -1402,11 +1402,11 @@
       "id": "B_108",
       "question": "深水埗政府合署在哪裡？",
       "options": {
-        "A": "元州街",
-        "B": "銀鑛灣路",
-        "C": "薄扶林"
+        "A": "馬頭角道",
+        "B": "元州街",
+        "C": "中港道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "深水埗政府合署位於元州街。",
       "category": "location",
       "difficulty": "medium"
@@ -1415,11 +1415,11 @@
       "id": "B_109",
       "question": "大興政府合署在哪裡？",
       "options": {
-        "A": "元朗",
-        "B": "屯門",
-        "C": "河內道"
+        "A": "屯喜路",
+        "B": "竹篙灣",
+        "C": "屯門"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "大興政府合署位於屯門。",
       "category": "location",
       "difficulty": "medium"
@@ -1428,9 +1428,9 @@
       "id": "B_110",
       "question": "大埔政府合署在哪裡？",
       "options": {
-        "A": "青松觀路",
+        "A": "西貢",
         "B": "汀角路",
-        "C": "軒尼詩道"
+        "C": "屯喜路"
       },
       "answer": "B",
       "explanation": "大埔政府合署位於汀角路。",
@@ -1441,11 +1441,11 @@
       "id": "B_111",
       "question": "土瓜灣政府合署在哪裡？",
       "options": {
-        "A": "金巴利道",
-        "B": "馬頭圍道",
-        "C": "藍田"
+        "A": "馬頭圍道",
+        "B": "荔景",
+        "C": "長沙灣"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "土瓜灣政府合署位於馬頭圍道。",
       "category": "location",
       "difficulty": "medium"
@@ -1454,11 +1454,11 @@
       "id": "B_112",
       "question": "荃灣政府合署在哪裡？",
       "options": {
-        "A": "何文田",
-        "B": "中環",
-        "C": "西樓角路"
+        "A": "西樓角路",
+        "B": "280. 港灣豪庭  福利街",
+        "C": "橋樂坊"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "荃灣政府合署位於西樓角路。",
       "category": "location",
       "difficulty": "medium"
@@ -1467,9 +1467,9 @@
       "id": "B_113",
       "question": "屯門政府合署在哪裡？",
       "options": {
-        "A": "跑馬地",
+        "A": "新寧道",
         "B": "屯喜路",
-        "C": "興芳路"
+        "C": "小瀝源路"
       },
       "answer": "B",
       "explanation": "屯門政府合署位於屯喜路。",
@@ -1480,11 +1480,11 @@
       "id": "B_114",
       "question": "元朗政府合署在哪裡？",
       "options": {
-        "A": "英皇道",
-        "B": "鴨巴甸街",
-        "C": "橋樂坊"
+        "A": "橋樂坊",
+        "B": "中環",
+        "C": "金鐘道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "元朗政府合署位於橋樂坊。",
       "category": "location",
       "difficulty": "medium"
@@ -1493,11 +1493,11 @@
       "id": "B_115",
       "question": "觀塘區警署在哪裡？",
       "options": {
-        "A": "將軍澳",
-        "B": "鯉魚門道",
-        "C": "上禾輋路"
+        "A": "280. 港灣豪庭  福利街",
+        "B": "馬鞍山",
+        "C": "鯉魚門道"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "觀塘區警署位於鯉魚門道。",
       "category": "location",
       "difficulty": "medium"
@@ -1506,11 +1506,11 @@
       "id": "B_116",
       "question": "旺角區警署在哪裡？",
       "options": {
-        "A": "大埔",
-        "B": "寶寧里",
-        "C": "太子道西"
+        "A": "太子道西",
+        "B": "天壇街",
+        "C": "達之路"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "旺角區警署位於太子道西。",
       "category": "location",
       "difficulty": "medium"
@@ -1519,11 +1519,11 @@
       "id": "B_117",
       "question": "將軍澳區警署在哪裡？",
       "options": {
-        "A": "新寧道",
-        "B": "寶琳北路",
-        "C": "薄扶林"
+        "A": "寶琳北路",
+        "B": "深水埗",
+        "C": "軒尼詩道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "將軍澳區警署位於寶琳北路。",
       "category": "location",
       "difficulty": "medium"
@@ -1532,11 +1532,11 @@
       "id": "B_118",
       "question": "荃灣區警署在哪裡？",
       "options": {
-        "A": "白田壩街",
-        "B": "荃景圍",
-        "C": "震寰路        政府樓宇"
+        "A": "英皇道",
+        "B": "翠嶺里",
+        "C": "荃景圍"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "荃灣區警署位於荃景圍。",
       "category": "location",
       "difficulty": "medium"
@@ -1545,11 +1545,11 @@
       "id": "B_119",
       "question": "中區警區總部在哪裡？",
       "options": {
-        "A": "中港道",
-        "B": "昂坪",
-        "C": "西營盤"
+        "A": "承豐道",
+        "B": "中港道",
+        "C": "震寰路        政府樓宇"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "中區警區總部位於中港道。",
       "category": "location",
       "difficulty": "medium"
@@ -1558,11 +1558,11 @@
       "id": "B_120",
       "question": "東區法院大樓在哪裡？",
       "options": {
-        "A": "西灣河        商業大廈",
-        "B": "調景嶺",
-        "C": "鯉魚門道"
+        "A": "全安路",
+        "B": "啟成街",
+        "C": "西灣河        商業大廈"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "東區法院大樓位於西灣河        商業大廈。",
       "category": "location",
       "difficulty": "medium"
@@ -1571,11 +1571,11 @@
       "id": "B_121",
       "question": "終審法院在哪裡？",
       "options": {
-        "A": "中環",
-        "B": "黃大仙",
-        "C": "小瀝源路"
+        "A": "荔灣道",
+        "B": "中環",
+        "C": "屯門"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "終審法院位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -1584,9 +1584,9 @@
       "id": "B_122",
       "question": "立法會綜合大樓在哪裡？",
       "options": {
-        "A": "寶寧里",
+        "A": "金鐘        購物商場",
         "B": "金鐘",
-        "C": "太子道西"
+        "C": "馬頭角道"
       },
       "answer": "B",
       "explanation": "立法會綜合大樓位於金鐘。",
@@ -1597,11 +1597,11 @@
       "id": "B_123",
       "question": "香港禮賓府在哪裡？",
       "options": {
-        "A": "竹篙灣",
-        "B": "中環",
-        "C": "海庭道"
+        "A": "中環",
+        "B": "屯門",
+        "C": "赤柱"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "香港禮賓府位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -1610,11 +1610,11 @@
       "id": "B_124",
       "question": "香港中央圖書館在哪裡？",
       "options": {
-        "A": "青衣",
-        "B": "元朗",
-        "C": "銅鑼灣"
+        "A": "莊士敦道",
+        "B": "銅鑼灣",
+        "C": "黃竹坑徑"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "香港中央圖書館位於銅鑼灣。",
       "category": "location",
       "difficulty": "medium"
@@ -1623,11 +1623,11 @@
       "id": "B_125",
       "question": "新鴻基中心在哪裡？",
       "options": {
-        "A": "掃管笏",
-        "B": "西灣河        商業大廈",
-        "C": "灣仔"
+        "A": "灣仔",
+        "B": "屯喜路",
+        "C": "河內道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "新鴻基中心位於灣仔。",
       "category": "location",
       "difficulty": "medium"
@@ -1636,11 +1636,11 @@
       "id": "B_126",
       "question": "怡和大廈在哪裡？",
       "options": {
-        "A": "金鐘        購物商場",
-        "B": "中環",
-        "C": "荔灣道"
+        "A": "中環",
+        "B": "英皇道",
+        "C": "德輔道中"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "怡和大廈位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -1649,11 +1649,11 @@
       "id": "B_127",
       "question": "華懋交易廣場在哪裡？",
       "options": {
-        "A": "西營盤",
-        "B": "全安路",
-        "C": "鰂魚涌"
+        "A": "鰂魚涌",
+        "B": "九龍塘",
+        "C": "上環"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "華懋交易廣場位於鰂魚涌。",
       "category": "location",
       "difficulty": "medium"
@@ -1662,11 +1662,11 @@
       "id": "B_128",
       "question": "力寶中心在哪裡？",
       "options": {
-        "A": "九龍灣",
-        "B": "金鐘",
-        "C": "忠孝街"
+        "A": "金鐘",
+        "B": "摩頓臺",
+        "C": "宜正里"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "力寶中心位於金鐘。",
       "category": "location",
       "difficulty": "medium"
@@ -1676,8 +1676,8 @@
       "question": "太古廣場在哪裡？",
       "options": {
         "A": "金鐘        購物商場",
-        "B": "105. 皇家太平洋酒店  尖沙咀",
-        "C": "沙田坳道"
+        "B": "新寧道",
+        "C": "九龍塘"
       },
       "answer": "A",
       "explanation": "太古廣場位於金鐘        購物商場。",
@@ -1688,11 +1688,11 @@
       "id": "B_130",
       "question": "英國保誠保險大樓在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "金鐘道",
-        "C": "干諾道西"
+        "A": "鴻圖道",
+        "B": "尖沙咀",
+        "C": "山頂道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "英國保誠保險大樓位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -1701,11 +1701,11 @@
       "id": "B_131",
       "question": "中國太平大廈在哪裡？",
       "options": {
-        "A": "新寧道",
-        "B": "梳士巴利道",
-        "C": "柯士甸道 西"
+        "A": "天水圍",
+        "B": "新寧道",
+        "C": "中環"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "中國太平大廈位於新寧道。",
       "category": "location",
       "difficulty": "medium"
@@ -1714,11 +1714,11 @@
       "id": "B_132",
       "question": "港威大廈在哪裡？",
       "options": {
-        "A": "軒尼詩道",
-        "B": "山頂",
-        "C": "尖沙咀"
+        "A": "天水圍",
+        "B": "尖沙咀",
+        "C": "長沙灣道"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "港威大廈位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -1727,11 +1727,11 @@
       "id": "B_133",
       "question": "貿易廣場在哪裡？",
       "options": {
-        "A": "長沙灣",
-        "B": "海庭道",
-        "C": "142. 港島海逸君綽酒店  北角"
+        "A": "翠嶺里",
+        "B": "西貢",
+        "C": "長沙灣"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "貿易廣場位於長沙灣。",
       "category": "location",
       "difficulty": "medium"
@@ -1740,9 +1740,9 @@
       "id": "B_134",
       "question": "海富中心在哪裡？",
       "options": {
-        "A": "142. 港島海逸君綽酒店  北角",
+        "A": "鴨脷洲",
         "B": "夏慤道",
-        "C": "秀茂坪"
+        "C": "黃大仙"
       },
       "answer": "B",
       "explanation": "海富中心位於夏慤道。",
@@ -1753,11 +1753,11 @@
       "id": "B_135",
       "question": "統一中心在哪裡？",
       "options": {
-        "A": "金鐘",
-        "B": "亞皆老街",
-        "C": "大角咀"
+        "A": "鴻圖道",
+        "B": "馬灣",
+        "C": "金鐘"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "統一中心位於金鐘。",
       "category": "location",
       "difficulty": "medium"
@@ -1766,9 +1766,9 @@
       "id": "B_136",
       "question": "環球大廈在哪裡？",
       "options": {
-        "A": "荔景",
+        "A": "渣華道",
         "B": "中環",
-        "C": "軒尼詩道"
+        "C": "震寰路        政府樓宇"
       },
       "answer": "B",
       "explanation": "環球大廈位於中環。",
@@ -1779,11 +1779,11 @@
       "id": "B_137",
       "question": "國際金融中心在哪裡？",
       "options": {
-        "A": "九龍城",
-        "B": "中環",
-        "C": "粉嶺"
+        "A": "昂坪",
+        "B": "西營盤",
+        "C": "中環"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "國際金融中心位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -1792,11 +1792,11 @@
       "id": "B_138",
       "question": "環球貿易廣場在哪裡？",
       "options": {
-        "A": "柯士甸道西",
-        "B": "紅磡",
-        "C": "通州街"
+        "A": "旺角",
+        "B": "柯士甸道西",
+        "C": "荃灣"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "環球貿易廣場位於柯士甸道西。",
       "category": "location",
       "difficulty": "medium"
@@ -1805,11 +1805,11 @@
       "id": "B_139",
       "question": "中環廣場在哪裡？",
       "options": {
-        "A": "港灣道",
-        "B": "黃大仙",
-        "C": "柯士甸道 西"
+        "A": "汀角路",
+        "B": "山頂道",
+        "C": "港灣道"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "中環廣場位於港灣道。",
       "category": "location",
       "difficulty": "medium"
@@ -1818,11 +1818,11 @@
       "id": "B_140",
       "question": "中銀大廈在哪裡？",
       "options": {
-        "A": "龍門路",
-        "B": "澤祥街",
-        "C": "花園道"
+        "A": "花園道",
+        "B": "小瀝源路",
+        "C": "尖沙咀"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "中銀大廈位於花園道。",
       "category": "location",
       "difficulty": "medium"
@@ -1831,11 +1831,11 @@
       "id": "B_141",
       "question": "港島東中心在哪裡？",
       "options": {
-        "A": "調景嶺",
-        "B": "鰂魚涌",
-        "C": "秀茂坪"
+        "A": "鰂魚涌",
+        "B": "荔灣道",
+        "C": "荷李活道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "港島東中心位於鰂魚涌。",
       "category": "location",
       "difficulty": "medium"
@@ -1844,11 +1844,11 @@
       "id": "B_142",
       "question": "中遠大廈在哪裡？",
       "options": {
-        "A": "皇后大道中",
-        "B": "香港仔",
-        "C": "白田壩街"
+        "A": "旺角",
+        "B": "皇后大道中",
+        "C": "全安路"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "中遠大廈位於皇后大道中。",
       "category": "location",
       "difficulty": "medium"
@@ -1857,11 +1857,11 @@
       "id": "B_143",
       "question": "新城市廣場在哪裡？",
       "options": {
-        "A": "福利街",
-        "B": "青松觀路",
-        "C": "沙田"
+        "A": "鰂魚涌",
+        "B": "沙田",
+        "C": "汀九"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "新城市廣場位於沙田。",
       "category": "location",
       "difficulty": "medium"
@@ -1870,8 +1870,8 @@
       "id": "B_144",
       "question": "盈翠半島在哪裡？",
       "options": {
-        "A": "長沙灣",
-        "B": "大埔",
+        "A": "鴨巴甸街",
+        "B": "白田壩街",
         "C": "青衣"
       },
       "answer": "C",
@@ -1884,8 +1884,8 @@
       "question": "奧海城 2期 海庭道在哪裡？",
       "options": {
         "A": "280. 港灣豪庭  福利街",
-        "B": "上水",
-        "C": "龍琛路"
+        "B": "夏慤道",
+        "C": "黃大仙"
       },
       "answer": "A",
       "explanation": "奧海城 2期 海庭道位於280. 港灣豪庭  福利街。",
@@ -1897,8 +1897,8 @@
       "question": "崇光銅鑼灣店在哪裡？",
       "options": {
         "A": "軒尼詩道",
-        "B": "何文田",
-        "C": "朗日路"
+        "B": "富健街",
+        "C": "沐寧街"
       },
       "answer": "A",
       "explanation": "崇光銅鑼灣店位於軒尼詩道。",
@@ -1909,11 +1909,11 @@
       "id": "B_147",
       "question": "屯門市廣場在哪裡？",
       "options": {
-        "A": "荃灣",
-        "B": "屯順街",
-        "C": "寶寧里"
+        "A": "屯順街",
+        "B": "薄扶林",
+        "C": "荷李活道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "屯門市廣場位於屯順街。",
       "category": "location",
       "difficulty": "medium"
@@ -1922,11 +1922,11 @@
       "id": "B_148",
       "question": "中港城在哪裡？",
       "options": {
-        "A": "銀鑛灣路",
-        "B": "偉業街",
-        "C": "尖沙咀"
+        "A": "尖沙咀",
+        "B": "青衣",
+        "C": "白田壩街"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "中港城位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -1935,11 +1935,11 @@
       "id": "B_149",
       "question": "東薈城名店倉在哪裡？",
       "options": {
-        "A": "夏慤道",
-        "B": "東涌",
-        "C": "忠孝街"
+        "A": "東涌",
+        "B": "九龍灣",
+        "C": "上海街"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "東薈城名店倉位於東涌。",
       "category": "location",
       "difficulty": "medium"
@@ -1948,11 +1948,11 @@
       "id": "B_150",
       "question": "利舞臺在哪裡？",
       "options": {
-        "A": "280. 港灣豪庭  福利街",
-        "B": "銅鑼灣",
-        "C": "西貢"
+        "A": "銅鑼灣",
+        "B": "親民街",
+        "C": "佐敦"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "利舞臺位於銅鑼灣。",
       "category": "location",
       "difficulty": "medium"
@@ -1961,8 +1961,8 @@
       "id": "B_151",
       "question": "南豐紗廠在哪裡？",
       "options": {
-        "A": "德輔道中",
-        "B": "汀九",
+        "A": "金巴利道",
+        "B": "皇后大道西",
         "C": "白田壩街"
       },
       "answer": "C",
@@ -1974,11 +1974,11 @@
       "id": "B_152",
       "question": "K11人文購物藝術館在哪裡？",
       "options": {
-        "A": "汀角路",
-        "B": "梳士巴利道",
-        "C": "達之路"
+        "A": "馬鞍山",
+        "B": "松仁路",
+        "C": "梳士巴利道"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "K11人文購物藝術館位於梳士巴利道。",
       "category": "location",
       "difficulty": "medium"
@@ -1987,11 +1987,11 @@
       "id": "B_153",
       "question": "裕民坊在哪裡？",
       "options": {
-        "A": "- 東涌纜車",
-        "B": "觀塘",
-        "C": "油麻地"
+        "A": "觀塘",
+        "B": "將軍澳",
+        "C": "白田壩街"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "裕民坊位於觀塘。",
       "category": "location",
       "difficulty": "medium"
@@ -2000,11 +2000,11 @@
       "id": "B_154",
       "question": "德福花園在哪裡？",
       "options": {
-        "A": "荃景圍",
-        "B": "鴨巴甸街",
-        "C": "偉業街"
+        "A": "澤祥街",
+        "B": "偉業街",
+        "C": "中環"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "德福花園位於偉業街。",
       "category": "location",
       "difficulty": "medium"
@@ -2013,11 +2013,11 @@
       "id": "B_155",
       "question": "淘大花園在哪裡？",
       "options": {
-        "A": "橋樂坊",
-        "B": "震寰路        政府樓宇",
-        "C": "九龍灣"
+        "A": "楊屋道",
+        "B": "九龍灣",
+        "C": "藍田"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "淘大花園位於九龍灣。",
       "category": "location",
       "difficulty": "medium"
@@ -2026,11 +2026,11 @@
       "id": "B_156",
       "question": "匯景花園在哪裡？",
       "options": {
-        "A": "沙田",
-        "B": "藍田",
-        "C": "掃管笏"
+        "A": "藍田",
+        "B": "油麻地",
+        "C": "寶琳北路"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "匯景花園位於藍田。",
       "category": "location",
       "difficulty": "medium"
@@ -2039,11 +2039,11 @@
       "id": "B_157",
       "question": "綠楊新邨在哪裡？",
       "options": {
-        "A": "元朗",
-        "B": "東涌",
-        "C": "荃灣"
+        "A": "荃灣",
+        "B": "105. 皇家太平洋酒店  尖沙咀",
+        "C": "九龍城"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "綠楊新邨位於荃灣。",
       "category": "location",
       "difficulty": "medium"
@@ -2052,11 +2052,11 @@
       "id": "B_158",
       "question": "置富花園在哪裡？",
       "options": {
-        "A": "馬鞍山",
-        "B": "皇后大道東",
-        "C": "薄扶林"
+        "A": "屯門",
+        "B": "薄扶林",
+        "C": "紅磡"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "置富花園位於薄扶林。",
       "category": "location",
       "difficulty": "medium"
@@ -2065,11 +2065,11 @@
       "id": "B_159",
       "question": "將軍澳中心在哪裡？",
       "options": {
-        "A": "105. 皇家太平洋酒店  尖沙咀",
-        "B": "觀塘",
-        "C": "唐德街"
+        "A": "白田壩街",
+        "B": "唐德街",
+        "C": "沙田"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "將軍澳中心位於唐德街。",
       "category": "location",
       "difficulty": "medium"
@@ -2078,11 +2078,11 @@
       "id": "B_160",
       "question": "大埔中心在哪裡？",
       "options": {
-        "A": "屯門",
-        "B": "安邦路",
-        "C": "承豐道"
+        "A": "安邦路",
+        "B": "干諾道西",
+        "C": "車公廟路"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "大埔中心位於安邦路。",
       "category": "location",
       "difficulty": "medium"
@@ -2091,11 +2091,11 @@
       "id": "B_161",
       "question": "東堤灣畔在哪裡？",
       "options": {
-        "A": "安邦路",
-        "B": "赤鱲角",
-        "C": "東涌"
+        "A": "半山",
+        "B": "東涌",
+        "C": "旺角"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "東堤灣畔位於東涌。",
       "category": "location",
       "difficulty": "medium"
@@ -2104,8 +2104,8 @@
       "id": "B_162",
       "question": "新港城在哪裡？",
       "options": {
-        "A": "皇后大道中",
-        "B": "河內道",
+        "A": "佐敦",
+        "B": "沙田坳道",
         "C": "馬鞍山"
       },
       "answer": "C",
@@ -2117,11 +2117,11 @@
       "id": "B_163",
       "question": "香港都會大學在哪裡？",
       "options": {
-        "A": "大嶼山",
-        "B": "何文田",
-        "C": "大角咀"
+        "A": "偉業街",
+        "B": "鴨巴甸街",
+        "C": "何文田"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "香港都會大學位於何文田。",
       "category": "location",
       "difficulty": "medium"
@@ -2130,11 +2130,11 @@
       "id": "B_164",
       "question": "明愛醫院在哪裡？",
       "options": {
-        "A": "澤祥街",
-        "B": "油麻地",
-        "C": "長沙灣"
+        "A": "忠孝街",
+        "B": "長沙灣",
+        "C": "南岸  黃竹坑"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "明愛醫院位於長沙灣。",
       "category": "location",
       "difficulty": "medium"
@@ -2143,11 +2143,11 @@
       "id": "B_165",
       "question": "瑪嘉烈醫院在哪裡？",
       "options": {
-        "A": "莊士敦道",
-        "B": "荔景",
-        "C": "龍琛路"
+        "A": "大角咀",
+        "B": "油麻地",
+        "C": "荔景"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "瑪嘉烈醫院位於荔景。",
       "category": "location",
       "difficulty": "medium"
@@ -2156,11 +2156,11 @@
       "id": "B_166",
       "question": "葵涌醫院在哪裡？",
       "options": {
-        "A": "上海街",
-        "B": "荔景",
-        "C": "旺角"
+        "A": "荔景",
+        "B": "朗日路",
+        "C": "松仁路"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "葵涌醫院位於荔景。",
       "category": "location",
       "difficulty": "medium"
@@ -2169,9 +2169,9 @@
       "id": "B_167",
       "question": "仁濟醫院在哪裡？",
       "options": {
-        "A": "油麻地",
+        "A": "上水",
         "B": "荃灣",
-        "C": "深旺道"
+        "C": "藍田"
       },
       "answer": "B",
       "explanation": "仁濟醫院位於荃灣。",
@@ -2182,11 +2182,11 @@
       "id": "B_168",
       "question": "基督教聯合醫院在哪裡？",
       "options": {
-        "A": "秀茂坪",
-        "B": "博物館道",
-        "C": "安邦路"
+        "A": "紅磡",
+        "B": "翠嶺里",
+        "C": "秀茂坪"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "基督教聯合醫院位於秀茂坪。",
       "category": "location",
       "difficulty": "medium"
@@ -2195,11 +2195,11 @@
       "id": "B_169",
       "question": "靈實醫院在哪裡？",
       "options": {
-        "A": "將軍澳",
-        "B": "粉嶺",
-        "C": "上禾輋路"
+        "A": "青衣",
+        "B": "將軍澳",
+        "C": "荷李活道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "靈實醫院位於將軍澳。",
       "category": "location",
       "difficulty": "medium"
@@ -2209,8 +2209,8 @@
       "question": "將軍澳醫院在哪裡？",
       "options": {
         "A": "寶寧里",
-        "B": "竹篙灣",
-        "C": "東院道"
+        "B": "西灣河        商業大廈",
+        "C": "馬灣"
       },
       "answer": "A",
       "explanation": "將軍澳醫院位於寶寧里。",
@@ -2221,11 +2221,11 @@
       "id": "B_171",
       "question": "沙田醫院在哪裡？",
       "options": {
-        "A": "花園道",
-        "B": "亞公角街",
-        "C": "金鐘道"
+        "A": "亞公角街",
+        "B": "唐德街",
+        "C": "龍琛路"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "沙田醫院位於亞公角街。",
       "category": "location",
       "difficulty": "medium"
@@ -2234,11 +2234,11 @@
       "id": "B_172",
       "question": "大埔醫院在哪裡？",
       "options": {
-        "A": "西灣河        商業大廈",
-        "B": "馬頭角道",
-        "C": "全安路"
+        "A": "全安路",
+        "B": "九龍城",
+        "C": "渣華道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "大埔醫院位於全安路。",
       "category": "location",
       "difficulty": "medium"
@@ -2247,11 +2247,11 @@
       "id": "B_173",
       "question": "北區醫院在哪裡？",
       "options": {
-        "A": "大圍",
-        "B": "上水",
-        "C": "大嶼山"
+        "A": "海庭道",
+        "B": "上禾輋路",
+        "C": "上水"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "北區醫院位於上水。",
       "category": "location",
       "difficulty": "medium"
@@ -2260,11 +2260,11 @@
       "id": "B_174",
       "question": "屯門醫院在哪裡？",
       "options": {
-        "A": "觀塘",
-        "B": "九龍塘",
-        "C": "青松觀路"
+        "A": "朗日路",
+        "B": "青松觀路",
+        "C": "東涌"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "屯門醫院位於青松觀路。",
       "category": "location",
       "difficulty": "medium"
@@ -2273,8 +2273,8 @@
       "id": "B_175",
       "question": "博愛醫院在哪裡？",
       "options": {
-        "A": "荃灣",
-        "B": "屯順街",
+        "A": "西營盤",
+        "B": "安華街",
         "C": "元朗"
       },
       "answer": "C",
@@ -2286,11 +2286,11 @@
       "id": "B_176",
       "question": "嘉諾撒醫院在哪裡？",
       "options": {
-        "A": "半山",
-        "B": "福利街",
-        "C": "香港仔"
+        "A": "小瀝源",
+        "B": "樂富",
+        "C": "半山"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "嘉諾撒醫院位於半山。",
       "category": "location",
       "difficulty": "medium"
@@ -2299,8 +2299,8 @@
       "id": "B_177",
       "question": "明德國際醫院在哪裡？",
       "options": {
-        "A": "新寧道",
-        "B": "亞公角街",
+        "A": "汀角路",
+        "B": "梳士巴利道",
         "C": "山頂"
       },
       "answer": "C",
@@ -2313,8 +2313,8 @@
       "question": "香港港安醫院在哪裡？",
       "options": {
         "A": "跑馬地",
-        "B": "東涌",
-        "C": "山頂道"
+        "B": "夏慤道",
+        "C": "承豐道"
       },
       "answer": "A",
       "explanation": "香港港安醫院位於跑馬地。",
@@ -2325,9 +2325,9 @@
       "id": "B_179",
       "question": "聖保祿醫院在哪裡？",
       "options": {
-        "A": "上禾輋路",
+        "A": "博物館道",
         "B": "東院道",
-        "C": "皇后大道東"
+        "C": "佐敦"
       },
       "answer": "B",
       "explanation": "聖保祿醫院位於東院道。",
@@ -2338,8 +2338,8 @@
       "id": "B_180",
       "question": "養和醫院在哪裡？",
       "options": {
-        "A": "調景嶺",
-        "B": "車公廟路",
+        "A": "宜正里",
+        "B": "粉嶺",
         "C": "跑馬地"
       },
       "answer": "C",
@@ -2351,11 +2351,11 @@
       "id": "B_181",
       "question": "九龍寨城公園在哪裡？",
       "options": {
-        "A": "九龍城",
-        "B": "忠孝街",
-        "C": "皇后大道中"
+        "A": "深水埗",
+        "B": "南岸  黃竹坑",
+        "C": "九龍城"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "九龍寨城公園位於九龍城。",
       "category": "location",
       "difficulty": "medium"
@@ -2364,11 +2364,11 @@
       "id": "B_182",
       "question": "昂坪纜車在哪裡？",
       "options": {
-        "A": "- 東涌纜車",
-        "B": "何文田",
-        "C": "上禾輋路"
+        "A": "清水灣",
+        "B": "- 東涌纜車",
+        "C": "上水"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "昂坪纜車位於- 東涌纜車。",
       "category": "location",
       "difficulty": "medium"
@@ -2377,11 +2377,11 @@
       "id": "B_183",
       "question": "香港海洋公園在哪裡？",
       "options": {
-        "A": "偉業街",
-        "B": "馬鞍山",
-        "C": "黃竹坑"
+        "A": "黃竹坑",
+        "B": "薄扶林",
+        "C": "大角咀"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港海洋公園位於黃竹坑。",
       "category": "location",
       "difficulty": "medium"
@@ -2390,11 +2390,11 @@
       "id": "B_184",
       "question": "寶蓮禪寺在哪裡？",
       "options": {
-        "A": "元州街",
-        "B": "昂坪",
-        "C": "車公廟路"
+        "A": "昂坪",
+        "B": "青衣",
+        "C": "大嶼山"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "寶蓮禪寺位於昂坪。",
       "category": "location",
       "difficulty": "medium"
@@ -2403,11 +2403,11 @@
       "id": "B_185",
       "question": "凌霄閣在哪裡？",
       "options": {
-        "A": "清水灣",
-        "B": "山頂道",
-        "C": "荃灣"
+        "A": "山頂道",
+        "B": "莊士敦道",
+        "C": "荔灣道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "凌霄閣位於山頂道。",
       "category": "location",
       "difficulty": "medium"
@@ -2416,11 +2416,11 @@
       "id": "B_186",
       "question": "亞洲國際博覽館在哪裡？",
       "options": {
-        "A": "新寧道",
-        "B": "赤鱲角",
-        "C": "天壇街"
+        "A": "赤鱲角",
+        "B": "灣仔",
+        "C": "車公廟路"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "亞洲國際博覽館位於赤鱲角。",
       "category": "location",
       "difficulty": "medium"
@@ -2429,11 +2429,11 @@
       "id": "B_187",
       "question": "屏山文物徑在哪裡？",
       "options": {
-        "A": "中環",
-        "B": "南岸  黃竹坑",
-        "C": "元朗"
+        "A": "元朗",
+        "B": "永興街",
+        "C": "摩頓臺"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "屏山文物徑位於元朗。",
       "category": "location",
       "difficulty": "medium"
@@ -2442,11 +2442,11 @@
       "id": "B_188",
       "question": "香港會議展覽中心在哪裡？",
       "options": {
-        "A": "薄扶林",
-        "B": "旺角",
-        "C": "灣仔"
+        "A": "大嶼山",
+        "B": "灣仔",
+        "C": "安平街"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "香港會議展覽中心位於灣仔。",
       "category": "location",
       "difficulty": "medium"
@@ -2456,8 +2456,8 @@
       "question": "香港文化博物館在哪裡？",
       "options": {
         "A": "沙田",
-        "B": "告士打道",
-        "C": "105. 皇家太平洋酒店  尖沙咀"
+        "B": "海庭道",
+        "C": "大埔"
       },
       "answer": "A",
       "explanation": "香港文化博物館位於沙田。",
@@ -2468,11 +2468,11 @@
       "id": "B_190",
       "question": "香港歷史博物館在哪裡？",
       "options": {
-        "A": "清水灣",
-        "B": "荔景",
-        "C": "尖沙咀"
+        "A": "鴨巴甸街",
+        "B": "尖沙咀",
+        "C": "小瀝源路"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "香港歷史博物館位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2481,11 +2481,11 @@
       "id": "B_191",
       "question": "香港科學館在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "夏慤道",
-        "C": "鯉魚門道"
+        "A": "天壇街",
+        "B": "尖沙咀",
+        "C": "沙田坳道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港科學館位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2495,8 +2495,8 @@
       "question": "香港太空館在哪裡？",
       "options": {
         "A": "尖沙咀",
-        "B": "沐寧街",
-        "C": "璧峰路"
+        "B": "宜正里",
+        "C": "馬灣"
       },
       "answer": "A",
       "explanation": "香港太空館位於尖沙咀。",
@@ -2507,9 +2507,9 @@
       "id": "B_193",
       "question": "香港大會堂在哪裡？",
       "options": {
-        "A": "上水",
+        "A": "上環",
         "B": "中環",
-        "C": "半山"
+        "C": "富健街"
       },
       "answer": "B",
       "explanation": "香港大會堂位於中環。",
@@ -2521,8 +2521,8 @@
       "question": "香港體育館在哪裡？",
       "options": {
         "A": "紅磡",
-        "B": "青衣",
-        "C": "柯士甸道 西"
+        "B": "親民街",
+        "C": "赤鱲角"
       },
       "answer": "A",
       "explanation": "香港體育館位於紅磡。",
@@ -2533,11 +2533,11 @@
       "id": "B_195",
       "question": "香港文化中心在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "黃竹坑",
-        "C": "莊士敦道"
+        "A": "興芳路",
+        "B": "尖沙咀",
+        "C": "九龍灣"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港文化中心位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2546,11 +2546,11 @@
       "id": "B_196",
       "question": "伊利沙伯體育館在哪裡？",
       "options": {
-        "A": "灣仔",
-        "B": "觀塘",
-        "C": "昂坪"
+        "A": "鴨巴甸街",
+        "B": "南岸  黃竹坑",
+        "C": "灣仔"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "伊利沙伯體育館位於灣仔。",
       "category": "location",
       "difficulty": "medium"
@@ -2560,8 +2560,8 @@
       "question": "沙田大會堂在哪裡？",
       "options": {
         "A": "源禾路",
-        "B": "西樓角路",
-        "C": "荃灣"
+        "B": "油麻地",
+        "C": "九龍塘"
       },
       "answer": "A",
       "explanation": "沙田大會堂位於源禾路。",
@@ -2572,11 +2572,11 @@
       "id": "B_198",
       "question": "尖沙咀天星碼頭在哪裡？",
       "options": {
-        "A": "東院道",
-        "B": "何文田",
-        "C": "尖沙咀"
+        "A": "渣華道",
+        "B": "尖沙咀",
+        "C": "九龍城"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "尖沙咀天星碼頭位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2585,9 +2585,9 @@
       "id": "B_199",
       "question": "千禧新世界香港酒店在哪裡？",
       "options": {
-        "A": "金巴利道",
+        "A": "金鐘",
         "B": "尖沙咀",
-        "C": "博物館道"
+        "C": "福利街"
       },
       "answer": "B",
       "explanation": "千禧新世界香港酒店位於尖沙咀。",
@@ -2598,8 +2598,8 @@
       "id": "B_200",
       "question": "嘉湖海逸酒店在哪裡？",
       "options": {
-        "A": "銅鑼灣",
-        "B": "達之路",
+        "A": "馬頭角道",
+        "B": "深水埗",
         "C": "天水圍"
       },
       "answer": "C",
@@ -2611,11 +2611,11 @@
       "id": "B_201",
       "question": "富豪九龍酒店在哪裡？",
       "options": {
-        "A": "東院道",
-        "B": "西樓角路",
-        "C": "尖沙咀"
+        "A": "尖沙咀",
+        "B": "九龍塘",
+        "C": "赤鱲角"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "富豪九龍酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2624,11 +2624,11 @@
       "id": "B_202",
       "question": "富豪東方酒店在哪裡？",
       "options": {
-        "A": "九龍城",
-        "B": "鰂魚涌",
-        "C": "105. 皇家太平洋酒店  尖沙咀"
+        "A": "亞皆老街",
+        "B": "荃灣",
+        "C": "九龍城"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "富豪東方酒店位於九龍城。",
       "category": "location",
       "difficulty": "medium"
@@ -2637,9 +2637,9 @@
       "id": "B_203",
       "question": "富豪香港酒店在哪裡？",
       "options": {
-        "A": "銀鑛灣路",
+        "A": "掃管笏",
         "B": "銅鑼灣",
-        "C": "上海街"
+        "C": "青松觀路"
       },
       "answer": "B",
       "explanation": "富豪香港酒店位於銅鑼灣。",
@@ -2651,8 +2651,8 @@
       "question": "帝京酒店在哪裡？",
       "options": {
         "A": "旺角",
-        "B": "皇后大道中",
-        "C": "太子道西"
+        "B": "渣華道",
+        "C": "掃管笏"
       },
       "answer": "A",
       "explanation": "帝京酒店位於旺角。",
@@ -2663,9 +2663,9 @@
       "id": "B_205",
       "question": "帝景酒店在哪裡？",
       "options": {
-        "A": "荃景圍",
+        "A": "鯉魚門道",
         "B": "汀九",
-        "C": "香港仔"
+        "C": "紅磡"
       },
       "answer": "B",
       "explanation": "帝景酒店位於汀九。",
@@ -2676,8 +2676,8 @@
       "id": "B_206",
       "question": "帝苑酒店在哪裡？",
       "options": {
-        "A": "澤祥街",
-        "B": "青衣",
+        "A": "荔枝角",
+        "B": "龍門路",
         "C": "尖沙咀"
       },
       "answer": "C",
@@ -2689,11 +2689,11 @@
       "id": "B_207",
       "question": "帝都酒店在哪裡？",
       "options": {
-        "A": "長沙灣",
-        "B": "九龍灣",
-        "C": "沙田"
+        "A": "沙田",
+        "B": "亞皆老街",
+        "C": "荔景"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "帝都酒店位於沙田。",
       "category": "location",
       "difficulty": "medium"
@@ -2702,11 +2702,11 @@
       "id": "B_208",
       "question": "柏寧酒店在哪裡？",
       "options": {
-        "A": "銅鑼灣",
-        "B": "楊屋道",
-        "C": "海庭道"
+        "A": "新寧道",
+        "B": "金鐘        購物商場",
+        "C": "銅鑼灣"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "柏寧酒店位於銅鑼灣。",
       "category": "location",
       "difficulty": "medium"
@@ -2716,8 +2716,8 @@
       "question": "港島英迪格酒店在哪裡？",
       "options": {
         "A": "灣仔",
-        "B": "半山",
-        "C": "英皇道"
+        "B": "亞公角街",
+        "C": "何文田"
       },
       "answer": "A",
       "explanation": "港島英迪格酒店位於灣仔。",
@@ -2728,11 +2728,11 @@
       "id": "B_210",
       "question": "皇家太平洋酒店在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "唐德街",
-        "C": "車公廟路"
+        "A": "赤柱",
+        "B": "柴灣",
+        "C": "尖沙咀"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "皇家太平洋酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2741,11 +2741,11 @@
       "id": "B_211",
       "question": "諾富特東薈城酒店在哪裡？",
       "options": {
-        "A": "荷李活道",
-        "B": "東涌",
-        "C": "赤柱"
+        "A": "東涌",
+        "B": "九龍城",
+        "C": "大嶼山"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "諾富特東薈城酒店位於東涌。",
       "category": "location",
       "difficulty": "medium"
@@ -2754,11 +2754,11 @@
       "id": "B_212",
       "question": "都會海逸酒店在哪裡？",
       "options": {
-        "A": "荔景",
-        "B": "渣華道",
-        "C": "紅磡"
+        "A": "紅磡",
+        "B": "上水",
+        "C": "龍琛路"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "都會海逸酒店位於紅磡。",
       "category": "location",
       "difficulty": "medium"
@@ -2767,9 +2767,9 @@
       "id": "B_213",
       "question": "香港半島酒店在哪裡？",
       "options": {
-        "A": "上水",
+        "A": "偉業街",
         "B": "尖沙咀",
-        "C": "- 東涌纜車"
+        "C": "青衣"
       },
       "answer": "B",
       "explanation": "香港半島酒店位於尖沙咀。",
@@ -2780,11 +2780,11 @@
       "id": "B_214",
       "question": "香港君悅酒店在哪裡？",
       "options": {
-        "A": "通州街",
-        "B": "灣仔",
-        "C": "海庭道"
+        "A": "大角咀",
+        "B": "德輔道中",
+        "C": "灣仔"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "香港君悅酒店位於灣仔。",
       "category": "location",
       "difficulty": "medium"
@@ -2793,9 +2793,9 @@
       "id": "B_215",
       "question": "香港喜來登酒店在哪裡？",
       "options": {
-        "A": "白田壩街",
+        "A": "昂坪",
         "B": "尖沙咀",
-        "C": "橋樂坊"
+        "C": "上環"
       },
       "answer": "B",
       "explanation": "香港喜來登酒店位於尖沙咀。",
@@ -2807,8 +2807,8 @@
       "question": "香港四季酒店在哪裡？",
       "options": {
         "A": "中環",
-        "B": "璧峰路",
-        "C": "太子道西"
+        "B": "半山",
+        "C": "大角咀"
       },
       "answer": "A",
       "explanation": "香港四季酒店位於中環。",
@@ -2819,11 +2819,11 @@
       "id": "B_217",
       "question": "唯港薈在哪裡？",
       "options": {
-        "A": "汀角路",
-        "B": "渣華道",
-        "C": "尖沙咀"
+        "A": "薄扶林",
+        "B": "尖沙咀",
+        "C": "屯門"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "唯港薈位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2832,11 +2832,11 @@
       "id": "B_218",
       "question": "奧華酒店在哪裡？",
       "options": {
-        "A": "跑馬地",
-        "B": "荔景",
-        "C": "南岸  黃竹坑"
+        "A": "海庭道",
+        "B": "南岸  黃竹坑",
+        "C": "全安路"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "奧華酒店位於南岸  黃竹坑。",
       "category": "location",
       "difficulty": "medium"
@@ -2845,11 +2845,11 @@
       "id": "B_219",
       "question": "南灣如心酒店在哪裡？",
       "options": {
-        "A": "中環",
-        "B": "香港仔",
-        "C": "金巴利道"
+        "A": "香港仔",
+        "B": "長沙灣道",
+        "C": "紅磡"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "南灣如心酒店位於香港仔。",
       "category": "location",
       "difficulty": "medium"
@@ -2858,9 +2858,9 @@
       "id": "B_220",
       "question": "荃灣西如心酒店在哪裡？",
       "options": {
-        "A": "大圍",
+        "A": "粉嶺",
         "B": "楊屋道",
-        "C": "承豐道"
+        "C": "九龍塘"
       },
       "answer": "B",
       "explanation": "荃灣西如心酒店位於楊屋道。",
@@ -2871,11 +2871,11 @@
       "id": "B_221",
       "question": "九龍東如心酒店在哪裡？",
       "options": {
-        "A": "觀塘",
-        "B": "汀九",
-        "C": "汀角路"
+        "A": "璧峰路",
+        "B": "觀塘",
+        "C": "軒尼詩道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "九龍東如心酒店位於觀塘。",
       "category": "location",
       "difficulty": "medium"
@@ -2885,8 +2885,8 @@
       "question": "銅鑼灣如心酒店在哪裡？",
       "options": {
         "A": "英皇道",
-        "B": "赤柱",
-        "C": "荷李活道"
+        "B": "油麻地",
+        "C": "粉嶺"
       },
       "answer": "A",
       "explanation": "銅鑼灣如心酒店位於英皇道。",
@@ -2897,11 +2897,11 @@
       "id": "B_223",
       "question": "尖沙咀皇悅酒店在哪裡？",
       "options": {
-        "A": "西貢",
-        "B": "干諾道西",
-        "C": "金巴利道"
+        "A": "金巴利道",
+        "B": "赤柱",
+        "C": "亞公角街"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "尖沙咀皇悅酒店位於金巴利道。",
       "category": "location",
       "difficulty": "medium"
@@ -2910,11 +2910,11 @@
       "id": "B_224",
       "question": "海景嘉福洲際酒店在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "松仁路",
-        "C": "車公廟路"
+        "A": "金鐘        購物商場",
+        "B": "尖沙咀",
+        "C": "西灣河        商業大廈"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "海景嘉福洲際酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2923,11 +2923,11 @@
       "id": "B_225",
       "question": "港威酒店在哪裡？",
       "options": {
-        "A": "沙田坳道",
-        "B": "沐寧街",
-        "C": "尖沙咀"
+        "A": "青敬路",
+        "B": "尖沙咀",
+        "C": "荔灣道"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "港威酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2936,11 +2936,11 @@
       "id": "B_226",
       "question": "港島海逸君綽酒店在哪裡？",
       "options": {
-        "A": "山頂道",
-        "B": "大角咀",
-        "C": "北角"
+        "A": "北角",
+        "B": "花園道",
+        "C": "將軍澳"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "港島海逸君綽酒店位於北角。",
       "category": "location",
       "difficulty": "medium"
@@ -2949,9 +2949,9 @@
       "id": "B_227",
       "question": "港島皇悅酒店在哪裡？",
       "options": {
-        "A": "屯門",
+        "A": "忠孝街",
         "B": "軒尼詩道",
-        "C": "告士打道"
+        "C": "將軍澳"
       },
       "answer": "B",
       "explanation": "港島皇悅酒店位於軒尼詩道。",
@@ -2962,11 +2962,11 @@
       "id": "B_228",
       "question": "港島香格里拉大酒店在哪裡？",
       "options": {
-        "A": "金鐘",
-        "B": "元朗",
-        "C": "法院道"
+        "A": "法院道",
+        "B": "大角咀",
+        "C": "永興街"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "港島香格里拉大酒店位於法院道。",
       "category": "location",
       "difficulty": "medium"
@@ -2975,11 +2975,11 @@
       "id": "B_229",
       "question": "美麗華酒店在哪裡？",
       "options": {
-        "A": "尖沙咀",
-        "B": "紅磡",
+        "A": "荔灣道",
+        "B": "尖沙咀",
         "C": "鯉魚門道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "美麗華酒店位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -2990,7 +2990,7 @@
       "options": {
         "A": "皇后大道西",
         "B": "寶寧里",
-        "C": "荔枝角"
+        "C": "永興街"
       },
       "answer": "A",
       "explanation": "華美達海景酒店位於皇后大道西。",
@@ -3001,8 +3001,8 @@
       "id": "B_231",
       "question": "迪士尼好萊塢酒店在哪裡？",
       "options": {
-        "A": "長沙灣",
-        "B": "青衣",
+        "A": "紅磡",
+        "B": "車公廟路",
         "C": "大嶼山"
       },
       "answer": "C",
@@ -3014,11 +3014,11 @@
       "id": "B_232",
       "question": "銅鑼灣皇悅酒店在哪裡？",
       "options": {
-        "A": "海庭道",
-        "B": "永興街",
-        "C": "竹篙灣"
+        "A": "永興街",
+        "B": "元朗",
+        "C": "橋樂坊"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "銅鑼灣皇悅酒店位於永興街。",
       "category": "location",
       "difficulty": "medium"
@@ -3028,8 +3028,8 @@
       "question": "歷山酒店在哪裡？",
       "options": {
         "A": "北角",
-        "B": "安平街",
-        "C": "小瀝源路"
+        "B": "橋樂坊",
+        "C": "龍琛路"
       },
       "answer": "A",
       "explanation": "歷山酒店位於北角。",
@@ -3040,11 +3040,11 @@
       "id": "B_234",
       "question": "香港瑞吉酒店在哪裡？",
       "options": {
-        "A": "青衣",
-        "B": "山頂",
-        "C": "灣仔"
+        "A": "灣仔",
+        "B": "干諾道西",
+        "C": "元朗"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港瑞吉酒店位於灣仔。",
       "category": "location",
       "difficulty": "medium"
@@ -3053,11 +3053,11 @@
       "id": "B_235",
       "question": "北角政府合署在哪裡？",
       "options": {
-        "A": "山頂道",
-        "B": "渣華道",
-        "C": "全安路"
+        "A": "加士居道",
+        "B": "柯士甸道 西",
+        "C": "渣華道"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "北角政府合署位於渣華道。",
       "category": "location",
       "difficulty": "medium"
@@ -3067,8 +3067,8 @@
       "question": "長沙灣政府合署在哪裡？",
       "options": {
         "A": "長沙灣道",
-        "B": "將軍澳",
-        "C": "大角咀"
+        "B": "達之路",
+        "C": "鴻圖道"
       },
       "answer": "A",
       "explanation": "長沙灣政府合署位於長沙灣道。",
@@ -3079,11 +3079,11 @@
       "id": "B_237",
       "question": "何文田政府合署在哪裡？",
       "options": {
-        "A": "忠孝街",
-        "B": "永興街",
-        "C": "小瀝源"
+        "A": "柯士甸道西",
+        "B": "東涌",
+        "C": "忠孝街"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "何文田政府合署位於忠孝街。",
       "category": "location",
       "difficulty": "medium"
@@ -3092,11 +3092,11 @@
       "id": "B_238",
       "question": "東九龍政府合署在哪裡？",
       "options": {
-        "A": "馬灣",
-        "B": "鯉魚門道",
-        "C": "觀塘"
+        "A": "鴨巴甸街",
+        "B": "觀塘",
+        "C": "深旺道"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "東九龍政府合署位於觀塘。",
       "category": "location",
       "difficulty": "medium"
@@ -3106,8 +3106,8 @@
       "question": "九龍政府合署在哪裡？",
       "options": {
         "A": "油麻地",
-        "B": "英皇道",
-        "C": "啟成街"
+        "B": "啟成街",
+        "C": "楊屋道"
       },
       "answer": "A",
       "explanation": "九龍政府合署位於油麻地。",
@@ -3119,8 +3119,8 @@
       "question": "葵興政府合署在哪裡？",
       "options": {
         "A": "興芳路",
-        "B": "九龍城",
-        "C": "白田壩街"
+        "B": "山頂",
+        "C": "九龍灣"
       },
       "answer": "A",
       "explanation": "葵興政府合署位於興芳路。",
@@ -3131,11 +3131,11 @@
       "id": "B_241",
       "question": "荔枝角政府合署在哪裡？",
       "options": {
-        "A": "黃竹坑",
-        "B": "天水圍",
-        "C": "荔灣道"
+        "A": "荔灣道",
+        "B": "鴨脷洲",
+        "C": "油麻地"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "荔枝角政府合署位於荔灣道。",
       "category": "location",
       "difficulty": "medium"
@@ -3144,9 +3144,9 @@
       "id": "B_242",
       "question": "馬頭角道政府合署在哪裡？",
       "options": {
-        "A": "青衣",
+        "A": "青敬路",
         "B": "馬頭角道",
-        "C": "南岸  黃竹坑"
+        "C": "黃大仙"
       },
       "answer": "B",
       "explanation": "馬頭角道政府合署位於馬頭角道。",
@@ -3157,9 +3157,9 @@
       "id": "B_243",
       "question": "旺角政府合署在哪裡？",
       "options": {
-        "A": "汀角路",
+        "A": "山頂道",
         "B": "聯運街",
-        "C": "源禾路"
+        "C": "鑽石山"
       },
       "answer": "B",
       "explanation": "旺角政府合署位於聯運街。",
@@ -3170,8 +3170,8 @@
       "id": "B_244",
       "question": "梅窩政府合署在哪裡？",
       "options": {
-        "A": "142. 港島海逸君綽酒店  北角",
-        "B": "亞皆老街",
+        "A": "澤祥街",
+        "B": "沐寧街",
         "C": "銀鑛灣路"
       },
       "answer": "C",
@@ -3183,8 +3183,8 @@
       "id": "B_245",
       "question": "牛頭角政府合署在哪裡？",
       "options": {
-        "A": "鯉魚門道",
-        "B": "翠嶺里",
+        "A": "掃管笏",
+        "B": "龍琛路",
         "C": "安華街"
       },
       "answer": "C",
@@ -3196,11 +3196,11 @@
       "id": "B_246",
       "question": "北區政府合署在哪裡？",
       "options": {
-        "A": "青衣",
-        "B": "粉嶺",
-        "C": "280. 港灣豪庭  福利街"
+        "A": "粉嶺",
+        "B": "宜正里",
+        "C": "富健街"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "北區政府合署位於粉嶺。",
       "category": "location",
       "difficulty": "medium"
@@ -3209,11 +3209,11 @@
       "id": "B_247",
       "question": "培正道政府合署在哪裡？",
       "options": {
-        "A": "海庭道",
-        "B": "何文田",
-        "C": "小瀝源"
+        "A": "馬頭圍道",
+        "B": "銀鑛灣路",
+        "C": "何文田"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "培正道政府合署位於何文田。",
       "category": "location",
       "difficulty": "medium"
@@ -3222,9 +3222,9 @@
       "id": "B_248",
       "question": "醫院管理局大樓在哪裡？",
       "options": {
-        "A": "汀九",
+        "A": "九龍灣",
         "B": "九龍城",
-        "C": "唐德街"
+        "C": "港灣道"
       },
       "answer": "B",
       "explanation": "醫院管理局大樓位於九龍城。",
@@ -3235,11 +3235,11 @@
       "id": "B_249",
       "question": "九龍城法院大樓在哪裡？",
       "options": {
-        "A": "法院道",
-        "B": "半山",
-        "C": "亞皆老街"
+        "A": "亞皆老街",
+        "B": "天水圍",
+        "C": "大埔"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "九龍城法院大樓位於亞皆老街。",
       "category": "location",
       "difficulty": "medium"
@@ -3248,8 +3248,8 @@
       "id": "B_250",
       "question": "觀塘法院大樓在哪裡？",
       "options": {
-        "A": "青敬路",
-        "B": "何文田",
+        "A": "通州街",
+        "B": "柯士甸道 西",
         "C": "鯉魚門道"
       },
       "answer": "C",
@@ -3261,11 +3261,11 @@
       "id": "B_251",
       "question": "粉嶺法院大樓在哪裡？",
       "options": {
-        "A": "璧峰路",
-        "B": "安華街",
-        "C": "荷李活道"
+        "A": "黃竹坑",
+        "B": "璧峰路",
+        "C": "寶琳北路"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "粉嶺法院大樓位於璧峰路。",
       "category": "location",
       "difficulty": "medium"
@@ -3274,11 +3274,11 @@
       "id": "B_252",
       "question": "沙田法院大樓在哪裡？",
       "options": {
-        "A": "西灣河        商業大廈",
-        "B": "上海街",
-        "C": "宜正里"
+        "A": "宜正里",
+        "B": "北角",
+        "C": "鑽石山"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "沙田法院大樓位於宜正里。",
       "category": "location",
       "difficulty": "medium"
@@ -3287,11 +3287,11 @@
       "id": "B_253",
       "question": "屯門法院大樓在哪裡？",
       "options": {
-        "A": "福利街",
-        "B": "屯喜路",
-        "C": "龍琛路"
+        "A": "唐德街",
+        "B": "銀鑛灣路",
+        "C": "屯喜路"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "屯門法院大樓位於屯喜路。",
       "category": "location",
       "difficulty": "medium"
@@ -3301,8 +3301,8 @@
       "question": "西九龍法院大樓在哪裡？",
       "options": {
         "A": "通州街",
-        "B": "港灣道",
-        "C": "280. 港灣豪庭  福利街"
+        "B": "荃灣",
+        "C": "馬頭圍道"
       },
       "answer": "A",
       "explanation": "西九龍法院大樓位於通州街。",
@@ -3313,11 +3313,11 @@
       "id": "B_255",
       "question": "高等法院在哪裡？",
       "options": {
-        "A": "安邦路",
-        "B": "銅鑼灣",
-        "C": "金鐘道"
+        "A": "粉嶺",
+        "B": "金鐘道",
+        "C": "朗日路"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "高等法院位於金鐘道。",
       "category": "location",
       "difficulty": "medium"
@@ -3326,11 +3326,11 @@
       "id": "B_256",
       "question": "勞資審裁處在哪裡？",
       "options": {
-        "A": "加士居道",
-        "B": "金巴利道",
-        "C": "皇后大道中"
+        "A": "安邦路",
+        "B": "加士居道",
+        "C": "皇后大道東"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "勞資審裁處位於加士居道。",
       "category": "location",
       "difficulty": "medium"
@@ -3339,11 +3339,11 @@
       "id": "B_257",
       "question": "土地審裁處在哪裡？",
       "options": {
-        "A": "加士居道",
-        "B": "松仁路",
-        "C": "大埔"
+        "A": "小瀝源",
+        "B": "加士居道",
+        "C": "聯運街"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "土地審裁處位於加士居道。",
       "category": "location",
       "difficulty": "medium"
@@ -3352,11 +3352,11 @@
       "id": "B_258",
       "question": "區域法院在哪裡？",
       "options": {
-        "A": "朗日路",
-        "B": "皇后大道東",
-        "C": "港灣道"
+        "A": "港灣道",
+        "B": "沐寧街",
+        "C": "法院道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "區域法院位於港灣道。",
       "category": "location",
       "difficulty": "medium"
@@ -3365,11 +3365,11 @@
       "id": "B_259",
       "question": "中環中心在哪裡？",
       "options": {
-        "A": "皇后大道中",
-        "B": "樂富",
-        "C": "105. 皇家太平洋酒店  尖沙咀"
+        "A": "親民街",
+        "B": "璧峰路",
+        "C": "皇后大道中"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "中環中心位於皇后大道中。",
       "category": "location",
       "difficulty": "medium"
@@ -3378,11 +3378,11 @@
       "id": "B_260",
       "question": "如心廣場在哪裡？",
       "options": {
-        "A": "柯士甸道 西",
-        "B": "聯運街",
-        "C": "荃灣"
+        "A": "軒尼詩道",
+        "B": "荃灣",
+        "C": "松仁路"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "如心廣場位於荃灣。",
       "category": "location",
       "difficulty": "medium"
@@ -3391,11 +3391,11 @@
       "id": "B_261",
       "question": "長江集團中心在哪裡？",
       "options": {
-        "A": "東院道",
-        "B": "中環",
-        "C": "松仁路"
+        "A": "河內道",
+        "B": "小瀝源路",
+        "C": "中環"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "長江集團中心位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -3404,11 +3404,11 @@
       "id": "B_262",
       "question": "利園在哪裡？",
       "options": {
-        "A": "銅鑼灣",
-        "B": "屯喜路",
-        "C": "西灣河        商業大廈"
+        "A": "摩頓臺",
+        "B": "銅鑼灣",
+        "C": "荔灣道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "利園位於銅鑼灣。",
       "category": "location",
       "difficulty": "medium"
@@ -3417,11 +3417,11 @@
       "id": "B_263",
       "question": "永安集團大廈在哪裡？",
       "options": {
-        "A": "德輔道中",
-        "B": "掃管笏",
-        "C": "小瀝源路"
+        "A": "親民街",
+        "B": "赤柱",
+        "C": "德輔道中"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "永安集團大廈位於德輔道中。",
       "category": "location",
       "difficulty": "medium"
@@ -3430,11 +3430,11 @@
       "id": "B_264",
       "question": "香港滙豐總行大廈在哪裡？",
       "options": {
-        "A": "中環",
-        "B": "海庭道",
-        "C": "黃大仙"
+        "A": "通州街",
+        "B": "赤鱲角",
+        "C": "中環"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "香港滙豐總行大廈位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -3444,8 +3444,8 @@
       "question": "合和中心在哪裡？",
       "options": {
         "A": "灣仔",
-        "B": "荃景圍",
-        "C": "尖沙咀"
+        "B": "長沙灣",
+        "C": "小瀝源"
       },
       "answer": "A",
       "explanation": "合和中心位於灣仔。",
@@ -3456,11 +3456,11 @@
       "id": "B_266",
       "question": "圓方在哪裡？",
       "options": {
-        "A": "佐敦",
-        "B": "馬頭圍道",
-        "C": "柯士甸道西"
+        "A": "大圍",
+        "B": "柯士甸道西",
+        "C": "東涌"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "圓方位於柯士甸道西。",
       "category": "location",
       "difficulty": "medium"
@@ -3469,11 +3469,11 @@
       "id": "B_267",
       "question": "又一城在哪裡？",
       "options": {
-        "A": "上海街",
-        "B": "達之路",
-        "C": "法院道"
+        "A": "寶琳北路",
+        "B": "軒尼詩道",
+        "C": "達之路"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "又一城位於達之路。",
       "category": "location",
       "difficulty": "medium"
@@ -3482,11 +3482,11 @@
       "id": "B_268",
       "question": "海港城在哪裡？",
       "options": {
-        "A": "小瀝源路",
-        "B": "尖沙咀",
-        "C": "何文田"
+        "A": "尖沙咀",
+        "B": "摩頓臺",
+        "C": "跑馬地"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "海港城位於尖沙咀。",
       "category": "location",
       "difficulty": "medium"
@@ -3495,11 +3495,11 @@
       "id": "B_269",
       "question": "置地廣場在哪裡？",
       "options": {
-        "A": "油麻地",
-        "B": "天水圍",
-        "C": "中環"
+        "A": "中環",
+        "B": "夏慤道",
+        "C": "荃景圍"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "置地廣場位於中環。",
       "category": "location",
       "difficulty": "medium"
@@ -3508,11 +3508,11 @@
       "id": "B_270",
       "question": "上水廣場在哪裡？",
       "options": {
-        "A": "油麻地",
-        "B": "偉業街",
-        "C": "龍琛路"
+        "A": "龍琛路",
+        "B": "松仁路",
+        "C": "長沙灣"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "上水廣場位於龍琛路。",
       "category": "location",
       "difficulty": "medium"
@@ -3521,11 +3521,11 @@
       "id": "B_271",
       "question": "朗豪坊在哪裡？",
       "options": {
-        "A": "旺角",
-        "B": "金鐘道",
-        "C": "汀角路"
+        "A": "河內道",
+        "B": "旺角",
+        "C": "鴻圖道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "朗豪坊位於旺角。",
       "category": "location",
       "difficulty": "medium"
@@ -3535,8 +3535,8 @@
       "question": "荷里活廣場在哪裡？",
       "options": {
         "A": "鑽石山",
-        "B": "赤鱲角",
-        "C": "港灣道"
+        "B": "全安路",
+        "C": "金鐘道"
       },
       "answer": "A",
       "explanation": "荷里活廣場位於鑽石山。",
@@ -3547,11 +3547,11 @@
       "id": "B_273",
       "question": "時代廣場在哪裡？",
       "options": {
-        "A": "銅鑼灣",
-        "B": "通州街",
-        "C": "黃大仙"
+        "A": "中環",
+        "B": "新寧道",
+        "C": "銅鑼灣"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "時代廣場位於銅鑼灣。",
       "category": "location",
       "difficulty": "medium"
@@ -3560,11 +3560,11 @@
       "id": "B_274",
       "question": "西港城在哪裡？",
       "options": {
-        "A": "上環",
-        "B": "白田壩街",
-        "C": "掃管笏"
+        "A": "142. 港島海逸君綽酒店  北角",
+        "B": "薄扶林",
+        "C": "上環"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "西港城位於上環。",
       "category": "location",
       "difficulty": "medium"
@@ -3573,8 +3573,8 @@
       "id": "B_275",
       "question": "黃埔新天地在哪裡？",
       "options": {
-        "A": "荃景圍",
-        "B": "宜正里",
+        "A": "汀九",
+        "B": "銅鑼灣",
         "C": "紅磡"
       },
       "answer": "C",
@@ -3586,11 +3586,11 @@
       "id": "B_276",
       "question": "元創方在哪裡？",
       "options": {
-        "A": "鴨巴甸街",
-        "B": "大圍",
-        "C": "唐德街"
+        "A": "樂富",
+        "B": "鴨巴甸街",
+        "C": "河內道"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "元創方位於鴨巴甸街。",
       "category": "location",
       "difficulty": "medium"
@@ -3599,11 +3599,11 @@
       "id": "B_277",
       "question": "青衣城在哪裡？",
       "options": {
-        "A": "聯運街",
-        "B": "青敬路",
-        "C": "港灣道"
+        "A": "青敬路",
+        "B": "柯士甸道西",
+        "C": "九龍塘"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "青衣城位於青敬路。",
       "category": "location",
       "difficulty": "medium"
@@ -3612,8 +3612,8 @@
       "id": "B_278",
       "question": "港灣豪庭在哪裡？",
       "options": {
-        "A": "鰂魚涌",
-        "B": "半山",
+        "A": "上海街",
+        "B": "屯順街",
         "C": "福利街"
       },
       "answer": "C",
@@ -3625,11 +3625,11 @@
       "id": "B_279",
       "question": "新屯門中心在哪裡？",
       "options": {
-        "A": "安平街",
-        "B": "龍門路",
-        "C": "福利街"
+        "A": "龍門路",
+        "B": "何文田",
+        "C": "告士打道"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "新屯門中心位於龍門路。",
       "category": "location",
       "difficulty": "medium"
@@ -3638,11 +3638,11 @@
       "id": "B_280",
       "question": "錦綉花園在哪裡？",
       "options": {
-        "A": "小瀝源",
-        "B": "元朗",
-        "C": "昂坪"
+        "A": "啟成街",
+        "B": "跑馬地",
+        "C": "元朗"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "錦綉花園位於元朗。",
       "category": "location",
       "difficulty": "medium"
@@ -3651,11 +3651,11 @@
       "id": "B_281",
       "question": "嘉湖山莊在哪裡？",
       "options": {
-        "A": "璧峰路",
-        "B": "西營盤",
-        "C": "天水圍"
+        "A": "天水圍",
+        "B": "龍琛路",
+        "C": "上水"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "嘉湖山莊位於天水圍。",
       "category": "location",
       "difficulty": "medium"
@@ -3664,8 +3664,8 @@
       "id": "B_282",
       "question": "美孚新邨在哪裡？",
       "options": {
-        "A": "黃竹坑徑",
-        "B": "博物館道",
+        "A": "西貢",
+        "B": "北角",
         "C": "荔枝角"
       },
       "answer": "C",
@@ -3677,11 +3677,11 @@
       "id": "B_283",
       "question": "太古城在哪裡？",
       "options": {
-        "A": "青松觀路",
-        "B": "長沙灣道",
-        "C": "鰂魚涌"
+        "A": "楊屋道",
+        "B": "鰂魚涌",
+        "C": "長沙灣"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "太古城位於鰂魚涌。",
       "category": "location",
       "difficulty": "medium"
@@ -3691,8 +3691,8 @@
       "question": "沙田第一城在哪裡？",
       "options": {
         "A": "小瀝源路",
-        "B": "亞皆老街",
-        "C": "280. 港灣豪庭  福利街"
+        "B": "藍田",
+        "C": "大坑"
       },
       "answer": "A",
       "explanation": "沙田第一城位於小瀝源路。",
@@ -3704,8 +3704,8 @@
       "question": "黃埔花園在哪裡？",
       "options": {
         "A": "紅磡",
-        "B": "深旺道",
-        "C": "天壇街"
+        "B": "九龍灣",
+        "C": "大埔"
       },
       "answer": "A",
       "explanation": "黃埔花園位於紅磡。",
@@ -3716,11 +3716,11 @@
       "id": "B_286",
       "question": "海怡半島在哪裡？",
       "options": {
-        "A": "鴨脷洲",
-        "B": "馬頭角道",
-        "C": "黃竹坑"
+        "A": "博物館道",
+        "B": "安華街",
+        "C": "鴨脷洲"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "海怡半島位於鴨脷洲。",
       "category": "location",
       "difficulty": "medium"
@@ -3730,8 +3730,8 @@
       "question": "麗港城在哪裡？",
       "options": {
         "A": "觀塘",
-        "B": "掃管笏",
-        "C": "長沙灣"
+        "B": "小瀝源路",
+        "C": "軒尼詩道"
       },
       "answer": "A",
       "explanation": "麗港城位於觀塘。",
@@ -3742,11 +3742,11 @@
       "id": "B_288",
       "question": "愉景灣在哪裡？",
       "options": {
-        "A": "荃灣",
-        "B": "大嶼山",
-        "C": "汀角路"
+        "A": "鯉魚門道",
+        "B": "深旺道",
+        "C": "大嶼山"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "愉景灣位於大嶼山。",
       "category": "location",
       "difficulty": "medium"
@@ -3755,9 +3755,9 @@
       "id": "B_289",
       "question": "杏花邨在哪裡？",
       "options": {
-        "A": "德輔道中",
+        "A": "142. 港島海逸君綽酒店  北角",
         "B": "柴灣",
-        "C": "干諾道西"
+        "C": "軒尼詩道"
       },
       "answer": "B",
       "explanation": "杏花邨位於柴灣。",
@@ -3768,11 +3768,11 @@
       "id": "B_290",
       "question": "麗城花園在哪裡？",
       "options": {
-        "A": "安華街",
-        "B": "荃灣",
-        "C": "安邦路"
+        "A": "柯士甸道 西",
+        "B": "梳士巴利道",
+        "C": "荃灣"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "麗城花園位於荃灣。",
       "category": "location",
       "difficulty": "medium"
@@ -3781,11 +3781,11 @@
       "id": "B_291",
       "question": "映灣園在哪裡？",
       "options": {
-        "A": "東涌",
-        "B": "寶琳北路",
-        "C": "軒尼詩道"
+        "A": "柴灣",
+        "B": "東涌",
+        "C": "汀九"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "映灣園位於東涌。",
       "category": "location",
       "difficulty": "medium"
@@ -3794,11 +3794,11 @@
       "id": "B_292",
       "question": "珀麗灣在哪裡？",
       "options": {
-        "A": "亞公角街",
-        "B": "馬灣",
-        "C": "青敬路"
+        "A": "馬灣",
+        "B": "黃大仙",
+        "C": "粉嶺"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "珀麗灣位於馬灣。",
       "category": "location",
       "difficulty": "medium"
@@ -3808,8 +3808,8 @@
       "question": "維景灣畔在哪裡？",
       "options": {
         "A": "調景嶺",
-        "B": "北角",
-        "C": "掃管笏"
+        "B": "莊士敦道",
+        "C": "唐德街"
       },
       "answer": "A",
       "explanation": "維景灣畔位於調景嶺。",
@@ -3820,11 +3820,11 @@
       "id": "B_294",
       "question": "海逸豪園在哪裡？",
       "options": {
-        "A": "紅磡",
-        "B": "小瀝源",
-        "C": "英皇道"
+        "A": "金巴利道",
+        "B": "紅磡",
+        "C": "啟德"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "海逸豪園位於紅磡。",
       "category": "location",
       "difficulty": "medium"
@@ -3833,11 +3833,11 @@
       "id": "B_295",
       "question": "香港恒生大學在哪裡？",
       "options": {
-        "A": "藍田",
-        "B": "黃竹坑",
-        "C": "小瀝源"
+        "A": "小瀝源",
+        "B": "柴灣",
+        "C": "法院道"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "香港恒生大學位於小瀝源。",
       "category": "location",
       "difficulty": "medium"
@@ -3846,11 +3846,11 @@
       "id": "B_296",
       "question": "香港城市大學在哪裡？",
       "options": {
-        "A": "九龍塘",
-        "B": "142. 港島海逸君綽酒店  北角",
-        "C": "聯運街"
+        "A": "深水埗",
+        "B": "九龍塘",
+        "C": "全安路"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港城市大學位於九龍塘。",
       "category": "location",
       "difficulty": "medium"
@@ -3859,9 +3859,9 @@
       "id": "B_297",
       "question": "香港浸會大學在哪裡？",
       "options": {
-        "A": "偉業街",
+        "A": "金巴利道",
         "B": "九龍塘",
-        "C": "鑽石山"
+        "C": "西樓角路"
       },
       "answer": "B",
       "explanation": "香港浸會大學位於九龍塘。",
@@ -3872,11 +3872,11 @@
       "id": "B_298",
       "question": "香港樹仁大學在哪裡？",
       "options": {
-        "A": "北角",
-        "B": "灣仔",
-        "C": "花園道"
+        "A": "半山",
+        "B": "北角",
+        "C": "金鐘"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港樹仁大學位於北角。",
       "category": "location",
       "difficulty": "medium"
@@ -3886,8 +3886,8 @@
       "question": "嶺南大學在哪裡？",
       "options": {
         "A": "屯門",
-        "B": "- 東涌纜車",
-        "C": "金鐘道"
+        "B": "偉業街",
+        "C": "九龍灣"
       },
       "answer": "A",
       "explanation": "嶺南大學位於屯門。",
@@ -3898,11 +3898,11 @@
       "id": "B_300",
       "question": "香港中文大學在哪裡？",
       "options": {
-        "A": "青敬路",
-        "B": "掃管笏",
-        "C": "沙田"
+        "A": "干諾道西",
+        "B": "沙田",
+        "C": "佐敦"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "香港中文大學位於沙田。",
       "category": "location",
       "difficulty": "medium"
@@ -3911,11 +3911,11 @@
       "id": "B_301",
       "question": "香港教育大學在哪裡？",
       "options": {
-        "A": "馬頭圍道",
-        "B": "大埔",
-        "C": "荔枝角"
+        "A": "大埔",
+        "B": "金鐘        購物商場",
+        "C": "通州街"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "香港教育大學位於大埔。",
       "category": "location",
       "difficulty": "medium"
@@ -3924,11 +3924,11 @@
       "id": "B_302",
       "question": "香港理工大學在哪裡？",
       "options": {
-        "A": "紅磡",
-        "B": "安華街",
-        "C": "竹篙灣"
+        "A": "荔枝角",
+        "B": "紅磡",
+        "C": "九龍塘"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "香港理工大學位於紅磡。",
       "category": "location",
       "difficulty": "medium"
@@ -3938,11 +3938,76 @@
       "question": "香港科技大學在哪裡？",
       "options": {
         "A": "清水灣",
-        "B": "啟成街",
-        "C": "東院道"
+        "B": "鰂魚涌",
+        "C": "海庭道"
       },
       "answer": "A",
       "explanation": "香港科技大學位於清水灣。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_304",
+      "question": "東區尤德夫人那打素醫院在哪裡？",
+      "options": {
+        "A": "油麻地",
+        "B": "德輔道中",
+        "C": "柴灣"
+      },
+      "answer": "C",
+      "explanation": "東區尤德夫人那打素醫院位於柴灣。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_305",
+      "question": "雅麗氏何妙齡那打素醫院在哪裡？",
+      "options": {
+        "A": "紅磡",
+        "B": "馬灣",
+        "C": "大埔"
+      },
+      "answer": "C",
+      "explanation": "雅麗氏何妙齡那打素醫院位於大埔。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_306",
+      "question": "寶血醫院（明愛）在哪裡？",
+      "options": {
+        "A": "加士居道",
+        "B": "黃大仙",
+        "C": "深水埗"
+      },
+      "answer": "C",
+      "explanation": "寶血醫院（明愛）位於深水埗。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_307",
+      "question": "仁安醫院在哪裡？",
+      "options": {
+        "A": "安平街",
+        "B": "富健街",
+        "C": "全安路"
+      },
+      "answer": "B",
+      "explanation": "仁安醫院位於富健街。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_308",
+      "question": "大口環根德公爵夫人兒童醫院在哪裡？",
+      "options": {
+        "A": "屯門",
+        "B": "金巴利道",
+        "C": "薄扶林"
+      },
+      "answer": "C",
+      "explanation": "大口環根德公爵夫人兒童醫院位於薄扶林。",
       "category": "location",
       "difficulty": "medium"
     }
