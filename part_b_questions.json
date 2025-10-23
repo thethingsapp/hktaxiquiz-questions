@@ -1,23 +1,1012 @@
 {
-  "category": "乙部",
-  "title": "乙部 - 地方試題",
-  "description": "香港地理位置考題",
-  "passingScore": 17,
-  "totalQuestions": 20,
+  "part": "B",
+  "title": "地方及路線試題",
+  "description": "測試考生對香港地方的認識，以及路線規劃的能力。包括醫院、旅遊景點、酒店、政府樓宇、商業大廈、購物商場、住宅樓宇及大專院校",
+  "passingScore": 80,
+  "totalQuestions": 77,
+  "lastUpdated": "2025-10-24",
+  "officialSource": "運輸署地方及路線試題小冊子（2025年2月修訂版）",
   "questions": [
     {
-      "id": "B001",
-      "question": "中環交易廣場位於哪個地區？",
+      "id": "B_001",
+      "question": "瑪麗醫院在哪裡？",
       "options": {
-        "A": "中環",
-        "B": "金鐘",
-        "C": "灣仔",
-        "D": "上環"
+        "A": "翠嶺里",
+        "B": "薄扶林",
+        "C": "黃大仙"
       },
-      "correctAnswer": "A",
-      "explanation": "交易廣場位於香港島中環干諾道中。",
-      "difficulty": "easy",
-      "tags": ["地標", "中環"]
+      "answer": "B",
+      "explanation": "瑪麗醫院位於薄扶林。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_002",
+      "question": "威爾斯親王醫院在哪裡？",
+      "options": {
+        "A": "沙田",
+        "B": "荔景",
+        "C": "秀茂坪"
+      },
+      "answer": "A",
+      "explanation": "威爾斯親王醫院位於沙田。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_003",
+      "question": "贊育醫院在哪裡？",
+      "options": {
+        "A": "告士打道",
+        "B": "西營盤",
+        "C": "元朗"
+      },
+      "answer": "B",
+      "explanation": "贊育醫院位於西營盤。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_004",
+      "question": "東華醫院在哪裡？",
+      "options": {
+        "A": "上環",
+        "B": "博物館道",
+        "C": "九龍城"
+      },
+      "answer": "A",
+      "explanation": "東華醫院位於上環。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_005",
+      "question": "東華三院馮堯敬醫院在哪裡？",
+      "options": {
+        "A": "薄扶林",
+        "B": "山頂道",
+        "C": "寶寧里"
+      },
+      "answer": "A",
+      "explanation": "東華三院馮堯敬醫院位於薄扶林。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_006",
+      "question": "葛量洪醫院在哪裡？",
+      "options": {
+        "A": "松仁路",
+        "B": "黃竹坑",
+        "C": "柴灣"
+      },
+      "answer": "B",
+      "explanation": "葛量洪醫院位於黃竹坑。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_007",
+      "question": "東區尤德夫人那打素醫院在哪裡？",
+      "options": {
+        "A": "柴灣",
+        "B": "翠嶺里",
+        "C": "告士打道"
+      },
+      "answer": "A",
+      "explanation": "東區尤德夫人那打素醫院位於柴灣。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_008",
+      "question": "東華東院在哪裡？",
+      "options": {
+        "A": "海庭道",
+        "B": "鰂魚涌",
+        "C": "大坑"
+      },
+      "answer": "C",
+      "explanation": "東華東院位於大坑。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_009",
+      "question": "鄧肇堅醫院在哪裡？",
+      "options": {
+        "A": "西營盤",
+        "B": "灣仔",
+        "C": "深旺道"
+      },
+      "answer": "B",
+      "explanation": "鄧肇堅醫院位於灣仔。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_010",
+      "question": "律敦治醫院在哪裡？",
+      "options": {
+        "A": "灣仔",
+        "B": "尖沙咀",
+        "C": "觀塘"
+      },
+      "answer": "A",
+      "explanation": "律敦治醫院位於灣仔。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_011",
+      "question": "黃竹坑醫院在哪裡？",
+      "options": {
+        "A": "沐寧街",
+        "B": "黃竹坑徑",
+        "C": "大埔"
+      },
+      "answer": "B",
+      "explanation": "黃竹坑醫院位於黃竹坑徑。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_012",
+      "question": "伊利沙伯醫院在哪裡？",
+      "options": {
+        "A": "青松觀路",
+        "B": "山頂道",
+        "C": "油麻地"
+      },
+      "answer": "C",
+      "explanation": "伊利沙伯醫院位於油麻地。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_013",
+      "question": "九龍醫院在哪裡？",
+      "options": {
+        "A": "觀塘",
+        "B": "告士打道",
+        "C": "九龍城"
+      },
+      "answer": "C",
+      "explanation": "九龍醫院位於九龍城。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_014",
+      "question": "香港佛教醫院在哪裡？",
+      "options": {
+        "A": "大坑",
+        "B": "鰂魚涌",
+        "C": "樂富"
+      },
+      "answer": "C",
+      "explanation": "香港佛教醫院位於樂富。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_015",
+      "question": "香港眼科醫院在哪裡？",
+      "options": {
+        "A": "九龍城",
+        "B": "沙田",
+        "C": "啟德"
+      },
+      "answer": "A",
+      "explanation": "香港眼科醫院位於九龍城。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_016",
+      "question": "東華三院黃大仙醫院在哪裡？",
+      "options": {
+        "A": "沙田坳道",
+        "B": "達東路",
+        "C": "富健街"
+      },
+      "answer": "A",
+      "explanation": "東華三院黃大仙醫院位於沙田坳道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_017",
+      "question": "聖母醫院在哪裡？",
+      "options": {
+        "A": "香港仔",
+        "B": "沙田坳道",
+        "C": "黃大仙"
+      },
+      "answer": "C",
+      "explanation": "聖母醫院位於黃大仙。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_018",
+      "question": "廣華醫院在哪裡？",
+      "options": {
+        "A": "長沙灣",
+        "B": "灣仔",
+        "C": "油麻地"
+      },
+      "answer": "C",
+      "explanation": "廣華醫院位於油麻地。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_019",
+      "question": "明愛醫院在哪裡？",
+      "options": {
+        "A": "東院道",
+        "B": "長沙灣",
+        "C": "上水"
+      },
+      "answer": "B",
+      "explanation": "明愛醫院位於長沙灣。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_020",
+      "question": "瑪嘉烈醫院在哪裡？",
+      "options": {
+        "A": "寶寧里",
+        "B": "樂富",
+        "C": "荔景"
+      },
+      "answer": "C",
+      "explanation": "瑪嘉烈醫院位於荔景。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_021",
+      "question": "葵涌醫院在哪裡？",
+      "options": {
+        "A": "荔景",
+        "B": "全安路",
+        "C": "沙田坳道"
+      },
+      "answer": "A",
+      "explanation": "葵涌醫院位於荔景。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_022",
+      "question": "仁濟醫院在哪裡？",
+      "options": {
+        "A": "寶寧里",
+        "B": "山頂道",
+        "C": "荃灣"
+      },
+      "answer": "C",
+      "explanation": "仁濟醫院位於荃灣。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_023",
+      "question": "基督教聯合醫院在哪裡？",
+      "options": {
+        "A": "博物館道",
+        "B": "秀茂坪",
+        "C": "赤鱲角"
+      },
+      "answer": "B",
+      "explanation": "基督教聯合醫院位於秀茂坪。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_024",
+      "question": "靈實醫院在哪裡？",
+      "options": {
+        "A": "上水",
+        "B": "赤鱲角",
+        "C": "將軍澳"
+      },
+      "answer": "C",
+      "explanation": "靈實醫院位於將軍澳。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_025",
+      "question": "將軍澳醫院在哪裡？",
+      "options": {
+        "A": "達東路",
+        "B": "寶寧里",
+        "C": "沐寧街"
+      },
+      "answer": "B",
+      "explanation": "將軍澳醫院位於寶寧里。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_026",
+      "question": "沙田醫院在哪裡？",
+      "options": {
+        "A": "達東路",
+        "B": "將軍澳",
+        "C": "亞公角街"
+      },
+      "answer": "C",
+      "explanation": "沙田醫院位於亞公角街。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_027",
+      "question": "雅麗氏何妙齡那打素醫院在哪裡？",
+      "options": {
+        "A": "大埔",
+        "B": "寶寧里",
+        "C": "上環"
+      },
+      "answer": "A",
+      "explanation": "雅麗氏何妙齡那打素醫院位於大埔。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_028",
+      "question": "大埔醫院在哪裡？",
+      "options": {
+        "A": "全安路",
+        "B": "博物館道",
+        "C": "沐寧街"
+      },
+      "answer": "A",
+      "explanation": "大埔醫院位於全安路。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_029",
+      "question": "北區醫院在哪裡？",
+      "options": {
+        "A": "車公廟路",
+        "B": "上水",
+        "C": "屯門"
+      },
+      "answer": "B",
+      "explanation": "北區醫院位於上水。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_030",
+      "question": "屯門醫院在哪裡？",
+      "options": {
+        "A": "青松觀路",
+        "B": "黃大仙",
+        "C": "元朗"
+      },
+      "answer": "A",
+      "explanation": "屯門醫院位於青松觀路。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_031",
+      "question": "博愛醫院在哪裡？",
+      "options": {
+        "A": "香港仔",
+        "B": "元朗",
+        "C": "灣仔"
+      },
+      "answer": "B",
+      "explanation": "博愛醫院位於元朗。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_032",
+      "question": "嘉諾撒醫院在哪裡？",
+      "options": {
+        "A": "寶寧里",
+        "B": "全安路",
+        "C": "半山"
+      },
+      "answer": "C",
+      "explanation": "嘉諾撒醫院位於半山。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_033",
+      "question": "明德國際醫院在哪裡？",
+      "options": {
+        "A": "摩頓臺",
+        "B": "跑馬地",
+        "C": "山頂"
+      },
+      "answer": "C",
+      "explanation": "明德國際醫院位於山頂。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_034",
+      "question": "香港港安醫院在哪裡？",
+      "options": {
+        "A": "啟德",
+        "B": "上水",
+        "C": "跑馬地"
+      },
+      "answer": "C",
+      "explanation": "香港港安醫院位於跑馬地。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_035",
+      "question": "聖保祿醫院在哪裡？",
+      "options": {
+        "A": "山頂道",
+        "B": "荃景圍",
+        "C": "東院道"
+      },
+      "answer": "C",
+      "explanation": "聖保祿醫院位於東院道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_036",
+      "question": "養和醫院在哪裡？",
+      "options": {
+        "A": "元朗",
+        "B": "跑馬地",
+        "C": "全安路"
+      },
+      "answer": "B",
+      "explanation": "養和醫院位於跑馬地。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_037",
+      "question": "寶血醫院（明愛）在哪裡？",
+      "options": {
+        "A": "深水埗",
+        "B": "山頂",
+        "C": "上環"
+      },
+      "answer": "A",
+      "explanation": "寶血醫院（明愛）位於深水埗。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_038",
+      "question": "播道醫院在哪裡？",
+      "options": {
+        "A": "香港仔",
+        "B": "九龍城",
+        "C": "山頂道"
+      },
+      "answer": "B",
+      "explanation": "播道醫院位於九龍城。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_039",
+      "question": "聖德肋撒醫院在哪裡？",
+      "options": {
+        "A": "荔景",
+        "B": "九龍城",
+        "C": "大坑"
+      },
+      "answer": "B",
+      "explanation": "聖德肋撒醫院位於九龍城。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_040",
+      "question": "香港浸信會醫院在哪裡？",
+      "options": {
+        "A": "西營盤",
+        "B": "半山",
+        "C": "九龍塘"
+      },
+      "answer": "C",
+      "explanation": "香港浸信會醫院位於九龍塘。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_041",
+      "question": "荃灣港安醫院在哪裡？",
+      "options": {
+        "A": "秀茂坪",
+        "B": "荃灣",
+        "C": "荃景圍"
+      },
+      "answer": "C",
+      "explanation": "荃灣港安醫院位於荃景圍。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_042",
+      "question": "仁安醫院在哪裡？",
+      "options": {
+        "A": "黃竹坑",
+        "B": "松仁路",
+        "C": "富健街"
+      },
+      "answer": "C",
+      "explanation": "仁安醫院位於富健街。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_043",
+      "question": "青山醫院在哪裡？",
+      "options": {
+        "A": "屯門",
+        "B": "寶寧里",
+        "C": "荃灣"
+      },
+      "answer": "A",
+      "explanation": "青山醫院位於屯門。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_044",
+      "question": "小欖醫院在哪裡？",
+      "options": {
+        "A": "承豐道",
+        "B": "青松觀路",
+        "C": "荃景圍"
+      },
+      "answer": "B",
+      "explanation": "小欖醫院位於青松觀路。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_045",
+      "question": "大口環根德公爵夫人兒童醫院在哪裡？",
+      "options": {
+        "A": "車公廟路",
+        "B": "薄扶林",
+        "C": "荃灣"
+      },
+      "answer": "B",
+      "explanation": "大口環根德公爵夫人兒童醫院位於薄扶林。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_046",
+      "question": "北大嶼山醫院在哪裡？",
+      "options": {
+        "A": "東院道",
+        "B": "松仁路",
+        "C": "沙田坳道"
+      },
+      "answer": "B",
+      "explanation": "北大嶼山醫院位於松仁路。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_047",
+      "question": "啟德郵輪碼頭在哪裡？",
+      "options": {
+        "A": "荃灣",
+        "B": "啟成街",
+        "C": "承豐道"
+      },
+      "answer": "C",
+      "explanation": "啟德郵輪碼頭位於承豐道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_048",
+      "question": "香港故宮文化博物館在哪裡？",
+      "options": {
+        "A": "黃竹坑徑",
+        "B": "博物館道",
+        "C": "深旺道"
+      },
+      "answer": "B",
+      "explanation": "香港故宮文化博物館位於博物館道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_049",
+      "question": "戲曲中心在哪裡？",
+      "options": {
+        "A": "黃竹坑",
+        "B": "啟成街",
+        "C": "柯士甸道西"
+      },
+      "answer": "C",
+      "explanation": "戲曲中心位於柯士甸道西。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_050",
+      "question": "香港麗晶酒店在哪裡？",
+      "options": {
+        "A": "尖沙咀",
+        "B": "樂富",
+        "C": "大坑"
+      },
+      "answer": "A",
+      "explanation": "香港麗晶酒店位於尖沙咀。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_051",
+      "question": "名迪港島酒店在哪裡？",
+      "options": {
+        "A": "赤鱲角",
+        "B": "摩頓臺",
+        "C": "深旺道"
+      },
+      "answer": "B",
+      "explanation": "名迪港島酒店位於摩頓臺。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_052",
+      "question": "香港富麗敦海洋公園酒店在哪裡？",
+      "options": {
+        "A": "樂富",
+        "B": "朗日路",
+        "C": "香港仔"
+      },
+      "answer": "C",
+      "explanation": "香港富麗敦海洋公園酒店位於香港仔。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_053",
+      "question": "麗豪航天城酒店在哪裡？",
+      "options": {
+        "A": "黃竹坑徑",
+        "B": "赤鱲角",
+        "C": "深旺道"
+      },
+      "answer": "B",
+      "explanation": "麗豪航天城酒店位於赤鱲角。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_054",
+      "question": "西九龍政府合署在哪裡？",
+      "options": {
+        "A": "告士打道",
+        "B": "香港仔",
+        "C": "海庭道"
+      },
+      "answer": "C",
+      "explanation": "西九龍政府合署位於海庭道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_055",
+      "question": "入境事務處總部在哪裡？",
+      "options": {
+        "A": "長沙灣",
+        "B": "將軍澳",
+        "C": "達東路"
+      },
+      "answer": "B",
+      "explanation": "入境事務處總部位於將軍澳。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_056",
+      "question": "機電工程署總部大樓在哪裡？",
+      "options": {
+        "A": "啟成街",
+        "B": "承豐道",
+        "C": "深旺道"
+      },
+      "answer": "A",
+      "explanation": "機電工程署總部大樓位於啟成街。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_057",
+      "question": "美麗華廣場在哪裡？",
+      "options": {
+        "A": "九龍城",
+        "B": "尖沙咀",
+        "C": "松仁路"
+      },
+      "answer": "B",
+      "explanation": "美麗華廣場位於尖沙咀。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_058",
+      "question": "世貿中心在哪裡？",
+      "options": {
+        "A": "告士打道",
+        "B": "山頂",
+        "C": "尖沙咀"
+      },
+      "answer": "A",
+      "explanation": "世貿中心位於告士打道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_059",
+      "question": "AIRSIDE在哪裡？",
+      "options": {
+        "A": "黃大仙",
+        "B": "啟德",
+        "C": "荃景圍"
+      },
+      "answer": "B",
+      "explanation": "AIRSIDE位於啟德。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_060",
+      "question": "圍方在哪裡？",
+      "options": {
+        "A": "車公廟路",
+        "B": "昂坪",
+        "C": "香港仔"
+      },
+      "answer": "A",
+      "explanation": "圍方位於車公廟路。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_061",
+      "question": "APM在哪裡？",
+      "options": {
+        "A": "觀塘",
+        "B": "黃竹坑",
+        "C": "大坑"
+      },
+      "answer": "A",
+      "explanation": "APM位於觀塘。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_062",
+      "question": "V Walk在哪裡？",
+      "options": {
+        "A": "深旺道",
+        "B": "半山",
+        "C": "元朗"
+      },
+      "answer": "A",
+      "explanation": "V Walk位於深旺道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_063",
+      "question": "富榮花園在哪裡？",
+      "options": {
+        "A": "海庭道",
+        "B": "博物館道",
+        "C": "沙田"
+      },
+      "answer": "A",
+      "explanation": "富榮花園位於海庭道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_064",
+      "question": "海山樓在哪裡？",
+      "options": {
+        "A": "承豐道",
+        "B": "鰂魚涌",
+        "C": "將軍澳"
+      },
+      "answer": "B",
+      "explanation": "海山樓位於鰂魚涌。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_065",
+      "question": "嘉匯在哪裡？",
+      "options": {
+        "A": "沐寧街",
+        "B": "富健街",
+        "C": "灣仔"
+      },
+      "answer": "A",
+      "explanation": "嘉匯位於沐寧街。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_066",
+      "question": "擎天半島在哪裡？",
+      "options": {
+        "A": "柯士甸道西",
+        "B": "黃竹坑",
+        "C": "告士打道"
+      },
+      "answer": "A",
+      "explanation": "擎天半島位於柯士甸道西。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_067",
+      "question": "形點在哪裡？",
+      "options": {
+        "A": "荃灣",
+        "B": "朗日路",
+        "C": "黃竹坑"
+      },
+      "answer": "B",
+      "explanation": "形點位於朗日路。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_068",
+      "question": "聖方濟各大學在哪裡？",
+      "options": {
+        "A": "翠嶺里",
+        "B": "長沙灣",
+        "C": "亞公角街"
+      },
+      "answer": "A",
+      "explanation": "聖方濟各大學位於翠嶺里。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_069",
+      "question": "九龍寨城公園在哪裡？",
+      "options": {
+        "A": "達東路",
+        "B": "九龍城",
+        "C": "荔景"
+      },
+      "answer": "B",
+      "explanation": "九龍寨城公園位於九龍城。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_070",
+      "question": "昂坪纜車-東涌纜車站在哪裡？",
+      "options": {
+        "A": "秀茂坪",
+        "B": "達東路",
+        "C": "黃竹坑"
+      },
+      "answer": "B",
+      "explanation": "昂坪纜車-東涌纜車站位於達東路。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_071",
+      "question": "香港海洋公園在哪裡？",
+      "options": {
+        "A": "黃竹坑",
+        "B": "半山",
+        "C": "觀塘"
+      },
+      "answer": "A",
+      "explanation": "香港海洋公園位於黃竹坑。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_072",
+      "question": "寶蓮禪寺在哪裡？",
+      "options": {
+        "A": "昂坪",
+        "B": "跑馬地",
+        "C": "上水"
+      },
+      "answer": "A",
+      "explanation": "寶蓮禪寺位於昂坪。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_073",
+      "question": "凌霄閣在哪裡？",
+      "options": {
+        "A": "山頂道",
+        "B": "東院道",
+        "C": "達東路"
+      },
+      "answer": "A",
+      "explanation": "凌霄閣位於山頂道。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_074",
+      "question": "亞洲國際博覽館在哪裡？",
+      "options": {
+        "A": "赤鱲角",
+        "B": "西營盤",
+        "C": "觀塘"
+      },
+      "answer": "A",
+      "explanation": "亞洲國際博覽館位於赤鱲角。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_075",
+      "question": "屏山文物徑在哪裡？",
+      "options": {
+        "A": "元朗",
+        "B": "跑馬地",
+        "C": "荃灣"
+      },
+      "answer": "A",
+      "explanation": "屏山文物徑位於元朗。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_076",
+      "question": "香港會議展覽中心在哪裡？",
+      "options": {
+        "A": "灣仔",
+        "B": "翠嶺里",
+        "C": "油麻地"
+      },
+      "answer": "A",
+      "explanation": "香港會議展覽中心位於灣仔。",
+      "category": "location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "B_077",
+      "question": "香港文化博物館在哪裡？",
+      "options": {
+        "A": "沙田",
+        "B": "九龍塘",
+        "C": "山頂道"
+      },
+      "answer": "A",
+      "explanation": "香港文化博物館位於沙田。",
+      "category": "location",
+      "difficulty": "medium"
     }
   ]
 }

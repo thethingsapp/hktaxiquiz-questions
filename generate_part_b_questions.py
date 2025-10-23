@@ -126,7 +126,7 @@ def create_location_question(place_name: str, correct_location: str, question_id
     correct_letter = [k for k, v in options_dict.items() if v == correct_location][0]
     
     question = {
-        "id": f"C_{question_id:03d}",
+        "id": f"B_{question_id:03d}",
         "question": f"{place_name}在哪裡？",
         "options": options_dict,
         "answer": correct_letter,
@@ -140,7 +140,7 @@ def create_location_question(place_name: str, correct_location: str, question_id
 def main():
     """主函數：生成完整題庫"""
     
-    print("🚀 開始生成 Part C 題庫...")
+    print("🚀 開始生成 Part B 題庫（地方及路線試題）...")
     
     questions = []
     question_id = 1
@@ -153,9 +153,9 @@ def main():
     
     # 保存為 JSON
     output_data = {
-        "part": "C",
-        "title": "道路及地理知識",
-        "description": "測試考生對香港主要地點、道路和路線的認識",
+        "part": "B",
+        "title": "地方及路線試題",
+        "description": "測試考生對香港地方的認識，以及路線規劃的能力。包括醫院、旅遊景點、酒店、政府樓宇、商業大廈、購物商場、住宅樓宇及大專院校",
         "passingScore": 80,
         "totalQuestions": len(questions),
         "lastUpdated": "2025-10-24",
@@ -163,7 +163,7 @@ def main():
         "questions": questions
     }
     
-    output_file = "part_c_questions.json"
+    output_file = "part_b_questions.json"
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     
@@ -172,11 +172,12 @@ def main():
     print(f"\n📊 題目統計:")
     print(f"   - 地點問題: {len(questions)} 題")
     print(f"   - 每題選項: 3 個（1 正確 + 2 干擾）")
+    print(f"   - 正確分類: Part B - 地方及路線試題")
     
     # 顯示前 3 道題目示例
     print(f"\n📝 題目示例:")
     for i, q in enumerate(questions[:3], 1):
-        print(f"\n{i}. {q['question']}")
+        print(f"\n{i}. [{q['id']}] {q['question']}")
         for opt, value in q['options'].items():
             marker = "✓" if opt == q['answer'] else " "
             print(f"   {marker} {opt}. {value}")
