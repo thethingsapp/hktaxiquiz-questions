@@ -1,0 +1,254 @@
+{
+  "part": "甲部-的士則例",
+  "title": "甲部 - 的士則例",
+  "description": "的士營運相關法規",
+  "passingScore": 17,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "A001",
+      "question": "任何人無理地損壞或更改的士計程錶，屬違法。如屬首次定罪，可被______。如屬再次定罪，可被______。",
+      "options": {
+        "A": "罰款 $10,000及監禁6個月, 罰款 $25,000及監禁12個月",
+        "B": "罰款 $20,000及監禁7個月, 罰款 $30,000及監禁8個月",
+        "C": "罰款 $25,000及監禁6個月, 罰款 $35,000及監禁12個月",
+        "D": "罰款 $10,000及監禁8個月, 罰款 $25,000及監禁12個月"
+      },
+      "correctAnswer": "A",
+      "explanation": "根據《道路交通(公共服務車輛)規例》，首次定罪罰款$10,000及監禁6個月，再次定罪罰款$25,000及監禁12個月。",
+      "difficulty": "medium",
+      "tags": ["計程錶", "罰則"]
+    },
+    {
+      "id": "A002",
+      "question": "的士計程錶設有一個面積不少於______的顯示「FOR HIRE」（即「出租」）或「TAXI」（即「的士」）字樣的指示器(或稱「旗」)。",
+      "options": {
+        "A": "100毫米×50毫米",
+        "B": "100厘米×50厘米",
+        "C": "100毫米×100毫米",
+        "D": "100厘米×100厘米"
+      },
+      "correctAnswer": "A",
+      "explanation": "根據規例，的士計程錶指示器的最小面積為100毫米×50毫米。",
+      "difficulty": "easy",
+      "tags": ["計程錶", "規格"]
+    },
+    {
+      "id": "A003",
+      "question": "的士司機必須持有有效的______。",
+      "options": {
+        "A": "駕駛執照及的士駕駛執照",
+        "B": "身份證",
+        "C": "的士證",
+        "D": "商業登記證"
+      },
+      "correctAnswer": "A",
+      "explanation": "的士司機必須同時持有有效的私家車駕駛執照和的士駕駛執照。",
+      "difficulty": "easy",
+      "tags": ["執照", "法規"]
+    },
+    {
+      "id": "A004",
+      "question": "每部的士須安裝一個設計及構造獲_______批准及在指定位置和方式下裝配之的士計程錶。",
+      "options": {
+        "A": "的士車主",
+        "B": "運輸署署長",
+        "C": "警務處處長",
+        "D": "機電工程署署長"
+      },
+      "correctAnswer": "B",
+      "explanation": "的士計程錶必須為獲運輸署署長批准之型號，並按指定位置及方式裝配，以確保準確及防篡改。",
+      "difficulty": "medium",
+      "tags": ["計程錶", "規例"]
+    },
+    {
+      "id": "A005",
+      "question": "下列哪一項不符合的士計程錶的構造規定？",
+      "options": {
+        "A": "不可封實，以便壞了時司機可隨時修理",
+        "B": "錶面應設有照明設備",
+        "C": "錶面上顯示根據規定的最低收費和遞增的附加費",
+        "D": "錶面上顯示車費和附加費的數字、高度不少於10毫米"
+      },
+      "correctAnswer": "A",
+      "explanation": "計程錶應為防篡改設計，並按規定顯示與照明；所謂『不可封實』以便司機自行修理不符合要求。",
+      "difficulty": "medium",
+      "tags": ["計程錶", "構造", "規例"]
+    },
+    {
+      "id": "A006",
+      "question": "test A006",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A007",
+      "question": "test A007",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A008",
+      "question": "test A008",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A009",
+      "question": "test A009",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A010",
+      "question": "test A010",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A011",
+      "question": "test A011",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A012",
+      "question": "test A012",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A013",
+      "question": "test A013",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A014",
+      "question": "test A014",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A015",
+      "question": "test A015",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A016",
+      "question": "test A016",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A017",
+      "question": "test A017",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A018",
+      "question": "test A018",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A019",
+      "question": "test A019",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A020",
+      "question": "test A020",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A021",
+      "question": "test A021",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A022",
+      "question": "test A022",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A023",
+      "question": "test A023",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A024",
+      "question": "test A024",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A025",
+      "question": "test A025",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A026",
+      "question": "test A026",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A027",
+      "question": "test A027",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A028",
+      "question": "test A028",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A029",
+      "question": "test A029",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "A030",
+      "question": "test A030",
+      "options": {"A": "test", "B": "test", "C": "test", "D": "test"},
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    }
+  ]
+}
