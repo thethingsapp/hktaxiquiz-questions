@@ -3,7 +3,7 @@
   "title": "乙部 - 道路使用者守則（Next Staging）",
   "description": "本檔為 Part B 800 題目最終版的建置暫存；完成審校後將取代 part_b_questions.json。題型固定為三選一（A/B/C）。",
   "passingScore": 0,
-  "totalQuestions": 1244,
+  "totalQuestions": 1114,
   "questions": [
     {
       "id": "B131",
