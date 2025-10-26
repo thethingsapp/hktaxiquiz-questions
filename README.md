@@ -5,19 +5,22 @@
 ## 📁 文件結構
 
 ```
-├── part_a_questions.json          # 甲部 - 的士則例 (20題)
-├── part_a_questions.json.version  # 版本號
-├── part_b_questions.json          # 乙部 - 地方試題 (20題)
+├── part_a1_questions.json         # 甲部 - 的士則例（275 題）
+├── part_a2_questions.json         # 甲部 - 地方（地點題 1–230，共 230 題）
+├── part_a3_questions.json         # 甲部 - 路線（路線題 231–245，共 15 題）
+├── part_b_questions.json          # 乙部 - 地方試題
 ├── part_b_questions.json.version  # 版本號
-├── part_c_questions.json          # 丙部 - 道路守則 (50題)
+├── part_c_questions.json          # 丙部 - 道路守則
 └── part_c_questions.json.version  # 版本號
 ```
 
-## 📊 題目統計
+## 📊 題目統計（甲部）
 
-- **甲部（的士則例）**: 20 題，及格 17 題（85%）
-- **乙部（地方試題）**: 20 題，及格 17 題（85%）
-- **丙部（道路守則）**: 50 題，及格 43 題（86%）
+- 甲部 A1（的士則例）：275 題
+- 甲部 A2（地方：1–230）：230 題
+- 甲部 A3（路線：231–245）：15 題
+
+> 備註：乙部與丙部仍沿用既有檔案，實際題數以對應 JSON 的 `totalQuestions` 欄位為準。
 
 ## 🔄 版本管理
 
@@ -27,41 +30,36 @@
 - **Y (次版本號)**: 新增題目或章節
 - **Z (修訂號)**: 修正錯誤、微調
 
-### 當前版本
-
-- 甲部: v1.0.0
-- 乙部: v1.0.0
-- 丙部: v1.0.0
+> 若有提供 `*.version` 檔，請依語義化版本更新；A1/A2/A3 檔目前以檔內欄位與變更記錄為準。
 
 ## 📝 更新流程
 
 ### 1. 修改題目
 
-編輯對應的 JSON 文件：
+編輯對應的 JSON 文件（例如 A1）：
 
 ```bash
-# 例如修改甲部題目
-vim part_a_questions.json
+vim part_a1_questions.json
 ```
 
 ### 2. 更新版本號
 
 ```bash
 # 修正錯誤（小改動）
-echo "v1.0.1" > part_a_questions.json.version
+echo "v1.0.1" > part_a1_questions.json.version
 
 # 新增題目（中改動）
-echo "v1.1.0" > part_a_questions.json.version
+echo "v1.1.0" > part_a1_questions.json.version
 
 # 大幅改動
-echo "v2.0.0" > part_a_questions.json.version
+echo "v2.0.0" > part_a1_questions.json.version
 ```
 
 ### 3. 提交更改
 
 ```bash
 git add .
-git commit -m "更新甲部題目 v1.0.1: 修正第3題答案"
+git commit -m "同步 A1 題庫至 275 題，更新 README 統計與維護原則"
 git push
 ```
 
@@ -73,33 +71,28 @@ git push
 
 ### GitHub Raw URL
 ```
-https://raw.githubusercontent.com/你的用戶名/hktaxiquiz-questions/main/part_a_questions.json
+https://raw.githubusercontent.com/thethingsapp/hktaxiquiz-questions/main/part_a1_questions.json
 ```
 
-### jsDelivr CDN（推薦，中國大陸訪問快）
+### jsDelivr CDN（推薦）
 ```
-https://cdn.jsdelivr.net/gh/你的用戶名/hktaxiquiz-questions@main/part_a_questions.json
+https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a1_questions.json
 ```
 
-## 📋 JSON 格式說明
+## 📋 JSON 格式說明（以 A1 為例）
 
 ```json
 {
-  "category": "甲部",
-  "title": "的士則例",
-  "description": "香港的士則例相關題目",
+  "part": "甲部-的士則例",
+  "title": "甲部 - 的士則例",
+  "description": "的士營運相關法規",
   "passingScore": 17,
-  "totalQuestions": 20,
+  "totalQuestions": 275,
   "questions": [
     {
       "id": "A001",
       "question": "題目內容",
-      "options": {
-        "A": "選項A",
-        "B": "選項B",
-        "C": "選項C",
-        "D": "選項D"
-      },
+      "options": { "A": "選項A", "B": "選項B", "C": "選項C", "D": "選項D" },
       "correctAnswer": "A",
       "explanation": "答案解釋",
       "difficulty": "easy",
@@ -108,6 +101,13 @@ https://cdn.jsdelivr.net/gh/你的用戶名/hktaxiquiz-questions@main/part_a_que
   ]
 }
 ```
+
+## 🧭 編修與去重原則（甲部）
+
+- 嚴守既有 Schema 與命名；採「追加 Append」方式擴充，並保持 `totalQuestions` 正確。
+- 文字避免引用具體敏感數值（非必要時），採原則導向敘述；事實依官方資料交叉核對。
+- 去重：發現完全重覆的題目，做輕量改寫（微調問法/情境）保留最清晰版本；避免語義重覆堆疊。
+- 維護標籤與難度的一致性；優先清晰、可驗證、不中立偏頗的表述。
 
 ## 📊 題目來源
 
@@ -125,4 +125,4 @@ https://cdn.jsdelivr.net/gh/你的用戶名/hktaxiquiz-questions@main/part_a_que
 
 ---
 
-最後更新：2025-10-23
+最後更新：2025-10-26
