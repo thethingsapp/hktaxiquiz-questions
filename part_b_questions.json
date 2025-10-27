@@ -15846,7 +15846,7 @@
       "id": "B1087",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Left bend sign with ‘reduce speed now’ (right if symbol reversed)",
+        "A": "轉左彎並立即減速（符號反轉則為右彎）",
         "B": "禁止進入",
         "C": "單向通行"
       },
