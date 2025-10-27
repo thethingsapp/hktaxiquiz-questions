@@ -1,7 +1,7 @@
 {
   "part": "乙部-道路使用者守則",
-  "title": "乙部 - 道路使用者守則（Next Staging）",
-  "description": "本檔為 Part B 800 題目最終版的建置暫存；完成審校後將取代 part_b_questions.json。題型固定為三選一（A/B/C）。",
+  "title": "乙部 - 道路使用者守則",
+  "description": "涵蓋道路交通標誌與標記、讓路與優先規則、人行橫過設施、速限與安全距離、酒／藥駕與扣分、特殊環境駕駛及特別道路使用者等。題目為原創與重述，非逐字引用官方文本。",
   "passingScore": 0,
   "totalQuestions": 1152,
   "questions": [
@@ -13794,7 +13794,7 @@
       "id": "B979",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Give way to traffic on major road",
+        "A": "讓路予幹道車輛",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13813,7 +13813,7 @@
       "id": "B980",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "One way traffic",
+        "A": "單程行車",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13832,7 +13832,7 @@
       "id": "B981",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No exit for vehicles",
+        "A": "無出口（車輛）",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13851,7 +13851,7 @@
       "id": "B982",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Way in for vehicles",
+        "A": "車輛入口",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13870,7 +13870,7 @@
       "id": "B983",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No entry for vehicles",
+        "A": "車輛禁止進入",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13889,7 +13889,7 @@
       "id": "B984",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Autotoll booth",
+        "A": "自動收費亭",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13908,7 +13908,7 @@
       "id": "B985",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Autotoll traffic lane",
+        "A": "自動收費車道",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13927,7 +13927,7 @@
       "id": "B986",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Vehicles must stop at the sign (police)",
+        "A": "遇警察標誌必須停車",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13946,7 +13946,7 @@
       "id": "B987",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Vehicles must stop at the sign (school crossing patrol)",
+        "A": "遇學童橫過標誌必須停車",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13965,7 +13965,7 @@
       "id": "B988",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No lane changing",
+        "A": "不得更換行車線",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -13984,7 +13984,7 @@
       "id": "B989",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Segregated pedestrian and bicycle/tricycle route. No motor vehicles",
+        "A": "行人與單車／三輪車分隔路徑，禁止機動車",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14003,7 +14003,7 @@
       "id": "B990",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Bicycle/tricycle route. No motor vehicles",
+        "A": "單車／三輪車專用路徑，禁止機動車",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14022,7 +14022,7 @@
       "id": "B991",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Stop or give way ahead",
+        "A": "前方停車或讓路",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14041,7 +14041,7 @@
       "id": "B992",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Road narrows on both sides ahead",
+        "A": "前方道路兩側收窄",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14060,7 +14060,7 @@
       "id": "B993",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Reduce speed now",
+        "A": "立即減速",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14079,7 +14079,7 @@
       "id": "B994",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Lowering of speed limit to that shown ahead",
+        "A": "前方限速降低至所示",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14098,7 +14098,7 @@
       "id": "B995",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Sharp deviation of route to left/right",
+        "A": "路線急轉向左／右",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14117,7 +14117,7 @@
       "id": "B996",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Traffic signals ahead",
+        "A": "前方交通燈號",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14136,7 +14136,7 @@
       "id": "B997",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Steep hill upwards ahead",
+        "A": "前方陡坡上斜",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14155,7 +14155,7 @@
       "id": "B998",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Steep hill downwards ahead",
+        "A": "前方陡坡下斜",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14174,7 +14174,7 @@
       "id": "B999",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Use low gear",
+        "A": "使用低波",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14193,7 +14193,7 @@
       "id": "B1000",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Use low gear for distance shown",
+        "A": "於所示距離內使用低波",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14212,7 +14212,7 @@
       "id": "B1001",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Keep in low gear",
+        "A": "保持低波",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14231,7 +14231,7 @@
       "id": "B1002",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Distance to 'Give way' line (for use with Sign 1)",
+        "A": "距離「讓路」線（與標誌 1 併用）",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14250,7 +14250,7 @@
       "id": "B1003",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "100m countdown marker to exit (left)",
+        "A": "前方左側出口倒數標記 100 米",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14269,7 +14269,7 @@
       "id": "B1004",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "200m countdown marker to exit (left)",
+        "A": "前方左側出口倒數標記 200 米",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14288,7 +14288,7 @@
       "id": "B1005",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "300m countdown marker to exit (left)",
+        "A": "前方左側出口倒數標記 300 米",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14307,7 +14307,7 @@
       "id": "B1006",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Advance warning: need for lane selection",
+        "A": "預先警告：需要選擇行車線",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14326,7 +14326,7 @@
       "id": "B1007",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Carriageway narrows on right (info)",
+        "A": "車道右側收窄（資訊）",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14345,7 +14345,7 @@
       "id": "B1008",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Census point",
+        "A": "交通普查點",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14364,7 +14364,7 @@
       "id": "B1009",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Direction to airport",
+        "A": "機場方向",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14383,7 +14383,7 @@
       "id": "B1010",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Direction to nearby hospital with A&E",
+        "A": "附近設有急症室的醫院方向",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14402,7 +14402,7 @@
       "id": "B1011",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Direction to parking place",
+        "A": "停車場方向",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14421,7 +14421,7 @@
       "id": "B1012",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "For use by police at accident site",
+        "A": "供警方於意外現場使用",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14440,7 +14440,7 @@
       "id": "B1013",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Give way to buses",
+        "A": "讓路予巴士",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14459,7 +14459,7 @@
       "id": "B1014",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Lantau taxi pick up and drop off only",
+        "A": "大嶼山的士上落客專用",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14478,7 +14478,7 @@
       "id": "B1015",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Segregated pedestrian route and multi-cycle ground. No motor vehicles",
+        "A": "行人路徑與多用途單車場分隔，禁止機動車",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14497,7 +14497,7 @@
       "id": "B1016",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Multicycle ground. No motor vehicles",
+        "A": "多用途單車場，禁止機動車",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14516,7 +14516,7 @@
       "id": "B1017",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Cycling restriction – cyclists must dismount and push their cycles",
+        "A": "單車限制—騎者須下車推行",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14535,7 +14535,7 @@
       "id": "B1018",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of cycling restriction",
+        "A": "單車限制終止",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14554,7 +14554,7 @@
       "id": "B1019",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Light rail vehicles and trams only",
+        "A": "輕鐵及電車專用",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14573,7 +14573,7 @@
       "id": "B1020",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Dual carriageway ahead",
+        "A": "前方分隔行車道",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14592,7 +14592,7 @@
       "id": "B1021",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Direction in which the prohibition or restriction applies (symbol may be reversed)",
+        "A": "禁止／限制適用之方向（符號可反轉）",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14611,7 +14611,7 @@
       "id": "B1022",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Prohibition or restriction applies in both directions",
+        "A": "禁止或限制雙向適用",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14630,7 +14630,7 @@
       "id": "B1023",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Prohibition or mandatory order applies to vehicle class shown",
+        "A": "禁止或強制指示適用於所示車種",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14649,7 +14649,7 @@
       "id": "B1024",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "One way road ahead",
+        "A": "前方單程路",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14668,7 +14668,7 @@
       "id": "B1025",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No stopping during time shown",
+        "A": "所示時段禁止停車",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14687,7 +14687,7 @@
       "id": "B1026",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of 'no stopping' restriction",
+        "A": "禁止停車限制終止",
         "B": "前方交通燈號",
         "C": "路面狹窄"
       },
@@ -14706,7 +14706,7 @@
       "id": "B1027",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Single file traffic ahead",
+        "A": "前方單線行車",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14725,7 +14725,7 @@
       "id": "B1028",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Cyclists to keep left",
+        "A": "單車請靠左行",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14744,7 +14744,7 @@
       "id": "B1029",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Cyclists to walk on steep road",
+        "A": "陡坡路段單車須下車步行",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14763,7 +14763,7 @@
       "id": "B1030",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Traffic accident blackspot ahead",
+        "A": "前方交通意外黑點",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14782,7 +14782,7 @@
       "id": "B1031",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Pedestrian accident blackspot ahead",
+        "A": "前方行人意外黑點",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14801,7 +14801,7 @@
       "id": "B1032",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Staggered junction ahead",
+        "A": "前方錯位路口",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14820,7 +14820,7 @@
       "id": "B1033",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Side road to right ahead (left if symbol reversed)",
+        "A": "前方右側支路（符號反轉則為左側）",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14839,7 +14839,7 @@
       "id": "B1034",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Traffic merging from left",
+        "A": "左方車輛匯入",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14858,7 +14858,7 @@
       "id": "B1035",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Distance to 'Stop' line (for use with Sign 1)",
+        "A": "距離「停車」線（與標誌 1 併用）",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14877,7 +14877,7 @@
       "id": "B1036",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Merging into main traffic on right",
+        "A": "右方匯入主線",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14896,7 +14896,7 @@
       "id": "B1037",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Slip road traffic merging from left",
+        "A": "匝道左方匯入",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14915,7 +14915,7 @@
       "id": "B1038",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Merging into main traffic on right",
+        "A": "右方匯入主線",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -14934,7 +14934,7 @@
       "id": "B1039",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "New Territories taxi pick up and drop off only",
+        "A": "新界的士上落客專用",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14953,7 +14953,7 @@
       "id": "B1040",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "No through road on right",
+        "A": "右方無出口",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14972,7 +14972,7 @@
       "id": "B1041",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Place for temporary stopping of vehicle to allow others to pass",
+        "A": "臨時停車處（讓其他車輛通行）",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -14991,7 +14991,7 @@
       "id": "B1042",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Private road",
+        "A": "私家路",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -15010,7 +15010,7 @@
       "id": "B1043",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Sign at start of single track road",
+        "A": "單線路段開始標誌",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -15029,7 +15029,7 @@
       "id": "B1044",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Stop at 'Census point'",
+        "A": "在「交通普查點」停車",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -15048,7 +15048,7 @@
       "id": "B1045",
       "question": "此資訊標誌表示？",
       "options": {
-        "A": "Urban taxi pick up and drop off only",
+        "A": "市區的士上落客專用",
         "B": "必須讓路",
         "C": "禁止超車"
       },
@@ -15067,7 +15067,7 @@
       "id": "B1046",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No stopping for public light buses during time shown",
+        "A": "所示時段專線小巴不得停車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15086,7 +15086,7 @@
       "id": "B1047",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of public light buses 'no stopping' restriction",
+        "A": "專線小巴禁止停車限制終止",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15105,7 +15105,7 @@
       "id": "B1048",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Restriction does not apply to vehicle classes shown to pick up or drop off passengers (or loading/unloading goods)",
+        "A": "限制不適用於所示車種之上落客（或裝卸貨）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15124,7 +15124,7 @@
       "id": "B1049",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Pedestrian priority zone",
+        "A": "行人優先區",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15143,7 +15143,7 @@
       "id": "B1050",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Vehicles prohibited as indicated by supplementary plate",
+        "A": "依輔助牌所示之車輛禁止通行",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15162,7 +15162,7 @@
       "id": "B1051",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No motor vehicles",
+        "A": "禁止機動車輛",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15181,7 +15181,7 @@
       "id": "B1052",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No motor vehicles except motor cycles and motor tricycles",
+        "A": "除電單車及三輪電單車外禁止機動車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15200,7 +15200,7 @@
       "id": "B1053",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No motor cycles and motor tricycles",
+        "A": "禁止電單車及三輪電單車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15219,7 +15219,7 @@
       "id": "B1054",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No buses and coaches",
+        "A": "禁止巴士及旅遊車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15238,7 +15238,7 @@
       "id": "B1055",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No public light buses",
+        "A": "禁止專線小巴",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15257,7 +15257,7 @@
       "id": "B1056",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No goods vehicles",
+        "A": "禁止貨車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15276,7 +15276,7 @@
       "id": "B1057",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No motor vehicles driven by learner drivers",
+        "A": "禁止學習駕駛人士駕駛之機動車輛",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15295,7 +15295,7 @@
       "id": "B1058",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Overhead electric cable ahead",
+        "A": "前方有高架電纜",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15314,7 +15314,7 @@
       "id": "B1059",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Disabled persons ahead",
+        "A": "前方有殘疾人士",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15333,7 +15333,7 @@
       "id": "B1060",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Level crossing with barrier ahead",
+        "A": "前方設有欄杆的平交道",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15352,7 +15352,7 @@
       "id": "B1061",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Quayside or river bank ahead",
+        "A": "前方臨海或河岸",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15371,7 +15371,7 @@
       "id": "B1062",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Restricted headroom ahead",
+        "A": "前方淨空高度受限",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15390,7 +15390,7 @@
       "id": "B1063",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Bend to left ahead (right if symbol reversed)",
+        "A": "前方左彎（符號反轉則為右彎）",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15409,7 +15409,7 @@
       "id": "B1064",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Bend to right ahead (left if symbol reversed)",
+        "A": "前方右彎（符號反轉則為左彎）",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15428,7 +15428,7 @@
       "id": "B1065",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Risk of falling or fallen rocks ahead",
+        "A": "前方有落石風險",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15447,7 +15447,7 @@
       "id": "B1066",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Horses ahead",
+        "A": "前方有馬匹",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15466,7 +15466,7 @@
       "id": "B1067",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Cattle ahead",
+        "A": "前方有牛",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15485,7 +15485,7 @@
       "id": "B1068",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Fog or mist ahead",
+        "A": "前方有霧",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15504,7 +15504,7 @@
       "id": "B1069",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Bus lane ahead (Franchised buses)",
+        "A": "前方專營巴士專用線",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15523,7 +15523,7 @@
       "id": "B1070",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Keep right",
+        "A": "靠右行駛",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15542,7 +15542,7 @@
       "id": "B1071",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No pedestrians",
+        "A": "禁止行人",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15561,7 +15561,7 @@
       "id": "B1072",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No pedestrians, pedestrian controlled vehicles, bicycles and tricycles",
+        "A": "禁止行人、手推車、單車及三輪車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15580,7 +15580,7 @@
       "id": "B1073",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No bicycles and tricycles",
+        "A": "禁止單車及三輪車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15599,7 +15599,7 @@
       "id": "B1074",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No use of horn",
+        "A": "禁止響號",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15618,7 +15618,7 @@
       "id": "B1075",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No vehicles over width shown (including load)",
+        "A": "禁止車輛闊度超過所示（連載貨）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15637,7 +15637,7 @@
       "id": "B1076",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No vehicles or combinations of vehicles over length shown (including load)",
+        "A": "禁止車輛或車輛組合超過所示長度（連載貨）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15656,7 +15656,7 @@
       "id": "B1077",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No vehicles over height shown (including load)",
+        "A": "禁止車輛高度超過所示（連載貨）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15675,7 +15675,7 @@
       "id": "B1078",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Turn left",
+        "A": "向左轉",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15694,7 +15694,7 @@
       "id": "B1079",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Turn right",
+        "A": "向右轉",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15713,7 +15713,7 @@
       "id": "B1080",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No vehicles over gross vehicle weight shown (including load)",
+        "A": "禁止車輛總重量超過所示（連載貨）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15732,7 +15732,7 @@
       "id": "B1081",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No vehicles over axle weight shown (including load)",
+        "A": "禁止車輛軸重超過所示（連載貨）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15751,7 +15751,7 @@
       "id": "B1082",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Bus lane ahead (All buses)",
+        "A": "前方所有巴士專用線",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15770,7 +15770,7 @@
       "id": "B1083",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Bus lane (Franchised buses) on major road ahead",
+        "A": "前方幹道設有專營巴士專用線",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15789,7 +15789,7 @@
       "id": "B1084",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Bus lane (All buses) on major road ahead",
+        "A": "前方幹道設有所有巴士專用線",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15808,7 +15808,7 @@
       "id": "B1085",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Warning to pedestrians crossing road with bus lane",
+        "A": "提醒行人橫過設有巴士專用線之道路",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15827,7 +15827,7 @@
       "id": "B1086",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Light rail vehicles or trams ahead",
+        "A": "前方有輕鐵或電車",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15865,7 +15865,7 @@
       "id": "B1088",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Light rail vehicle lane or tram lane ahead",
+        "A": "前方輕鐵或電車專用行車線",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15884,7 +15884,7 @@
       "id": "B1089",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Light rail vehicle lane or tram lane on major road ahead",
+        "A": "前方幹道設有輕鐵或電車專用行車線",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15903,7 +15903,7 @@
       "id": "B1090",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Pedestrians on or crossing road ahead",
+        "A": "前方有行人於路上或橫過",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15922,7 +15922,7 @@
       "id": "B1091",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Cycleway ahead (cyclists on or crossing road ahead)",
+        "A": "前方單車徑（路上有單車行駛或橫過）",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15941,7 +15941,7 @@
       "id": "B1092",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Cyclists ahead",
+        "A": "前方有單車",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15960,7 +15960,7 @@
       "id": "B1093",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Two-way traffic across a one-way road ahead",
+        "A": "前方單程路上有雙向交通橫過",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -15979,7 +15979,7 @@
       "id": "B1094",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Variable speed limit (in km/h)",
+        "A": "可變速限（公里／小時）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -15998,7 +15998,7 @@
       "id": "B1095",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Prohibition does not apply to vehicles gaining access to premises adjacent to the road (see page 99)",
+        "A": "禁止不適用於前往鄰接道路處所之車輛（參見頁 99）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16017,7 +16017,7 @@
       "id": "B1096",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Prohibition or mandatory order applies to vehicles over the length shown",
+        "A": "禁止或強制指示適用於超過所示長度之車輛",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16036,7 +16036,7 @@
       "id": "B1097",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Prohibition or mandatory order applies to goods vehicles over the gross vehicle weight shown",
+        "A": "禁止或強制指示適用於總重量超過所示之貨車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16055,7 +16055,7 @@
       "id": "B1098",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Prohibition or mandatory order does not apply to vehicle classes shown",
+        "A": "禁止或強制指示不適用於所示車種",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16074,7 +16074,7 @@
       "id": "B1099",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Time plate",
+        "A": "時間輔助牌",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16093,7 +16093,7 @@
       "id": "B1100",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Day plate",
+        "A": "日期輔助牌",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16112,7 +16112,7 @@
       "id": "B1101",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Turn left at junction ahead",
+        "A": "前方路口左轉",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16131,7 +16131,7 @@
       "id": "B1102",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Turn right at junction ahead",
+        "A": "前方路口右轉",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16150,7 +16150,7 @@
       "id": "B1103",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Time and day plate",
+        "A": "時間及日期輔助牌",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16169,7 +16169,7 @@
       "id": "B1104",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Length over which the prohibition or hazard exists",
+        "A": "禁止或危險適用之長度",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16188,7 +16188,7 @@
       "id": "B1105",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of the prohibition, restriction or warning",
+        "A": "禁止／限制／警告終止",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16207,7 +16207,7 @@
       "id": "B1106",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Two-way traffic ahead",
+        "A": "前方雙向行車",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16226,7 +16226,7 @@
       "id": "B1107",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Red light:speed camera ahead",
+        "A": "前方紅燈／測速攝影",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16245,7 +16245,7 @@
       "id": "B1108",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Double bend ahead first to left",
+        "A": "前方連續彎道，先左後右",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16264,7 +16264,7 @@
       "id": "B1109",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Double bend ahead first to right",
+        "A": "前方連續彎道，先右後左",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16283,7 +16283,7 @@
       "id": "B1110",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Red light camera control zone",
+        "A": "紅燈攝影監察路段",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16302,7 +16302,7 @@
       "id": "B1111",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Plate used with Sign 33 to state the safe height",
+        "A": "與標誌 33 併用以註明安全高度之輔助牌",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16321,7 +16321,7 @@
       "id": "B1112",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "School ahead, plate used with Sign 39",
+        "A": "前方學校（與標誌 39 併用）",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16340,7 +16340,7 @@
       "id": "B1113",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Playground ahead, plate used with Sign 39",
+        "A": "前方遊樂場（與標誌 39 併用）",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16359,7 +16359,7 @@
       "id": "B1114",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Distance as shown to hazard",
+        "A": "至危險之距離如所示",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16378,7 +16378,7 @@
       "id": "B1115",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Red-on the left edge of a road",
+        "A": "道路左側邊緣紅色反光釘",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16397,7 +16397,7 @@
       "id": "B1116",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "White-on the right edge of a single carriageway",
+        "A": "單線行車道右側邊緣白色反光釘",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16416,7 +16416,7 @@
       "id": "B1117",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Amber-on the right edge of the central reservation of a dual carriageway",
+        "A": "雙程分隔公路分隔帶右側邊緣琥珀色反光釘",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16435,7 +16435,7 @@
       "id": "B1118",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Left lane shows bus lane for franchised buses only during the time shown",
+        "A": "左線於所示時段為專營巴士專用",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16454,7 +16454,7 @@
       "id": "B1119",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Left lane shows bus lane for franchised and other buses during the time shown",
+        "A": "左線於所示時段為專營及其他巴士專用",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16473,7 +16473,7 @@
       "id": "B1120",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Contraflow bus lane for franchised buses only",
+        "A": "專營巴士逆向專用線",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16492,7 +16492,7 @@
       "id": "B1121",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of bus lane",
+        "A": "巴士專用線終止",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16511,7 +16511,7 @@
       "id": "B1122",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of tram only lane",
+        "A": "電車專用行車線終止",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16530,7 +16530,7 @@
       "id": "B1123",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of rail only lane for light rail vehicles",
+        "A": "輕鐵專用行車線終止",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16549,7 +16549,7 @@
       "id": "B1124",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No wind susceptible vehicles (vehicles with an overall height exceeding 1.6m, motor cycles and motor tricycles)",
+        "A": "禁止受側風影響的車輛（總高逾 1.6 米、電單車及三輪電單車）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16568,7 +16568,7 @@
       "id": "B1125",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Sign marking start of tunnel area",
+        "A": "隧道區域開始標誌",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16587,7 +16587,7 @@
       "id": "B1126",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Sign marking end of tunnel area",
+        "A": "隧道區域終止標誌",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16606,7 +16606,7 @@
       "id": "B1127",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No vehicles carrying dangerous goods of specified categories",
+        "A": "禁止載運特定類別危險品的車輛",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16625,7 +16625,7 @@
       "id": "B1128",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Sign when used with Sign 72 to indicate the categories of dangerous goods",
+        "A": "與標誌 72 併用以指示危險品類別之輔助牌",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16644,7 +16644,7 @@
       "id": "B1129",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Parking place for specified vehicle class or type shown on sign",
+        "A": "所示車種或類別專用停車處",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16663,7 +16663,7 @@
       "id": "B1130",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Parking place for vehicles other than medium and heavy goods vehicles, buses, coaches, motor cycles and pedal cycles",
+        "A": "除中／重型貨車、巴士、旅遊車、電單車及單車外之車輛停車處",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16682,7 +16682,7 @@
       "id": "B1131",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Parking place for goods vehicles only",
+        "A": "貨車專用停車處",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16701,7 +16701,7 @@
       "id": "B1132",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Parking place for buses and coaches only",
+        "A": "巴士及旅遊車專用停車處",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16720,7 +16720,7 @@
       "id": "B1133",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Parking place for motor cycles only",
+        "A": "電單車專用停車處",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16739,7 +16739,7 @@
       "id": "B1134",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Parking place for pedal cycles only",
+        "A": "單車專用停車處",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16758,7 +16758,7 @@
       "id": "B1135",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "No parking",
+        "A": "禁止停車",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16777,7 +16777,7 @@
       "id": "B1136",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Start and continuation of an expressway",
+        "A": "快速公路開始及延續",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16796,7 +16796,7 @@
       "id": "B1137",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of an expressway",
+        "A": "快速公路終止",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16815,7 +16815,7 @@
       "id": "B1138",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Taxi stand",
+        "A": "的士站",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16834,7 +16834,7 @@
       "id": "B1139",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Urban taxi stand used with Sign 82",
+        "A": "市區的士站（與標誌 82 併用）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16853,7 +16853,7 @@
       "id": "B1140",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Road narrows on left ahead",
+        "A": "前方道路左側收窄",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16872,7 +16872,7 @@
       "id": "B1141",
       "question": "此警告性標誌表示？",
       "options": {
-        "A": "Road narrows on right ahead",
+        "A": "前方道路右側收窄",
         "B": "禁止進入",
         "C": "單向通行"
       },
@@ -16891,7 +16891,7 @@
       "id": "B1142",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "New Territories taxi stand (used with Sign 82)",
+        "A": "新界的士站（與標誌 82 併用）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16910,7 +16910,7 @@
       "id": "B1143",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Lantau taxi stand (used with Sign 82)",
+        "A": "大嶼山的士站（與標誌 82 併用）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16929,7 +16929,7 @@
       "id": "B1144",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Cross-harbour taxi stand (used with Sign 82)",
+        "A": "過海的士站（與標誌 82 併用）",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16948,7 +16948,7 @@
       "id": "B1145",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of New Territories taxis operating area",
+        "A": "新界的士營運區終止",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16967,7 +16967,7 @@
       "id": "B1146",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "End of Lantau taxis operating area",
+        "A": "大嶼山的士營運區終止",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -16986,7 +16986,7 @@
       "id": "B1147",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Green minibus stop",
+        "A": "綠色小巴上落客站",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17005,7 +17005,7 @@
       "id": "B1148",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Green minibus stand",
+        "A": "綠色小巴站",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17024,7 +17024,7 @@
       "id": "B1149",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Red minibus stop",
+        "A": "紅色小巴上落客站",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17043,7 +17043,7 @@
       "id": "B1150",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Red minibus stand",
+        "A": "紅色小巴站",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17062,7 +17062,7 @@
       "id": "B1151",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Vehicle must use the left most lane except when overtaking",
+        "A": "除超車外車輛必須靠最左行車線",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17081,7 +17081,7 @@
       "id": "B1152",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Time plate for taxi stand and taxis parking at other times",
+        "A": "的士站時間輔助牌／其他時段可泊",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17100,7 +17100,7 @@
       "id": "B1153",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Time plate for public light bus stand and public light buses parking at other times",
+        "A": "專線小巴站時間輔助牌／其他時段可泊",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17119,7 +17119,7 @@
       "id": "B1154",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Hard shoulder – do not use except in an emergency",
+        "A": "硬路肩—非緊急情況不得使用",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17138,7 +17138,7 @@
       "id": "B1155",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Lay-by, use in an emergency",
+        "A": "避車處，緊急時使用",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17157,7 +17157,7 @@
       "id": "B1156",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Cyclists must dismount and use crossing to cross the road",
+        "A": "騎者須下車，經行人過路處橫過馬路",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -17176,7 +17176,7 @@
       "id": "B1157",
       "question": "此命令性標誌表示？",
       "options": {
-        "A": "Way out for vehicles",
+        "A": "車輛出口",
         "B": "前方交通燈號",
         "C": "路面收窄"
       },
@@ -18843,349 +18843,652 @@
         "section:道路標記",
         "topic:警告線-接近危險"
       ]
-    }
-    ,
+    },
     {
       "id": "B1245",
       "question": "以下何者屬於較恰當的停車選擇？",
-      "options": {"A": "隧道內臨時停靠", "B": "斑馬線上短暫等候", "C": "路邊不設限制且不阻礙交通處"},
+      "options": {
+        "A": "隧道內臨時停靠",
+        "B": "斑馬線上短暫等候",
+        "C": "路邊不設限制且不阻礙交通處"
+      },
       "answer": "C",
       "explanation": "隧道內、斑馬線上屬高風險或禁止範圍；僅可在不設限制且不阻礙交通之安全位置停車（第五章）。",
       "difficulty": "medium",
-      "tags": ["chapter:第五章", "section:不准停車的地點", "ruc:2020-p90"]
+      "tags": [
+        "chapter:第五章",
+        "section:不准停車的地點",
+        "ruc:2020-p90"
+      ]
     },
     {
       "id": "B1246",
       "question": "接近巴士專用線（Bus Lane）時，正確做法是？",
-      "options": {"A": "專用時段內自由駛入", "B": "遵從專用限制，僅於允許情況穿越或轉線", "C": "為超車而持續在專用線行駛"},
+      "options": {
+        "A": "專用時段內自由駛入",
+        "B": "遵從專用限制，僅於允許情況穿越或轉線",
+        "C": "為超車而持續在專用線行駛"
+      },
       "answer": "B",
       "explanation": "巴士專用線於指定時段僅供指定車輛；一般車輛應遵從限制，僅在允許的情況下穿越或轉線（第五章巴士線）。",
       "difficulty": "medium",
-      "tags": ["chapter:第五章", "section:巴士線", "ruc:2020-p65"]
+      "tags": [
+        "chapter:第五章",
+        "section:巴士線",
+        "ruc:2020-p65"
+      ]
     },
     {
       "id": "B1247",
       "question": "行駛單程路（One-way）時較正確的原則為？",
-      "options": {"A": "可逆向短距離行駛", "B": "轉彎方向必須依標誌／標記規定", "C": "在任何時候都可掉頭"},
+      "options": {
+        "A": "可逆向短距離行駛",
+        "B": "轉彎方向必須依標誌／標記規定",
+        "C": "在任何時候都可掉頭"
+      },
       "answer": "B",
       "explanation": "單程路須依標誌／標記規定行駛與轉向，嚴禁逆向行駛（第五章單程路）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:單程路", "ruc:2020-p66"]
+      "tags": [
+        "chapter:第五章",
+        "section:單程路",
+        "ruc:2020-p66"
+      ]
     },
     {
       "id": "B1248",
       "question": "分隔車路（Dual Carriageway）的一般原則是？",
-      "options": {"A": "可穿越中央分隔帶掉頭", "B": "僅可在指定位置轉換方向/穿越", "C": "隨意跨越分隔亦可"},
+      "options": {
+        "A": "可穿越中央分隔帶掉頭",
+        "B": "僅可在指定位置轉換方向/穿越",
+        "C": "隨意跨越分隔亦可"
+      },
       "answer": "B",
       "explanation": "分隔車路以中央分隔分離方向，僅可於指定處穿越或掉頭（第五章分隔車路）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:分隔車路", "ruc:2020-p68"]
+      "tags": [
+        "chapter:第五章",
+        "section:分隔車路",
+        "ruc:2020-p68"
+      ]
     },
     {
       "id": "B1249",
       "question": "在車速較高的道路上較安全的駕駛策略是？",
-      "options": {"A": "緊貼前車以減少風阻", "B": "保持更長安全距離並提前觀察", "C": "頻繁變換車道以加快前進"},
+      "options": {
+        "A": "緊貼前車以減少風阻",
+        "B": "保持更長安全距離並提前觀察",
+        "C": "頻繁變換車道以加快前進"
+      },
       "answer": "B",
       "explanation": "高速路段需更長的反應與制動距離，應保持更長安全距離並提前觀察（第五章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:車速較高的道路", "ruc:2020-p69"]
+      "tags": [
+        "chapter:第五章",
+        "section:車速較高的道路",
+        "ruc:2020-p69"
+      ]
     },
     {
       "id": "B1250",
       "question": "快速公路及主幹路的正確做法為？",
-      "options": {"A": "可在路肩停車休息", "B": "嚴禁倒車或掉頭，僅在緊急情況依指示處理", "C": "行人可在路肩行走"},
+      "options": {
+        "A": "可在路肩停車休息",
+        "B": "嚴禁倒車或掉頭，僅在緊急情況依指示處理",
+        "C": "行人可在路肩行走"
+      },
       "answer": "B",
       "explanation": "快速公路及主幹路嚴禁倒車或掉頭；停車僅限緊急且依規定處理（第五章）。",
       "difficulty": "medium",
-      "tags": ["chapter:第五章", "section:快速公路及主幹路", "ruc:2020-p70"]
+      "tags": [
+        "chapter:第五章",
+        "section:快速公路及主幹路",
+        "ruc:2020-p70"
+      ]
     },
     {
       "id": "B1251",
       "question": "隧道區及管制區內，以下何者正確？",
-      "options": {"A": "可為調頭而短暫倒車", "B": "不得倒車或調頭，並嚴格遵從管制與指示", "C": "可隨意停車拍照"},
+      "options": {
+        "A": "可為調頭而短暫倒車",
+        "B": "不得倒車或調頭，並嚴格遵從管制與指示",
+        "C": "可隨意停車拍照"
+      },
       "answer": "B",
       "explanation": "隧道區及管制區屬高風險與高規範路段，嚴禁倒車/調頭，須遵從指示（第五章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:隧道區及管制區", "ruc:2020-p73"]
+      "tags": [
+        "chapter:第五章",
+        "section:隧道區及管制區",
+        "ruc:2020-p73"
+      ]
     },
     {
       "id": "B1252",
       "question": "在有交通燈的路口，綠燈左轉時較正確的做法是？",
-      "options": {"A": "直接轉彎不需理會行人", "B": "先禮讓行人與其他享有優先的交通", "C": "若無警察指示可自由轉彎"},
+      "options": {
+        "A": "直接轉彎不需理會行人",
+        "B": "先禮讓行人與其他享有優先的交通",
+        "C": "若無警察指示可自由轉彎"
+      },
       "answer": "B",
       "explanation": "燈號允許不代表絕對優先，轉彎時仍須禮讓行人與享有優先的交通（第五章有交通燈的路口）。",
       "difficulty": "medium",
-      "tags": ["chapter:第五章", "section:有交通燈的路口", "ruc:2020-p78"]
+      "tags": [
+        "chapter:第五章",
+        "section:有交通燈的路口",
+        "ruc:2020-p78"
+      ]
     },
     {
       "id": "B1253",
       "question": "遇到『必須停車或讓路』標誌（或標記）時，正確做法為？",
-      "options": {"A": "視情況略過", "B": "完全停車或讓路，按規定再起步", "C": "只要沒車就直接通過"},
+      "options": {
+        "A": "視情況略過",
+        "B": "完全停車或讓路，按規定再起步",
+        "C": "只要沒車就直接通過"
+      },
       "answer": "B",
       "explanation": "必停/讓路屬明確指示，應完全停車或讓路，確認安全後再起步（第五章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:必停與讓路", "ruc:2020-p79"]
+      "tags": [
+        "chapter:第五章",
+        "section:必停與讓路",
+        "ruc:2020-p79"
+      ]
     },
     {
       "id": "B1254",
       "question": "接近設有『綠色人像』的過路處時，駕駛者應？",
-      "options": {"A": "加速搶先通過", "B": "注意燈號變化並禮讓正在或準備橫過的行人", "C": "僅在紅燈時才需讓行"},
+      "options": {
+        "A": "加速搶先通過",
+        "B": "注意燈號變化並禮讓正在或準備橫過的行人",
+        "C": "僅在紅燈時才需讓行"
+      },
       "answer": "B",
       "explanation": "綠色人像相關設施提示行人通行狀態，駕駛者應格外注意與禮讓（第五章綠色人像過路處）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:綠色人像過路處", "ruc:2020-p85"]
+      "tags": [
+        "chapter:第五章",
+        "section:綠色人像過路處",
+        "ruc:2020-p85"
+      ]
     },
     {
       "id": "B1255",
       "question": "『交通標誌系統』的核心目的為？",
-      "options": {"A": "僅提供觀光資訊", "B": "以統一形式向用路者發出指令、警告與提示", "C": "只規範道路標記"},
+      "options": {
+        "A": "僅提供觀光資訊",
+        "B": "以統一形式向用路者發出指令、警告與提示",
+        "C": "只規範道路標記"
+      },
       "answer": "B",
       "explanation": "交通標誌系統以標準化的圖形/顏色傳達指令、警告及提示資訊（第八章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第八章", "section:交通標誌系統", "ruc:2020-p109"]
+      "tags": [
+        "chapter:第八章",
+        "section:交通標誌系統",
+        "ruc:2020-p109"
+      ]
     },
     {
       "id": "B1256",
       "question": "主要幹線號碼標誌的主要作用是？",
-      "options": {"A": "表示速限大小", "B": "標示幹線路線編號以利導航與識別", "C": "僅提醒道路施工"},
+      "options": {
+        "A": "表示速限大小",
+        "B": "標示幹線路線編號以利導航與識別",
+        "C": "僅提醒道路施工"
+      },
       "answer": "B",
       "explanation": "主要幹線號碼用以標示道路幹線編號，協助導航與路網識別（第八章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第八章", "section:主要幹線號碼", "ruc:2020-p128"]
+      "tags": [
+        "chapter:第八章",
+        "section:主要幹線號碼",
+        "ruc:2020-p128"
+      ]
     },
     {
       "id": "B1257",
       "question": "車輛在路上中途壞車時，較合適的警告方式為？",
-      "options": {"A": "關閉所有燈光避免耗電", "B": "開啟警示燈，並於安全位置設置警告標誌/三角牌", "C": "留在車內等待拖車但不做任何警告"},
+      "options": {
+        "A": "關閉所有燈光避免耗電",
+        "B": "開啟警示燈，並於安全位置設置警告標誌/三角牌",
+        "C": "留在車內等待拖車但不做任何警告"
+      },
       "answer": "B",
       "explanation": "應立即作出明顯警告（如開啟警示燈、設置警告標誌），並確保人員安全（第十章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第十章", "section:警告其他駕駛人", "ruc:2020-p134"]
+      "tags": [
+        "chapter:第十章",
+        "section:警告其他駕駛人",
+        "ruc:2020-p134"
+      ]
     },
     {
       "id": "B1258",
       "question": "發生交通意外的首要處理次序較恰當的是？",
-      "options": {"A": "馬上移車離開", "B": "先確保安全與警告他人，再求助/報警與協助傷者", "C": "先與對方爭論責任"},
+      "options": {
+        "A": "馬上移車離開",
+        "B": "先確保安全與警告他人，再求助/報警與協助傷者",
+        "C": "先與對方爭論責任"
+      },
       "answer": "B",
       "explanation": "先確保現場安全與發出警告，隨後報警與協助傷者（第十章交通意外）。",
       "difficulty": "easy",
-      "tags": ["chapter:第十章", "section:交通意外", "ruc:2020-p135"]
+      "tags": [
+        "chapter:第十章",
+        "section:交通意外",
+        "ruc:2020-p135"
+      ]
     },
     {
       "id": "B1259",
       "question": "路上急救的一般原則較恰當的是？",
-      "options": {"A": "無需求助自行處理", "B": "確保自身安全、求助、維持呼吸道通暢與止血", "C": "為方便搬運先移動所有傷者"},
+      "options": {
+        "A": "無需求助自行處理",
+        "B": "確保自身安全、求助、維持呼吸道通暢與止血",
+        "C": "為方便搬運先移動所有傷者"
+      },
       "answer": "B",
       "explanation": "急救原則包括先確保安全、立即求助、維持氣道通暢、必要時止血與基本處置（第十章）。",
       "difficulty": "medium",
-      "tags": ["chapter:第十章", "section:在路上急救", "ruc:2020-p138"]
+      "tags": [
+        "chapter:第十章",
+        "section:在路上急救",
+        "ruc:2020-p138"
+      ]
     },
     {
       "id": "B1260",
       "question": "『不准停車的地點』之目的在於？",
-      "options": {"A": "增加車位周轉", "B": "維持安全與暢通，避免造成阻礙或危險", "C": "鼓勵快速上落客"},
+      "options": {
+        "A": "增加車位周轉",
+        "B": "維持安全與暢通，避免造成阻礙或危險",
+        "C": "鼓勵快速上落客"
+      },
       "answer": "B",
       "explanation": "不准停車的地點多設於視野/流量敏感位置，以維持安全與暢通（第五章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:不准停車的地點", "ruc:2020-p90"]
+      "tags": [
+        "chapter:第五章",
+        "section:不准停車的地點",
+        "ruc:2020-p90"
+      ]
     },
     {
       "id": "B1261",
       "question": "在『准許泊車的地點』泊車前較恰當的檢查為？",
-      "options": {"A": "只要有空位即可", "B": "確認無限制標誌/標記且不阻礙其他道路使用者", "C": "可佔用行人路方便上下客"},
+      "options": {
+        "A": "只要有空位即可",
+        "B": "確認無限制標誌/標記且不阻礙其他道路使用者",
+        "C": "可佔用行人路方便上下客"
+      },
       "answer": "B",
       "explanation": "合法泊車應確認現場標誌/標記允許，並確保不阻礙行人與車輛（第五章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:准許泊車的地點", "ruc:2020-p94"]
+      "tags": [
+        "chapter:第五章",
+        "section:准許泊車的地點",
+        "ruc:2020-p94"
+      ]
     },
     {
       "id": "B1262",
       "question": "在『泊車』操作上較安全的做法是？",
-      "options": {"A": "盲目倒車入位", "B": "打燈示意、觀察鏡與盲點、慢速控制入位", "C": "快速切入以免被搶位"},
+      "options": {
+        "A": "盲目倒車入位",
+        "B": "打燈示意、觀察鏡與盲點、慢速控制入位",
+        "C": "快速切入以免被搶位"
+      },
       "answer": "B",
       "explanation": "泊車前應先示意並充分觀察，低速穩定控制入位（第五章泊車）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:泊車", "ruc:2020-p95"]
+      "tags": [
+        "chapter:第五章",
+        "section:泊車",
+        "ruc:2020-p95"
+      ]
     },
     {
       "id": "B1263",
       "question": "安全超車（俗稱『扒頭』）的較正確做法是？",
-      "options": {"A": "只要速度快即可隨時超車", "B": "確保法例許可、視野與距離足夠且不超速", "C": "在彎道內側快速超越"},
+      "options": {
+        "A": "只要速度快即可隨時超車",
+        "B": "確保法例許可、視野與距離足夠且不超速",
+        "C": "在彎道內側快速超越"
+      },
       "answer": "B",
       "explanation": "超車須於法例許可、標誌/標記不禁止、視野/距離充足且不超速之條件下進行（第五章超車）。",
       "difficulty": "medium",
-      "tags": ["chapter:第五章", "section:超車 （俗稱 「扒頭」 ）", "ruc:2020-p56"]
+      "tags": [
+        "chapter:第五章",
+        "section:超車 （俗稱 「扒頭」 ）",
+        "ruc:2020-p56"
+      ]
     },
     {
       "id": "B1264",
       "question": "在窄路或陡坡會車時，較恰當的原則是？",
-      "options": {"A": "上坡車輛通常享有優先通行", "B": "下坡車輛應優先通行", "C": "誰先按喇叭誰先行"},
+      "options": {
+        "A": "上坡車輛通常享有優先通行",
+        "B": "下坡車輛應優先通行",
+        "C": "誰先按喇叭誰先行"
+      },
       "answer": "A",
       "explanation": "在斜坡會車，上坡車輛再起步較困難，一般應給予優先；應善用會車位與減速讓行（第五章窄路、斜坡）。",
       "difficulty": "medium",
-      "tags": ["chapter:第五章", "section:窄路、斜坡", "ruc:2020-p67"]
+      "tags": [
+        "chapter:第五章",
+        "section:窄路、斜坡",
+        "ruc:2020-p67"
+      ]
     },
     {
       "id": "B1265",
       "question": "白線及行車線的正確理解為？",
-      "options": {"A": "實線可任意跨越", "B": "虛線表示可在安全情況下跨越；實線一般不可跨越", "C": "虛線與實線無差別"},
+      "options": {
+        "A": "實線可任意跨越",
+        "B": "虛線表示可在安全情況下跨越；實線一般不可跨越",
+        "C": "虛線與實線無差別"
+      },
       "answer": "B",
       "explanation": "虛線為可在安全下跨越的分隔或引導；實線多為禁止跨越或限制更嚴（第五章白線及行車線）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:白線及行車線", "ruc:2020-p62"]
+      "tags": [
+        "chapter:第五章",
+        "section:白線及行車線",
+        "ruc:2020-p62"
+      ]
     },
     {
       "id": "B1266",
       "question": "接近行人或單車者時較安全的做法是？",
-      "options": {"A": "靠得很近以便超越", "B": "預留更大側向距離並減速通過", "C": "鳴笛催促讓路"},
+      "options": {
+        "A": "靠得很近以便超越",
+        "B": "預留更大側向距離並減速通過",
+        "C": "鳴笛催促讓路"
+      },
       "answer": "B",
       "explanation": "行人與單車者防護弱，應減速並留足側向距離，避免驚嚇與風險（第五章行人與騎單車者）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:行人與騎單車者", "ruc:2020-p58"]
+      "tags": [
+        "chapter:第五章",
+        "section:行人與騎單車者",
+        "ruc:2020-p58"
+      ]
     },
     {
       "id": "B1267",
       "question": "面對其他道路使用者（如大型車、電單車、巴士）較安全的策略是？",
-      "options": {"A": "緊貼尾隨以免被插隊", "B": "注意盲點並保持更大緩衝距離", "C": "頻繁切線避免被阻擋"},
+      "options": {
+        "A": "緊貼尾隨以免被插隊",
+        "B": "注意盲點並保持更大緩衝距離",
+        "C": "頻繁切線避免被阻擋"
+      },
       "answer": "B",
       "explanation": "大型車盲點多、視野受限；電單車加速靈活，應保持更大緩衝與提早觀察（第五章其他道路使用者）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:其他道路使用者", "ruc:2020-p61"]
+      "tags": [
+        "chapter:第五章",
+        "section:其他道路使用者",
+        "ruc:2020-p61"
+      ]
     },
     {
       "id": "B1268",
       "question": "駕駛時應注意的事項包括？",
-      "options": {"A": "只看近處前車即可", "B": "目光遠視、鏡面掃描、保持安全距離並避免分心", "C": "使用手機導航時可手持操作"},
+      "options": {
+        "A": "只看近處前車即可",
+        "B": "目光遠視、鏡面掃描、保持安全距離並避免分心",
+        "C": "使用手機導航時可手持操作"
+      },
       "answer": "B",
       "explanation": "良好觀察與預判、保持距離並避免分心，是安全駕駛核心（第五章駕駛時應注意的事項）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:駕駛時應注意的事項", "ruc:2020-p50"]
+      "tags": [
+        "chapter:第五章",
+        "section:駕駛時應注意的事項",
+        "ruc:2020-p50"
+      ]
     },
     {
       "id": "B1269",
       "question": "出車前較基本的安全檢查包括？",
-      "options": {"A": "只要油量足夠即可", "B": "輪胎、燈號、剎車與鏡面等關鍵項目", "C": "只檢查擋風玻璃是否乾淨"},
+      "options": {
+        "A": "只要油量足夠即可",
+        "B": "輪胎、燈號、剎車與鏡面等關鍵項目",
+        "C": "只檢查擋風玻璃是否乾淨"
+      },
       "answer": "B",
       "explanation": "出車前應檢查胎壓與磨耗、燈號、剎車、鏡面與液位等（第五章安全檢查）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:安全檢查", "ruc:2020-p42"]
+      "tags": [
+        "chapter:第五章",
+        "section:安全檢查",
+        "ruc:2020-p42"
+      ]
     },
     {
       "id": "B1270",
       "question": "確保兒童乘車安全的較妥做法為？",
-      "options": {"A": "讓兒童坐前座較方便", "B": "使用合適的兒童約束系統並全程繫妥安全帶", "C": "短途可不繫安全帶"},
+      "options": {
+        "A": "讓兒童坐前座較方便",
+        "B": "使用合適的兒童約束系統並全程繫妥安全帶",
+        "C": "短途可不繫安全帶"
+      },
       "answer": "B",
       "explanation": "兒童應使用合適身高/體重的座椅或增高墊，並繫好安全帶，切勿獨留車內（第五章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:確保兒童乘車安全", "ruc:2020-p45"]
+      "tags": [
+        "chapter:第五章",
+        "section:確保兒童乘車安全",
+        "ruc:2020-p45"
+      ]
     },
     {
       "id": "B1271",
       "question": "關於駕駛教育，下列較正確的是？",
-      "options": {"A": "考到牌後毋須再學習", "B": "持續學習防禦性駕駛與更新道路知識", "C": "只要會操作車輛即可"},
+      "options": {
+        "A": "考到牌後毋須再學習",
+        "B": "持續學習防禦性駕駛與更新道路知識",
+        "C": "只要會操作車輛即可"
+      },
       "answer": "B",
       "explanation": "駕駛教育強調持續學習與防禦性駕駛觀念，提升安全與判斷（第五章駕駛教育）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:駕駛教育", "ruc:2020-p47"]
+      "tags": [
+        "chapter:第五章",
+        "section:駕駛教育",
+        "ruc:2020-p47"
+      ]
     },
     {
       "id": "B1272",
       "question": "『駕駛車輛』的基本責任包含？",
-      "options": {"A": "只需確保燃油足夠", "B": "車輛狀況良好並遵守法例與道路標誌/標記", "C": "趕時間時可忽略規定"},
+      "options": {
+        "A": "只需確保燃油足夠",
+        "B": "車輛狀況良好並遵守法例與道路標誌/標記",
+        "C": "趕時間時可忽略規定"
+      },
       "answer": "B",
       "explanation": "駕駛者應確保車況適宜上路，並遵守法例及道路指示，保障自身與他人安全（第五章駕駛車輛）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:駕駛車輛", "ruc:2020-p41"]
+      "tags": [
+        "chapter:第五章",
+        "section:駕駛車輛",
+        "ruc:2020-p41"
+      ]
     },
     {
       "id": "B1273",
       "question": "遇到『必須停車』標誌且有停止線時，正確做法為？",
-      "options": {"A": "減速通過即可", "B": "必須停至完全靜止再按情況前進", "C": "若無他車行人可不必停"},
+      "options": {
+        "A": "減速通過即可",
+        "B": "必須停至完全靜止再按情況前進",
+        "C": "若無他車行人可不必停"
+      },
       "answer": "B",
       "explanation": "『必須停車』屬強制指示，應在停止線前完全停車，確認安全後再起步（第五章必須停車或讓路的路口）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:必須停車或讓路的路口", "ruc:2020-p79"]
+      "tags": [
+        "chapter:第五章",
+        "section:必須停車或讓路的路口",
+        "ruc:2020-p79"
+      ]
     },
     {
       "id": "B1274",
       "question": "在雨、霧或強風天氣行車時較安全的策略是？",
-      "options": {"A": "保持原本速度", "B": "降低速度、拉開車距並開啟合適燈號", "C": "緊貼前車減少風阻"},
+      "options": {
+        "A": "保持原本速度",
+        "B": "降低速度、拉開車距並開啟合適燈號",
+        "C": "緊貼前車減少風阻"
+      },
       "answer": "B",
       "explanation": "惡劣天氣需降低速度與增加車距，並使用合適燈號提升可見度（第五章雨、霧、風）。",
       "difficulty": "easy",
-      "tags": ["chapter:第五章", "section:雨、霧、風", "ruc:2020-p87"]
+      "tags": [
+        "chapter:第五章",
+        "section:雨、霧、風",
+        "ruc:2020-p87"
+      ]
     },
     {
       "id": "B1275",
       "question": "靠近行人路或路口時，駕駛者較恰當的做法是？",
-      "options": {"A": "優先加速通過", "B": "減速觀察並禮讓正在或準備橫過的行人", "C": "只要綠燈就不用理會行人"},
+      "options": {
+        "A": "優先加速通過",
+        "B": "減速觀察並禮讓正在或準備橫過的行人",
+        "C": "只要綠燈就不用理會行人"
+      },
       "answer": "B",
       "explanation": "行人路與路口常有行人穿越，應減速與禮讓，提升安全（第二章使用道路和行人路）。",
       "difficulty": "easy",
-      "tags": ["chapter:第二章", "section:使用道路和行人路", "ruc:2020-p6"]
+      "tags": [
+        "chapter:第二章",
+        "section:使用道路和行人路",
+        "ruc:2020-p6"
+      ]
     },
     {
       "id": "B1276",
       "question": "遇見使用『綠色人像』過路設施的行人時，駕駛者應？",
-      "options": {"A": "只要行人道是紅燈即可先行", "B": "注意燈號與行人動向並禮讓正在通過者", "C": "與行人競速通過"},
+      "options": {
+        "A": "只要行人道是紅燈即可先行",
+        "B": "注意燈號與行人動向並禮讓正在通過者",
+        "C": "與行人競速通過"
+      },
       "answer": "B",
       "explanation": "『綠色人像』過路設施顯示行人通行狀態，駕駛者應格外留意並禮讓（第二章使用「綠色人像」過路）。",
       "difficulty": "easy",
-      "tags": ["chapter:第二章", "section:使用 「綠色人像」 過路", "ruc:2020-p16"]
+      "tags": [
+        "chapter:第二章",
+        "section:使用 「綠色人像」 過路",
+        "ruc:2020-p16"
+      ]
     },
     {
       "id": "B1277",
       "question": "『指示駕駛人和騎單車者』的標誌主要用途是？",
-      "options": {"A": "強制命令類標誌", "B": "提供方向/路線/設施等指示資訊", "C": "僅用作臨時施工"},
+      "options": {
+        "A": "強制命令類標誌",
+        "B": "提供方向/路線/設施等指示資訊",
+        "C": "僅用作臨時施工"
+      },
       "answer": "B",
       "explanation": "此類標誌提供行駛方向、設施位置與路線資訊，協助選擇與導航（第八章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第八章", "section:指示駕駛人 和騎單車者", "ruc:2020-p107"]
+      "tags": [
+        "chapter:第八章",
+        "section:指示駕駛人 和騎單車者",
+        "ruc:2020-p107"
+      ]
     },
     {
       "id": "B1278",
       "question": "『發出指令的交通標誌』的特點為？",
-      "options": {"A": "僅作參考", "B": "屬強制指示，必須遵守", "C": "只用於鄉郊道路"},
+      "options": {
+        "A": "僅作參考",
+        "B": "屬強制指示，必須遵守",
+        "C": "只用於鄉郊道路"
+      },
       "answer": "B",
       "explanation": "指令性標誌屬強制，違反可能帶來法律後果與安全風險（第八章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第八章", "section:發出指令的交通標誌", "ruc:2020-p111"]
+      "tags": [
+        "chapter:第八章",
+        "section:發出指令的交通標誌",
+        "ruc:2020-p111"
+      ]
     },
     {
       "id": "B1279",
       "question": "方向標誌的功能較恰當的描述是？",
-      "options": {"A": "顯示速限", "B": "提供目的地/路線方向與出口資訊", "C": "只提示臨時情況"},
+      "options": {
+        "A": "顯示速限",
+        "B": "提供目的地/路線方向與出口資訊",
+        "C": "只提示臨時情況"
+      },
       "answer": "B",
       "explanation": "方向標誌提供前方出口、路線與目的地資訊，協助駕駛抉擇（第八章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第八章", "section:方向標誌", "ruc:2020-p121"]
+      "tags": [
+        "chapter:第八章",
+        "section:方向標誌",
+        "ruc:2020-p121"
+      ]
     },
     {
       "id": "B1280",
       "question": "『發出提示的交通標誌』較恰當的描述為？",
-      "options": {"A": "指令駕駛者必須做什麼", "B": "提供設施/服務或情況的資訊提示", "C": "只在高速公路使用"},
+      "options": {
+        "A": "指令駕駛者必須做什麼",
+        "B": "提供設施/服務或情況的資訊提示",
+        "C": "只在高速公路使用"
+      },
       "answer": "B",
       "explanation": "提示性標誌提供設施/服務/情況等資訊（如停車場、醫院、加油站），協助預先決策（第八章）。",
       "difficulty": "easy",
-      "tags": ["chapter:第八章", "section:發出提示的交通標誌", "ruc:2020-p122"]
+      "tags": [
+        "chapter:第八章",
+        "section:發出提示的交通標誌",
+        "ruc:2020-p122"
+      ]
     },
     {
       "id": "B1281",
       "question": "關於交通意外後『應做的事』，較正確的次序是？",
-      "options": {"A": "立即移車離開現場", "B": "先確保安全並警告他人，再求助/報警與協助傷者", "C": "先與對方討論賠償"},
+      "options": {
+        "A": "立即移車離開現場",
+        "B": "先確保安全並警告他人，再求助/報警與協助傷者",
+        "C": "先與對方討論賠償"
+      },
       "answer": "B",
       "explanation": "應先保護現場安全與作出警告，隨後報警與協助傷者（第十章應做的事）。",
       "difficulty": "easy",
-      "tags": ["chapter:第十章", "section:應做的事", "ruc:2020-p137"]
+      "tags": [
+        "chapter:第十章",
+        "section:應做的事",
+        "ruc:2020-p137"
+      ]
     },
     {
       "id": "B1282",
       "question": "正確的行車位置原則為？",
-      "options": {"A": "隨時使用最右車道", "B": "一般保持靠左車道，超車或準備轉右時才使用右側車道", "C": "為避免被切線，長期佔用中間或右側車道"},
+      "options": {
+        "A": "隨時使用最右車道",
+        "B": "一般保持靠左車道，超車或準備轉右時才使用右側車道",
+        "C": "為避免被切線，長期佔用中間或右側車道"
+      },
       "answer": "B",
       "explanation": "左側通行制度下一般應保持靠左，僅在超車或需要轉右/按導向時使用右側車道（第七章行車位置）。",
       "difficulty": "easy",
-      "tags": ["chapter:第七章", "section:行車位置", "ruc:2020-p102"]
+      "tags": [
+        "chapter:第七章",
+        "section:行車位置",
+        "ruc:2020-p102"
+      ]
     }
   ]
 }
