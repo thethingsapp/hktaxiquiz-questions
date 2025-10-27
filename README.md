@@ -8,7 +8,7 @@
 ├── part_a1_questions.json         # 甲部 - 的士則例（275 題）
 ├── part_a2_questions.json         # 甲部 - 地方（地點題 1–230，共 230 題）
 ├── part_a3_questions.json         # 甲部 - 路線（路線題 231–245，共 15 題）
-├── part_b_questions.json          # 乙部 - 地方試題
+├── part_b_questions.json          # 乙部 - 道路使用者守則
 ├── part_b_questions.json.version  # 版本號
 ├── part_c_questions.json          # 丙部 - 道路守則
 └── part_c_questions.json.version  # 版本號
