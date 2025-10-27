@@ -9,9 +9,10 @@
 ├── part_a2_questions.json         # 甲部 - 地方（地點題 1–230，共 230 題）
 ├── part_a3_questions.json         # 甲部 - 路線（路線題 231–245，共 15 題）
 ├── part_b_questions.json          # 乙部 - 道路使用者守則
-├── part_b_questions.json.version  # 版本號
-├── part_c_questions.json          # 丙部 - 道路守則
-└── part_c_questions.json.version  # 版本號
+├── part_a1_questions.json.version # 版本號
+├── part_a2_questions.json.version # 版本號
+├── part_a3_questions.json.version # 版本號
+└── part_b_questions.json.version  # 版本號
 ```
 
 ## 📊 題目統計（甲部）
@@ -20,7 +21,7 @@
 - 甲部 A2（地方：1–230）：230 題
 - 甲部 A3（路線：231–245）：15 題
 
-> 備註：乙部與丙部仍沿用既有檔案，實際題數以對應 JSON 的 `totalQuestions` 欄位為準。
+> 備註：乙部仍沿用既有單檔結構，實際題數以對應 JSON 的 `totalQuestions` 欄位為準。
 
 ## 🔄 版本管理
 

@@ -14,12 +14,14 @@ Base URL (已配置在 APP 中):
 https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main
 
 完整文件 URL:
-https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a_questions.json
-https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a_questions.json.version
+https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a1_questions.json
+https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a1_questions.json.version
+https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a2_questions.json
+https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a2_questions.json.version
+https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a3_questions.json
+https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a3_questions.json.version
 https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_b_questions.json
 https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_b_questions.json.version
-https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_c_questions.json
-https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_c_questions.json.version
 ```
 
 ## 📋 待完成步驟
@@ -58,21 +60,23 @@ git push -u origin main
 
 訪問：https://github.com/thethingsapp/hktaxiquiz-questions
 
-應該看到 8 個文件：
+應該看到 12 個文件：
 - .gitignore
 - README.md
-- part_a_questions.json
-- part_a_questions.json.version
+- part_a1_questions.json
+- part_a1_questions.json.version
+- part_a2_questions.json
+- part_a2_questions.json.version
+- part_a3_questions.json
+- part_a3_questions.json.version
 - part_b_questions.json
 - part_b_questions.json.version
-- part_c_questions.json
-- part_c_questions.json.version
 
 #### 4. 測試 CDN 訪問
 
 在瀏覽器打開（上傳後等待 5-10 分鐘）：
 ```
-https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a_questions.json
+https://cdn.jsdelivr.net/gh/thethingsapp/hktaxiquiz-questions@main/part_a1_questions.json
 ```
 
 應該能看到 JSON 內容。
@@ -108,14 +112,14 @@ flutter run
 cd /Users/louiswong/Desktop/development/hktaxiquiz-questions
 
 # 1. 編輯題目文件
-open part_a_questions.json  # 或使用任何編輯器
+open part_a1_questions.json  # 或使用任何編輯器
 
 # 2. 更新版本號
-echo "v1.0.1" > part_a_questions.json.version
+echo "v1.0.1" > part_a1_questions.json.version
 
 # 3. 提交並推送
 git add .
-git commit -m "修正甲部第3題答案 (v1.0.1)"
+git commit -m "修正甲部A1第3題答案 (v1.0.1)"
 git push
 
 # 4. 完成！用戶下次啟動 APP 會自動下載
@@ -149,7 +153,7 @@ git remote -v
 ### 更新題目模板
 ```bash
 # 修正錯誤
-git add part_a_questions.json part_a_questions.json.version
+git add part_a1_questions.json part_a1_questions.json.version
 git commit -m "修正甲部第X題答案 (v1.0.1)"
 git push
 

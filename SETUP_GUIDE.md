@@ -13,15 +13,17 @@
 ### 2. 文件清單
 ```
 hktaxiquiz-questions/
-├── .git/                           # Git 倉庫
-├── .gitignore                      # Git 忽略文件
-├── README.md                       # 說明文檔
-├── part_a_questions.json           # 甲部題庫
-├── part_a_questions.json.version   # v1.0.0
-├── part_b_questions.json           # 乙部題庫
-├── part_b_questions.json.version   # v1.0.0
-├── part_c_questions.json           # 丙部題庫
-└── part_c_questions.json.version   # v1.0.0
+├── .git/                            # Git 倉庫
+├── .gitignore                       # Git 忽略文件
+├── README.md                        # 說明文檔
+├── part_a1_questions.json           # 甲部 - 的士則例
+├── part_a1_questions.json.version   # v1.0.0
+├── part_a2_questions.json           # 甲部 - 地方
+├── part_a2_questions.json.version   # v1.0.0
+├── part_a3_questions.json           # 甲部 - 路線
+├── part_a3_questions.json.version   # v1.0.0
+├── part_b_questions.json            # 乙部 - 道路使用者守則
+└── part_b_questions.json.version    # v1.0.0
 ```
 
 ---
@@ -77,12 +79,10 @@ git push -u origin main
 1. 刷新 GitHub repository 頁面
 2. 應該能看到以下文件：
    - README.md
-   - part_a_questions.json
-   - part_a_questions.json.version
-   - part_b_questions.json
-   - part_b_questions.json.version
-   - part_c_questions.json
-   - part_c_questions.json.version
+   - part_a1_questions.json / .version
+   - part_a2_questions.json / .version
+   - part_a3_questions.json / .version
+   - part_b_questions.json / .version
 
 ---
 
@@ -92,12 +92,12 @@ git push -u origin main
 
 #### GitHub Raw URL（直接訪問）
 ```
-https://raw.githubusercontent.com/你的用戶名/hktaxiquiz-questions/main/part_a_questions.json
+https://raw.githubusercontent.com/你的用戶名/hktaxiquiz-questions/main/part_a1_questions.json
 ```
 
 #### jsDelivr CDN URL（推薦，更快）
 ```
-https://cdn.jsdelivr.net/gh/你的用戶名/hktaxiquiz-questions@main/part_a_questions.json
+https://cdn.jsdelivr.net/gh/你的用戶名/hktaxiquiz-questions@main/part_a1_questions.json
 ```
 
 **測試 URL**：
@@ -112,16 +112,7 @@ https://cdn.jsdelivr.net/gh/你的用戶名/hktaxiquiz-questions@main/part_a_que
    /Users/louiswong/Desktop/development/hktaxiquiz/lib/core/services/remote_question_service.dart
    ```
 
-2. **找到第 22 行**：
-   ```dart
-   static const String baseUrl = 'https://your-server.com/questions';
-   ```
-
-3. **替換為你的 CDN URL**（記得替換用戶名）：
-   ```dart
-   static const String baseUrl = 
-       'https://cdn.jsdelivr.net/gh/你的GitHub用戶名/hktaxiquiz-questions@main';
-   ```
+2. 確認來源設定：目前已預設使用 jsDelivr（並內建 GitHub Raw 備援），通常無需修改。
 
 4. **保存文件**
 
@@ -138,9 +129,10 @@ flutter run
 # 查看日誌（等待 2-3 秒）
 # 應該看到：
 # 🔍 檢查題庫更新...
-# ✓ part_a_questions.json 已是最新版本 (v1.0.0)
+# ✓ part_a1_questions.json 已是最新版本 (v1.0.0)
+# ✓ part_a2_questions.json 已是最新版本 (v1.0.0)
+# ✓ part_a3_questions.json 已是最新版本 (v1.0.0)
 # ✓ part_b_questions.json 已是最新版本 (v1.0.0)
-# ✓ part_c_questions.json 已是最新版本 (v1.0.0)
 # ✅ 題庫更新檢查完成
 ```
 
@@ -148,9 +140,8 @@ flutter run
 1. 進入「設置」頁面
 2. 點擊「題庫版本資訊」
 3. 應該顯示：
-   - 甲部：v1.0.0（本地下載）
-   - 乙部：v1.0.0（本地下載）
-   - 丙部：v1.0.0（本地下載）
+   - 甲部-的士則例 / 甲部-地方 / 甲部-路線：各自版本（本地下載或內嵌）
+   - 乙部-道路使用者守則：版本（本地下載或內嵌）
 
 ---
 
@@ -162,13 +153,13 @@ flutter run
 cd /Users/louiswong/Desktop/development/hktaxiquiz-questions
 
 # 1. 編輯文件
-# 修改 part_a_questions.json 中的錯誤
+# 修改 part_a1_questions.json 中的錯誤
 
 # 2. 更新版本號
-echo "v1.0.1" > part_a_questions.json.version
+echo "v1.0.1" > part_a1_questions.json.version
 
 # 3. 提交更改
-git add part_a_questions.json part_a_questions.json.version
+git add part_a1_questions.json part_a1_questions.json.version
 git commit -m "修正甲部第3題答案 (v1.0.1)"
 git push
 
@@ -181,13 +172,13 @@ git push
 cd /Users/louiswong/Desktop/development/hktaxiquiz-questions
 
 # 1. 編輯文件，新增題目
-# 修改 part_a_questions.json，增加新題目
+# 修改 part_a1_questions.json，增加新題目
 
 # 2. 更新版本號（次版本號+1）
-echo "v1.1.0" > part_a_questions.json.version
+echo "v1.1.0" > part_a1_questions.json.version
 
 # 3. 提交更改
-git add part_a_questions.json part_a_questions.json.version
+git add part_a1_questions.json part_a1_questions.json.version
 git commit -m "新增甲部5題 (v1.1.0)"
 git push
 ```
@@ -196,7 +187,7 @@ git push
 
 ```bash
 # 更新版本號（主版本號+1）
-echo "v2.0.0" > part_a_questions.json.version
+echo "v2.0.0" > part_a1_questions.json.version
 
 git commit -m "重做甲部題庫 (v2.0.0)"
 git push
