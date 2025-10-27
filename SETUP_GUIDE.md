@@ -279,7 +279,7 @@ git remote -v
 # 更新題目流程
 # 1. 編輯 JSON 文件
 # 2. 更新版本號
-echo "v1.0.1" > part_a_questions.json.version
+echo "v1.0.1" > part_a1_questions.json.version
 # 3. 提交
 git add .
 git commit -m "更新描述"
