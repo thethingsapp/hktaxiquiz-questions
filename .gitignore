@@ -9,3 +9,7 @@
 # Temporary files
 *.tmp
 .*.swp
+
+# Python
+__pycache__/
+*.pyc
